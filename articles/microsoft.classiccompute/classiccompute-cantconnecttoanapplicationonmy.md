@@ -1,6 +1,6 @@
 <properties 
-    pageTitle="I can't connect to an application on my VM"
-    description="I can't connect to an application on my VM "
+    pageTitle="我无法连接到 VM 上的应用程序"
+    description="我无法连接到 VM 上的应用程序 "
     service="microsoft.classiccompute"
     resource="virtualmachines"
     authors="kasparks"
@@ -9,21 +9,26 @@
     supportTopicIds=""
     productPesIds=""
     resourceTags="windows, linux"
-	cloudEnvironments="public"	 
+    cloudEnvironments="public"   
  />
 
-# I can't connect to an application on my VM
+# 我无法连接到 VM 上的应用程序
 
-## **Recommended steps**
-First ensure you are able to RDP or SSH to the VM, and then try the following steps.
+## **建议的步骤**
+首先，请确保能够通过 RDP 或 SSH 连接到 VM，然后尝试以下步骤。
 
-1. Verify the application is listening on the expected ports and endpoints <br>
-Use the 'netstat -a' command to show active listening ports on the VM and check the endpoint's ACL rules for public and private ports
-2. Test the application access from different VMs <br>
-Try to access the application from a different virtual machine in the same virtual network, and test from VMs in different subnets. If you cannot access, check the host firewall and network security group configurations.
-3. Test external application access <br>
-Try to access the application from a computer outside the virtual network. If you cannot access it, check the external load balancer configuration, endpoint (TCP or UDP), network security group, and NAT configuration
+1. 验证应用程序是否在侦听预期的端口和终结点 <br>
+使用“netstat -a”命令显示 VM 上的活动侦听端口，然后检查终结点 ACL 规则中的公用和专用端口
+2. 从不同的 VM 测试应用程序访问 <br>
+尝试从同一虚拟网络中的不同虚拟机访问应用程序，然后从不同子网中的 VM 测试访问。 如果你无法访问，请检查主机防火墙和网络安全组配置。
+3. 测试外部应用程序访问 <br>
+尝试从虚拟网络外部的计算机访问该应用程序。 如果无法访问，请检查外部负载平衡器配置、终结点（TCP 或 UDP）、网络安全组和 NAT 配置
 
-## **Recommended documents**
-[About network security groups](https://azure.microsoft.com/documentation/articles/virtual-networks-nsg/) <br>
-[Troubleshoot access to an application running on an azure virtual machine](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
+## **建议的文档**
+[About network security groups（关于网络安全组）](https://azure.microsoft.com/documentation/articles/virtual-networks-nsg/) <br>
+[Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
+
+
+<!--HONumber=May16_HO5-->
+
+

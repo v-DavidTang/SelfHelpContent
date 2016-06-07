@@ -1,30 +1,34 @@
 <properties 
-	pageTitle="I can't connect to my Windows VM" 
-	description="I can't connect to my Windows VM" 
-	service="microsoft.compute"
-	resource="virtualmachines"
-	authors="kasparks"
-	displayOrder="1"
-	selfHelpType="resource"
-	supportTopicIds=""
-	resourceTags="windows"	
-	productPesIds=""
-	cloudEnvironments="public" 
+    pageTitle="我无法连接到 Windows VM" 
+    description="我无法连接到 Windows VM" 
+    service="microsoft.compute"
+    resource="virtualmachines"
+    authors="kasparks"
+    displayOrder="1"
+    selfHelpType="resource"
+    supportTopicIds=""
+    resourceTags="windows"  
+    productPesIds=""
+    cloudEnvironments="public" 
 />
     
-# I can't connect to my Windows VM
+# 我无法连接到 Windows VM
 
-###**Recommended steps**
-To resolve common issues, try one or more of the following steps.
+###**建议的步骤**若要解决常见问题，请尝试下面的一个或多个步骤。
 
-1. Review your VM's [console screenshot](data-blade:Microsoft_Azure_Compute.VirtualMachineSerialConsoleLogBlade) to correct boot problems
-2. Reset Remote Access to address remote server issues <br>
-[Reset remote access using PowerShell or CLI](http://aka.ms/resetsarmwinremoteaccess)
-3. Restart the Virtual Machine to address startup issues by clicking 'Restart' at the top of the VM resource blade
-4. Address Azure host issues by [redeploying](data-blade:Microsoft_Azure_Compute.VirtualMachineRedeploy), which will migrate the VM to a new Azure host
-5. If you're getting an RDP license error, use 'mstsc/admin' as a work around. If needed, uninstall or buy an RDS license. <br>
-[Address Remote Desktop License Server error](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense)
+1. 查看 VM 的[控制台屏幕截图](data-blade:Microsoft_Azure_Compute.VirtualMachineSerialConsoleLogBlade)以更正启动问题
+2. 重置远程访问以解决远程服务器问题 <br>
+[使用 PowerShell 或 CLI 重置远程访问](http://aka.ms/resetsarmwinremoteaccess)
+3. 单击 VM 资源边栏选项卡顶部的“重新启动”来重新启动虚拟机，以解决启动问题
+4. 通过[重新部署](data-blade:Microsoft_Azure_Compute.VirtualMachineRedeploy)（将 VM 迁移到新的 Azure 主机）来解决 Azure 主机问题
+5. 如果你收到了 RDP 许可证错误，请使用“mstsc/admin”来解决错误。 如果需要，请卸载或购买 RDS 许可证。 <br>
+[Address Remote Desktop License Server error（解决远程桌面许可证服务器错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense)
 
-###**Recommended documents**
-[Troubleshoot specific Remote Desktop connection errors](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#troubleshoot-specific-remote-desktop-connection-errors) <br>
-[Detailed troubleshooting across network components](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/)
+###**建议的文档**
+[Troubleshoot specific Remote Desktop connection errors](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#troubleshoot-specific-remote-desktop-connection-errors)（排查特定的远程桌面连接错误） <br>
+[Detailed troubleshooting across network components（网络组件详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/)
+
+
+<!--HONumber=May16_HO5-->
+
+

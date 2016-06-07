@@ -1,1 +1,7 @@
-> [AZURE.NOTE] This note is coming from an include file
+> [AZURE.NOTE] 本说明文档的内容摘自某个 include 文件
+
+
+
+<!--HONumber=May16_HO5-->
+
+
