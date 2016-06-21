@@ -28,7 +28,6 @@
 [About network security groups（关于网络安全组）](https://azure.microsoft.com/documentation/articles/virtual-networks-nsg/) <br>
 [Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
 
-
-<!--HONumber=May16_HO5-->
+<!--HONumber=Jun16_HO1-->
 
 
