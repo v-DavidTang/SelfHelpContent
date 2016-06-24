@@ -26,7 +26,6 @@
 [Planned maintenance for Azure virtual machines（Azure 虚拟机的计划内维护）](https://azure.microsoft.com/documentation/articles/virtual-machines-planned-maintenance/) <br>
 [View and analyze Azure Audit Logs in Power BI and more（在 Power BI 和其他组件中查看和分析 Azure 审核日志）](https://azure.microsoft.com/blog/analyze-azure-audit-logs-in-powerbi-more/)
 
-
-<!--HONumber=May16_HO5-->
+<!--HONumber=Jun16_HO1-->
 
 

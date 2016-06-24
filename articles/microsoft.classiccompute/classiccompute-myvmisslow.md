@@ -25,12 +25,11 @@
 4. 单击 VM 资源边栏选项卡顶部的“重新启动”来重新启动 VM，以解决任何 VM 操作系统问题
 5. 在 VM 资源的“设置”边栏选项卡中单击“大小”，将虚拟机扩展到其他 VM 类型或系列以提高性能
 6. 如果该虚拟机用于 I/O 密集型方案，请考虑使用高级存储帐户 <br>
-[高级存储：适用于 Azure 虚拟机工作负荷的高性能存储](https://azure.microsoft.com/documentation/articles/storage-premium-storage-preview-portal/)
+[高级存储： 适用于 Azure 虚拟机工作负荷的高性能存储](https://azure.microsoft.com/documentation/articles/storage-premium-storage-preview-portal/)
 
 ## **建议的文档**
 [Detailed troubleshooting of Azure Storage（Azure 存储空间详细疑难解答）](https://azure.microsoft.com/documentation/articles/storage-monitoring-diagnosing-troubleshooting/)
 
-
-<!--HONumber=May16_HO5-->
+<!--HONumber=Jun16_HO1-->
 
 

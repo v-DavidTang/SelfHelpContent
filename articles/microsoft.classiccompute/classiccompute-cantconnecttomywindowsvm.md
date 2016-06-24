@@ -30,7 +30,6 @@
 [Detailed troubleshooting across network components（网络组件详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/) <br>
 [Address Remote Desktop License Server error（解决远程桌面许可证服务器错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense) 
 
-
-<!--HONumber=May16_HO5-->
+<!--HONumber=Jun16_HO1-->
 
 
