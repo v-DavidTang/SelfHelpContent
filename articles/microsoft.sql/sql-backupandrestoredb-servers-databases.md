@@ -1,5 +1,5 @@
 <properties
-    pageTitle="备份和还原数据库"
+    pageTitle="Backing up and restoring databases"
     description="备份和还原数据库"
     service="microsoft.sql"
     resource="servers"
@@ -36,6 +36,6 @@ SQL 数据库保留了你数据库的副本，因此你可以在发生服务中�
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

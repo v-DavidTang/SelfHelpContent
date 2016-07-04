@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我无法连接到 Windows VM" 
+    pageTitle="I can't connect to my Windows VM" 
     description="我无法连接到 Windows VM" 
     service="microsoft.compute"
     resource="virtualmachines"
@@ -12,6 +12,7 @@
     cloudEnvironments="public" 
 />
     
+
 # 我无法连接到 Windows VM
 
 ###**建议的步骤**
@@ -29,6 +30,7 @@
 [Troubleshoot specific Remote Desktop connection errors（排查特定的远程桌面连接错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#troubleshoot-specific-remote-desktop-connection-errors) <br>
 [Detailed troubleshooting across network components（网络组件详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我的问题未列出"
+    pageTitle="My issue is not listed"
     description="我的问题未列出" 
     service="shared"
     resource="issuenotlisted" 
@@ -13,6 +13,7 @@
     cloudEnvironments="public"
  />
 
+
 # 我的问题未列出
 
 你可以从 Microsoft 社区或者通过浏览以下渠道，来获取有关许多常见问题的帮助。
@@ -23,6 +24,7 @@
 * 浏览 [Azure 文档](https://azure.microsoft.com/documentation/)
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

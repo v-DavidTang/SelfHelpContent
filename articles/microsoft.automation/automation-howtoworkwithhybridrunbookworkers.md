@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何使用混合 Runbook 辅助角色"
+    pageTitle="How to work with hybrid runbook workers"
     description="如何使用混合 Runbook 辅助角色"
     service="microsoft.automation"
     resource="automationaccounts"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

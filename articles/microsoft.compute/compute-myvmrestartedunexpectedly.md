@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我的 VM 意外重新启动"
+    pageTitle="My VM restarted unexpectedly"
     description="我的 VM 意外重新启动"
     service="microsoft.compute"
     resource="virtualmachines"
@@ -13,6 +13,7 @@
 />
 
     
+
 # 我的 VM 意外重新启动
 
 ## **建议的步骤**
@@ -26,6 +27,7 @@
 [Planned maintenance for Azure virtual machines（Azure 虚拟机的计划内维护）](https://azure.microsoft.com/documentation/articles/virtual-machines-planned-maintenance/) <br>
 [View and analyze Azure Audit Logs in Power BI and more（在 Power BI 和其他组件中查看和分析 Azure 审核日志）](https://azure.microsoft.com/blog/analyze-azure-audit-logs-in-powerbi-more/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

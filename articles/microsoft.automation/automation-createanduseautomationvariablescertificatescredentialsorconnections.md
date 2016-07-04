@@ -1,5 +1,5 @@
 <properties
-    pageTitle="创建和使用自动化变量、证书、凭据或连接"
+    pageTitle="Create and use Automation variables, certificates, credentials, or connections"
     description="创建和使用自动化变量、证书、凭据或连接"
     service="microsoft.automation"
     resource="automationaccounts"
@@ -23,6 +23,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法创建 ExpressRoute 线路"
+    pageTitle="I can't create an ExpressRoute circuit"
     description="无法创建 ExpressRoute 线路"
     service="microsoft.network"
     resource="expressroutecircuits"
@@ -28,6 +28,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

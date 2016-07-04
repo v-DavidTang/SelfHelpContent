@@ -1,5 +1,5 @@
 <properties
-    pageTitle="导入 PowerShell 模块"
+    pageTitle="Import PowerShell modules"
     description="导入 PowerShell 模块"
     service="microsoft.automation"
     resource="automationaccounts"
@@ -24,6 +24,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="存储服务运行缓慢"
+    pageTitle="My storage service is slow"
     description="存储服务运行缓慢"
     service="microsoft.storage"
     resource="storageaccounts"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

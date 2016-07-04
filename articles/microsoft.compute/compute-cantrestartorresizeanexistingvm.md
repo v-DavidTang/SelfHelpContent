@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我无法重新启动现有 VM 或调整其大小" 
+    pageTitle="I can't restart or resize an existing VM" 
     description="我无法重新启动现有 VM 或调整其大小" 
     service="microsoft.compute"
     resource="virtualmachines"
@@ -11,6 +11,7 @@
     productPesIds=""
     cloudEnvironments="public" 
 />
+
 
 # 我无法重新启动现有 VM 或调整其大小
 
@@ -26,6 +27,7 @@
 ## **建议的文档**
 [Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

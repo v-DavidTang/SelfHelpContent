@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我的 VM 运行速度很慢"
+    pageTitle="My VM is slow"
     description="我的 VM 运行速度很慢 "
     service="microsoft.classiccompute"
     resource="virtualmachines"
@@ -12,6 +12,7 @@
     cloudEnvironments="public" 
 />
     
+
 # 我的 VM 运行速度很慢
 
 ## **建议的步骤**
@@ -30,6 +31,7 @@
 ## **建议的文档**
 [Detailed troubleshooting of Azure Storage（Azure 存储空间详细疑难解答）](https://azure.microsoft.com/documentation/articles/storage-monitoring-diagnosing-troubleshooting/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

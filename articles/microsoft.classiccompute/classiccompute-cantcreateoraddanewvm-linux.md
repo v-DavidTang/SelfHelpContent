@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我无法创建或添加新的 VM" 
+    pageTitle="I can't create or add a new VM" 
     description="我无法创建或添加新的 VM " 
     service="microsoft.classiccompute"
     resource="virtualmachines"
@@ -12,6 +12,7 @@
     cloudEnvironments="public" 
  />
     
+
 # 我无法创建或添加新的 VM
 
 ## **建议的步骤**
@@ -27,6 +28,7 @@
 [Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/)
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

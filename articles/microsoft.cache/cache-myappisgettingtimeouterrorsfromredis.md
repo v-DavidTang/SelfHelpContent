@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的应用收到了来自 Redis 的超时错误"
+    pageTitle="My app is getting timeout errors from Redis"
     description="我的应用收到了来自 Redis 的超时错误"
     service="microsoft.cache"
     resource="redis"
@@ -27,6 +27,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

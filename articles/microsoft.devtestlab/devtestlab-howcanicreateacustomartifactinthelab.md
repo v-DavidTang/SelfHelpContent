@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何在实验室中创建自定义项目？"
+    pageTitle="How can I create a custom artifact in the Lab?"
     description="如何在实验室中创建自定义项目？"
     service="microsoft.devtestlab"
     resource="labs"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的 CDN 终结点返回 404 错误"
+    pageTitle="My CDN endpoint is returning 404 errors"
     description="我的 CDN 终结点返回 404 错误"
     service="microsoft.cdn"
     resource="profiles"
@@ -22,6 +22,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 
