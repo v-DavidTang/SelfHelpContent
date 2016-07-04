@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我需要帮助建立跨订阅连接（适用于线路用户）"
+    pageTitle="I need help with cross-subscription connectivity (for Circuit User)"
     description="我需要帮助建立跨订阅连接（适用于线路用户）"
     service="microsoft.network"
     resource="expressroutecircuits"
@@ -26,6 +26,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

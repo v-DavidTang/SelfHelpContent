@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我无法连接到 Linux VM"
+    pageTitle="I can't connect to my Linux VM"
     description="我无法连接到 Linux VM "
     service="microsoft.classiccompute"
     resource="virtualmachines"
@@ -11,6 +11,7 @@
     productPesIds=""
     cloudEnvironments="public"
  />
+
 
 # 我无法连接到 Linux VM
 
@@ -28,6 +29,7 @@
 [Detailed troubleshooting of SSH errors（针对 SSH 错误的详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-ssh-connections/#detailed-troubleshooting-of-ssh-errors) <br>
 [Automate Linux VM Customization Tasks Using CustomScript Extension（使用 CustomScript 扩展自动执行 Linux VM 自定义任务）](https://azure.microsoft.com/blog/automate-linux-vm-customization-tasks-using-customscript-extension/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

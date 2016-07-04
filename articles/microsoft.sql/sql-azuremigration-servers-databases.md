@@ -1,5 +1,5 @@
 <properties
-    pageTitle="在服务器或订阅之间迁移，或者向/从 Azure 迁移"
+    pageTitle="Migrating between servers or subscriptions, or to and from Azure"
     description="在服务器或订阅之间迁移，或者向/从 Azure 迁移"
     service="microsoft.sql"
     resource="servers"
@@ -33,6 +33,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

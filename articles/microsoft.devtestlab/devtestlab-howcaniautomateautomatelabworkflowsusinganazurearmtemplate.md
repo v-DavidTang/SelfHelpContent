@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何使用 Azure Resource Manager 模板在 DevTest 实验室中自动执行工作流？"
+    pageTitle="How can I automate workflows in DevTest Labs using Azure Resource Manager template?"
     description="如何使用 Azure Resource Manager 模板在 DevTest 实验室中自动执行工作流？"
     service="microsoft.devtestlab"
     resource="labs"
@@ -21,6 +21,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

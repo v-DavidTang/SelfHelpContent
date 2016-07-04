@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我无法创建或添加 VM" 
+    pageTitle="I can't create or add a VM" 
     description="我无法创建或添加 VM" 
     service="microsoft.compute"
     resource="virtualmachines"
@@ -13,6 +13,7 @@
 />
 
     
+
 # 我无法创建或添加 VM
 
 ## **建议的步骤**
@@ -29,6 +30,7 @@
 ## **建议的文档**
 [Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

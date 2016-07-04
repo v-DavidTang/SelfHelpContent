@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何创建报告"
+    pageTitle="How do I create a report"
     description="如何创建报告"
     service="microsoft.powerbi"
     resource="workspacecollections"
@@ -17,7 +17,7 @@
 
 ## **建议的步骤**
 1. 下载免费的 Power BI Desktop<br>
-[开始：设置连接字符串](http://go.microsoft.com/fwlink/?LinkID=521662)
+[入门：设置连接字符串](http://go.microsoft.com/fwlink/?LinkID=521662)
 
 ## **建议的文档**
 [Power BI Embedded 入门](http://go.microsoft.com/fwlink/?LinkID=787532)<br>
@@ -25,6 +25,6 @@
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jun16_HO5-->
 
 

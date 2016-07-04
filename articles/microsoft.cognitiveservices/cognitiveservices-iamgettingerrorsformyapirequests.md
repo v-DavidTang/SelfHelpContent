@@ -1,5 +1,5 @@
 <properties
-    pageTitle="发出 API 请求后，我收到 401 错误"
+    pageTitle="I am getting 401 errors for my API requests"
     description="发出 API 请求后，我收到 401 错误"
     service="microsoft.cognitiveservices"
     resource="accounts"
@@ -28,6 +28,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我遇到了网络连接问题"
+    pageTitle="I have network connectivity problems"
     description="我遇到了网络连接问题"
     service="microsoft.classiccompute"
     resource="virtualmachines"
@@ -22,6 +22,6 @@
  
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jun16_HO5-->
 
 

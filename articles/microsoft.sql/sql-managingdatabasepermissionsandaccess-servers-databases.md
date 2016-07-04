@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理数据库权限和访问"
+    pageTitle="Managing database permissions and access"
     description="管理数据库权限和访问"
     service="microsoft.sql"
     resource="servers"
@@ -35,6 +35,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

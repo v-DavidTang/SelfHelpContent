@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置 Desired State Configuration (DSC)"
+    pageTitle="Configuring Desired State Configuration (DSC)"
     description="配置 Desired State Configuration (DSC)"
     service="microsoft.automation"
     resource="automationaccounts"
@@ -22,6 +22,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

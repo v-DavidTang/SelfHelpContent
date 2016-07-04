@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我无法连接到 VM 上的应用程序"
+    pageTitle="I can't connect to an application on my VM"
     description="我无法连接到 VM 上的应用程序"
     service="microsoft.compute"
     resource="virtualmachines"
@@ -12,6 +12,7 @@
     cloudEnvironments="public"
 />
     
+
 # 我无法连接到 VM 上的应用程序
 
 ## **建议的步骤**
@@ -28,6 +29,7 @@
 [About network security groups（关于网络安全组）](https://azure.microsoft.com/documentation/articles/virtual-networks-nsg/) <br>
 [Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和使用源代码管理"
+    pageTitle="Set up and use source control"
     description="设置和使用源代码管理"
     service="microsoft.automation"
     resource="automationaccounts"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

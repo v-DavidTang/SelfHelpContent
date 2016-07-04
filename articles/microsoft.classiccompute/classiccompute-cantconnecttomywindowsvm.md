@@ -1,6 +1,6 @@
 
 <properties 
-    pageTitle="我无法连接到 Windows VM"
+    pageTitle="I can't connect to my Windows VM"
     description="我无法连接到 Windows VM "
     service="microsoft.classiccompute"
     resource="virtualmachines"
@@ -13,6 +13,7 @@
     cloudEnvironments="public"
  />
     
+
 # 我无法连接到 Windows VM
 
 ## **建议的步骤**
@@ -30,6 +31,7 @@
 [Detailed troubleshooting across network components（网络组件详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/) <br>
 [Address Remote Desktop License Server error（解决远程桌面许可证服务器错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense) 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO5-->
 
 

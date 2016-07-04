@@ -1,5 +1,5 @@
 <properties
-    pageTitle="认知服务 API 支持哪些平台？"
+    pageTitle="Which platforms are supported by Cognitive Services APIs?"
     description="认知服务 API 支持哪些平台？"
     service="microsoft.cognitiveservices"
     resource="accounts"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 

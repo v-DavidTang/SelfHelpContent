@@ -1,5 +1,5 @@
 <properties
-    pageTitle="SQL Azure 数据库的连接问题"
+    pageTitle="Connection issues to SQL Azure DB"
     description="SQL Azure 数据库的连接问题"
     service="microsoft.sql"
     resource="servers"
@@ -27,10 +27,10 @@
 
 ## **建议的文档**
 [排查 Azure SQL 数据库的常见连接问题](https://azure.microsoft.com/documentation/articles/sql-database-troubleshoot-common-connection-issues/)<br>
-[连接到 SQL 数据库：最佳实践和设计指导原则](https://azure.microsoft.com/documentation/articles/sql-database-troubleshoot-common-connection-issues/)
+[连接到 SQL 数据库：最佳实践和设计准则](https://azure.microsoft.com/documentation/articles/sql-database-troubleshoot-common-connection-issues/)
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 
