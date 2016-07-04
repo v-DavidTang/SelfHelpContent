@@ -1,5 +1,5 @@
 <properties
-    pageTitle="调试失败或 Runbook 暂停"
+    pageTitle="Debug failed or suspended runbooks"
     description="调试失败或 Runbook 暂停"
     service="microsoft.automation"
     resource="automationaccounts"

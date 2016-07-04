@@ -1,5 +1,5 @@
 <properties
-    pageTitle="切换定价层后我的 API 密钥是否会更改？"
+    pageTitle="Will my API keys be changed after switching pricing tiers?"
     description="切换定价层后我的 API 密钥是否会更改？"
     service="microsoft.cognitiveservices"
     resource="accounts"

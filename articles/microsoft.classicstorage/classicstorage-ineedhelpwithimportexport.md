@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我需要有关导入/导出的帮助"
+    pageTitle="I need help with Import/Export"
     description="我需要有关导入/导出的帮助"
     service="microsoft.classicstorage"
     resource="storageaccounts"

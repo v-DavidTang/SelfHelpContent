@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我需要转移计费所有权"
+    pageTitle="I need to transfer billing ownership"
     description="我需要转移计费所有权"
     service="azure-billing"
     resource="billing"

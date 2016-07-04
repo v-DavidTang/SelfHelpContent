@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法连接到 VNet 中部署的服务"
+    pageTitle="I can't connect to services deployed in my VNet"
     description="无法连接到 VNet 中部署的服务"
     service="microsoft.network"
     resource="expressroutecircuits"

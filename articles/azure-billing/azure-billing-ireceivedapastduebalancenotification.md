@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我收到了未付余款通知"
+    pageTitle="I received a past due balance notification"
     description="我收到了未付余款通知"
     service="azure-billing"
     resource="billing"

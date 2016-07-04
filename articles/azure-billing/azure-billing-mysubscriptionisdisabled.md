@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的订阅已禁用"
+    pageTitle="My subscription is disabled"
     description="我的订阅已禁用"
     service="azure-billing"
     resource="billing"

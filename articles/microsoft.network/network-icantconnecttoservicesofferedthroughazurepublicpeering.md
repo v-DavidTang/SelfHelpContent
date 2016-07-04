@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法连接到通过 Azure 公共对等互连提供的服务"
+    pageTitle="I can't connect to services offered through Azure Public peering"
     description="无法连接到通过 Azure 公共对等互连提供的服务"
     service="microsoft.network"
     resource="expressroutecircuits"

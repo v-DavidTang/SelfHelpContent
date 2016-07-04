@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的应用执行速度缓慢"
+    pageTitle="My App is performing slow"
     description="我的应用运行速度缓慢"
     service="microsoft.cache"
     resource="redis"

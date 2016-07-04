@@ -1,5 +1,5 @@
 <properties
-    pageTitle="压缩不起作用"
+    pageTitle="Compression is not working"
     description="压缩不起作用"
     service="microsoft.cdn"
     resource="profiles"

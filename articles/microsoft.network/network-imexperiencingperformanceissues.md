@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我遇到了性能问题"
+    pageTitle="I'm experiencing performance issues"
     description="我遇到了性能问题"
     service="microsoft.network"
     resource="applicationgateways"

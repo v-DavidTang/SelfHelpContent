@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的应用出现连接错误"
+    pageTitle="My app is getting connectivity errors"
     description="我的应用出现连接错误"
     service="microsoft.cache"
     resource="redis"

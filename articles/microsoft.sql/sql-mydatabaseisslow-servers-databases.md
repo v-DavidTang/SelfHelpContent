@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的数据库运行速度缓慢"
+    pageTitle="My database is slow"
     description="我的数据库运行速度缓慢"
     service="microsoft.sql"
     resource="servers"

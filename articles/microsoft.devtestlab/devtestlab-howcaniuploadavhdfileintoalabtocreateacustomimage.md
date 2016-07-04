@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何将 VHD 文件上载到实验室以创建自定义映像？"
+    pageTitle="How can I upload a VHD file into a Lab to create a custom image?"
     description="如何将 VHD 文件上载到实验室以创建自定义映像？"
     service="microsoft.devtestlab"
     resource="labs"

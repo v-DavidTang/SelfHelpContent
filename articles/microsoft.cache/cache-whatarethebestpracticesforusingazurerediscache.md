@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure Redis 缓存的最佳用法是怎样的？"
+    pageTitle="What are the best practices for using Azure Redis Cache?"
     description="Azure Redis 缓存的最佳用法是怎样的？"
     service="microsoft.cache"
     resource="redis"

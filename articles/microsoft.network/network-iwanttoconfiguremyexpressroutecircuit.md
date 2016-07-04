@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我想要配置 ExpressRoute 线路"
+    pageTitle="I want to configure my ExpressRoute circuit"
     description="我想要配置 ExpressRoute 线路"
     service="microsoft.network"
     resource="expressroutecircuits"

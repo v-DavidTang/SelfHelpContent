@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我遇到了网关无效错误 (502)"
+    pageTitle="I'm encountering Bad Gateway Error (502)"
     description="我遇到了网关无效错误 (502)"
     service="microsoft.network"
     resource="applicationgateways"

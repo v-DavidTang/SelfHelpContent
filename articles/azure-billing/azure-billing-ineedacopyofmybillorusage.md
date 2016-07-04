@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我需要一份帐单或使用量清单"
+    pageTitle="I need a copy of my bill or usage"
     description="我需要一份帐单或使用量清单"
     service="azure-billing"
     resource="billing"

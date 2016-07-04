@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的 VM/磁盘运行速度缓慢"
+    pageTitle="My VM/Disk is slow"
     description="我的 VM/磁盘运行速度缓慢"
     service="microsoft.classicstorage"
     resource="storageaccounts"

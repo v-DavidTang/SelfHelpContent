@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置自动化以便在 Azure 上进行身份验证"
+    pageTitle="Set up Automation to authenticate to Azure"
     description="设置自动化以便在 Azure 上进行身份验证"
     service="microsoft.automation"
     resource="automationaccounts"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="计划 Runbook"
+    pageTitle="Schedule Runbooks"
     description="计划 Runbook"
     service="microsoft.automation"
     resource="automationaccounts"

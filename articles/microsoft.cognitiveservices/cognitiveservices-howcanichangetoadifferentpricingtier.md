@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何切换到另一个定价层？"
+    pageTitle="How can I change to a different pricing tier?"
     description="如何切换到另一个定价层？"
     service="microsoft.cognitiveservices"
     resource="accounts"

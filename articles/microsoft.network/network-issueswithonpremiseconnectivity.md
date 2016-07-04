@@ -1,5 +1,5 @@
 <properties
-    pageTitle="本地连接问题"
+    pageTitle="Issues with on-premise connectivity"
     description="本地连接问题"
     service="microsoft.network"
     resource="virtualnetworkgateways"
