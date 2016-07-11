@@ -24,6 +24,6 @@
 [排查“服务器 y 上的数据库 x 当前不可用。 请稍后重试连接”错误。](https://azure.microsoft.com/documentation/articles/sql-database-troubleshoot-connection)
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 
