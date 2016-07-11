@@ -1,6 +1,6 @@
 <properties
     pageTitle="My App is performing slow"
-    description="我的应用运行速度缓慢"
+    description="我的应用执行速度缓慢"
     service="microsoft.cache"
     resource="redis"
     authors="kasparks"
@@ -28,6 +28,6 @@
 
 
 
-<!--HONumber=Jun16_HO3-->
+<!--HONumber=Jun16_HO5-->
 
 
