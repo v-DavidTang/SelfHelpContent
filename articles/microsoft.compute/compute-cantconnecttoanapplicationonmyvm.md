@@ -8,7 +8,7 @@
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags="windows, linux"    
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public"
 />
     
@@ -30,6 +30,7 @@
 [Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 
