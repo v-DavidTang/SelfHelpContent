@@ -7,9 +7,9 @@
     authors="kasparks"
     displayOrder="1"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32411835"
     resourceTags="windows"
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public"
  />
     
@@ -32,6 +32,7 @@
 [Address Remote Desktop License Server error（解决远程桌面许可证服务器错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense) 
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 

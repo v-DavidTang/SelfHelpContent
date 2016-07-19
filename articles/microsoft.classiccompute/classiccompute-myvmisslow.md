@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="7"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32411877"
     resourceTags="windows, linux"   
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public" 
 />
     
@@ -32,6 +32,7 @@
 [Detailed troubleshooting of Azure Storage（Azure 存储空间详细疑难解答）](https://azure.microsoft.com/documentation/articles/storage-monitoring-diagnosing-troubleshooting/)
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 

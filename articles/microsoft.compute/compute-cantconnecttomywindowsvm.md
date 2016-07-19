@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="1"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32411835"
     resourceTags="windows"  
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public" 
 />
     
@@ -31,6 +31,7 @@
 [Detailed troubleshooting across network components（网络组件详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/)
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 

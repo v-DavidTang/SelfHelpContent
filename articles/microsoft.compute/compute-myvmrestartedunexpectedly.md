@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="8"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32411816"
     resourceTags="windows, linux"    
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public"
 />
 
@@ -28,6 +28,7 @@
 [View and analyze Azure Audit Logs in Power BI and more（在 Power BI 和其他组件中查看和分析 Azure 审核日志）](https://azure.microsoft.com/blog/analyze-azure-audit-logs-in-powerbi-more/)
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 

@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="3"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32411817,32449676"
     resourceTags="windows"
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public"   
 />
 
@@ -31,6 +31,7 @@
 [Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/)
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 

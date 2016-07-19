@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="2"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32411835"
     resourceTags="linux"
-    productPesIds=""
+    productPesIds="14749"
     cloudEnvironments="public"
  />
 
@@ -30,6 +30,7 @@
 [Automate Linux VM Customization Tasks Using CustomScript Extension（使用 CustomScript 扩展自动执行 Linux VM 自定义任务）](https://azure.microsoft.com/blog/automate-linux-vm-customization-tasks-using-customscript-extension/)
 
 
-<!--HONumber=Jun16_HO5-->
+
+<!--HONumber=Jul16_HO2-->
 
 
