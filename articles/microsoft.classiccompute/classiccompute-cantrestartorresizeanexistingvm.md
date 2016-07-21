@@ -7,7 +7,7 @@
     displayOrder="5"
     selfHelpType="resource"
     supportTopicIds=""
-    resourceTags="windows, linux"   
+    resourceTags="windows, linux, windowsSQL"   
     productPesIds=""
     cloudEnvironments="public" 
  />
@@ -29,6 +29,6 @@
 
 
 
-<!--HONumber=Jun16_HO5-->
+<!--HONumber=Jul16_HO3-->
 
 
