@@ -6,8 +6,8 @@
     authors="kasparks"
     displayOrder="6"
     selfHelpType="resource"
-    supportTopicIds=""
-    resourceTags="windows, linux"    
+    supportTopicIds="32411838"
+    resourceTags="windows, linux, windowsSQL"    
     productPesIds="14749"
     cloudEnvironments="public"
 />
@@ -31,6 +31,6 @@
 
 
 
-<!--HONumber=Jul16_HO2-->
+<!--HONumber=Jul16_HO3-->
 
 
