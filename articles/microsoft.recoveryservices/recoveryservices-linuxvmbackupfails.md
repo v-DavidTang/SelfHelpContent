@@ -1,5 +1,5 @@
 <properties
-    pageTitle="备份 Linux VM 失败并出现“无法与 VM 代理通信，因此无法获取快照状态”"
+    pageTitle="Backup of Linux VM fails with 'Could not communicate with the VM agent for snapshot status'"
     description="Linux VM 快照问题"
     service="microsoft.recoveryservices"
     resource="vaults"

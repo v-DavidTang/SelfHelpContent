@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法连接到 SQL Server 可用性组"
+    pageTitle="I can't connect to SQL Server Availability Group"
     description="无法连接到 SQL Server 可用性组"
     service="microsoft.classiccompute"
     resource="virtualmachines"

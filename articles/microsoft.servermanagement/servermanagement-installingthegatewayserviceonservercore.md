@@ -1,5 +1,5 @@
 <properties
-    pageTitle="在 Server Core 上安装网关服务"
+    pageTitle="Installing the gateway service on Server Core"
     description="如何在 Windows Server Core 上安装 Server 管理工具网关"
     service="microsoft.servermanagement"
     resource="gateways"

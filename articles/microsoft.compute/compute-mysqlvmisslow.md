@@ -1,5 +1,5 @@
 <properties
-    pageTitle="SQL Server VM 运行速度缓慢"
+    pageTitle="My SQL Server VM is slow"
     description="SQL Server VM 运行速度缓慢"
     service="microsoft.compute"
     resource="virtualmachines"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="网关安装程序未能运行安装"
+    pageTitle="Gateway installer fails to install"
     description="Server 管理工具网关安装程序未能运行安装时怎么办"
     service="microsoft.servermanagement"
     resource="gateways"
