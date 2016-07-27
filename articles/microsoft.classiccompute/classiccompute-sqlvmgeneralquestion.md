@@ -1,5 +1,5 @@
 <properties
-    pageTitle="在 SQL VM 方面我有一个普通的问题"
+    pageTitle="I have a general question about SQL VM"
     description="在 SQL VM 方面我有一个普通的问题"
     service="microsoft.classiccompute"
     resource="virtualmachines"

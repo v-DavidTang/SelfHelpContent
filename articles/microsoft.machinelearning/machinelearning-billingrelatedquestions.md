@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我对工作区计费有疑问"
+    pageTitle="I have a question regarding billing for workspace"
     description="我对工作区计费有疑问"
     service="microsoft.machinelearning"
     resource="workspaces"

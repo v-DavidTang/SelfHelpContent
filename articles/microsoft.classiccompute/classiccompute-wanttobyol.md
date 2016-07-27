@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我想要在 Azure VM 中使用我自己的 SQL Server 许可证"
+    pageTitle="I want to use my own SQL Server license in Azure VM"
     description="我想要在 Azure VM 中使用我自己的 SQL Server 许可证"
     service="microsoft.classiccompute"
     resource="virtualmachines"

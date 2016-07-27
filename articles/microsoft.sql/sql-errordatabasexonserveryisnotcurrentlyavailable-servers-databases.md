@@ -1,5 +1,5 @@
 <properties
-    pageTitle="错误: 服务器 'y' 上的数据库 'x' 当前不可用"
+    pageTitle="Error: Database 'x' on server 'y' is not currently available"
     description="错误: 服务器 'y' 上的数据库 'x' 当前不可用"
     service="microsoft.sql"
     resource="servers"

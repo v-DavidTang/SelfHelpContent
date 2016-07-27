@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何更新网关服务？"
+    pageTitle="How do I update the gateway service?"
     description="如何更新 Server 管理工具网关服务？"
     service="microsoft.servermanagement"
     resource="gateways"

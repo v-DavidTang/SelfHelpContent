@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法连接到 VM 中的 SQL Server"
+    pageTitle="I can't connect to SQL Server in my VM"
     description="无法连接到 VM 中的 SQL Server"
     service="microsoft.compute"
     resource="virtualmachines"
