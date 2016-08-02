@@ -1,6 +1,6 @@
 <properties
-    pageTitle="server (phonefactor)/my issue is not listed"
-    description="server (phonefactor)/my issue is not listed"
+    pageTitle="服务器 (phonefactor)/未列出我的问题"
+    description="服务器 (phonefactor)/未列出我的问题"
     service="microsoft.multifactorauthentication"
     resource=""
     authors="aashu"
@@ -8,17 +8,17 @@
     selfHelpType="generic"
     supportTopicIds="32336325"
     resourceTags=""
-    productPesIds=""
+    productPesIds="14947"
     cloudEnvironments="public"
 />
 
 
-# server (phonefactor)/my issue is not listed
+# 服务器 (phonefactor)/未列出我的问题
 
 
-## **Recommended documents**
-[I need help getting started with Azure MFA.](https://azure.microsoft.com/documentation/articles/multi-factor-authentication/)<br>
-[How to I choose between using MFA in the cloud versus on-premises?](https://azure.microsoft.com/documentation/articles/multi-factor-authentication-get-started/)
+## **建议的文档**
+[我需要 Azure MFA 的入门帮助。](https://azure.microsoft.com/documentation/articles/multi-factor-authentication/)<br>
+[是应在云中还是本地使用 MFA？](https://azure.microsoft.com/documentation/articles/multi-factor-authentication-get-started/)
 
 
 

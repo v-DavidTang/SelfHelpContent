@@ -1,9 +1,9 @@
 <properties
-    pageTitle="Windows Backup to Azure Backup/Schedule backup for a Windows Server or a client"
-    description="Windows Backup to Azure Backup/Schedule backup for a Windows Server or a client"
+    pageTitle="Windows 备份到 Azure 备份/计划 Windows Server 或客户端的备份"
+    description="Windows 备份到 Azure 备份/计划 Windows Server 或客户端的备份"
     service="microsoft.recoveryservices"
     resource="vaults"
-    authors="ruturajd"
+    authors="aashu"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32447383"
@@ -13,26 +13,26 @@
 />
 
 
-# Windows Backup to Azure Backup/Schedule backup for a Windows Server or a client
+# Windows 备份到 Azure 备份/计划 Windows Server 或客户端的备份
 
-If you are facing issues with your Windows server files and folders backups being very slow, please try one or more of the below steps
+如果你遇到 Windows 服务器文件和文件夹备份速度缓慢的问题，请尝试执行以下一个或多个步骤
 
-## **Recommended steps**
+## **建议的步骤**
 
-* Server being backed up is facing  performance limitations causing backup to be slow <br>
-[Performance counters and recommended ranges for optimal backup](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-1-backup-slow-due-to-performance-bottlenecks-on-the-computer-thats-being-backed-up)
+* 所备份的服务器存在性能限制，导致备份速度缓慢 <br>
+[为获得最佳备份性能而要配置的性能计数器和建议的范围](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-1-backup-slow-due-to-performance-bottlenecks-on-the-computer-thats-being-backed-up)
 
-* Another process or antivirus intefering with Azure Backup casuing backup to be slow or even fail <br>
-[Steps to ensure there are no conflicts with another process or antivirus](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-2-another-process-or-antivirus-software-is-interfering-with-the-azure-backup-process)
+* 其他进程或防病毒软件干扰 Azure 备份，导致备份速度缓慢甚至失败 <br>
+[确保不与其他进程或防病毒软件冲突的步骤](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-2-another-process-or-antivirus-software-is-interfering-with-the-azure-backup-process)
 
-* Backing up individual files and folders in an Azure IaaS VM is very slow <br>
-[Steps to optimize performance for Azure VM](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-3-the-backup-agent-is-running-in-an-azure-virtual-machine-vm)
+* 在 Azure IaaS VM 中备份单个文件和文件夹时速度缓慢 <br>
+[优化 Azure VM 性能的步骤](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-3-the-backup-agent-is-running-in-an-azure-virtual-machine-vm)
 
-* Backup large number (multi-million) of small files is very slow <br>
-[Steps to understand bottlenecks in the case of large number of files](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-4-backing-up-a-large-number-multi-millions-of-files)
+* 备份大量（数百万个）小型文件时速度缓慢 <br>
+[识别备份大量文件时存在的瓶颈的步骤](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-slow-backup-performance-issue/#cause-4-backing-up-a-large-number-multi-millions-of-files)
 
-* Step by step guide to setup files and folder backup using Azure Backup Agent <br>
-[Configure backup vault](https://azure.microsoft.com/en-us/documentation/articles/backup-configure-vault/)
+* 使用 Azure 备份代理设置文件和文件夹备份的分步指南 <br>
+[配置备份保管库](https://azure.microsoft.com/en-us/documentation/articles/backup-configure-vault/)
 
 
 
