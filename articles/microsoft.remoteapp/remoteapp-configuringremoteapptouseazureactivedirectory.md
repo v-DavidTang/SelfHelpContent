@@ -1,5 +1,5 @@
 <properties
-    pageTitle="基础结构设置/将 RemoteApp 配置为使用 Azure Active Directory"
+    pageTitle="infrastructure setup/configuring remoteapp to use azure active directory"
     description="基础结构设置/将 RemoteApp 配置为使用 Azure Active Directory"
     service="microsoft.remoteapp"
     resource=""

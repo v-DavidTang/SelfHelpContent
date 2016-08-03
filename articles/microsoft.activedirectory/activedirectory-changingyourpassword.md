@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户管理/更改密码"
+    pageTitle="user management/changing your password"
     description="用户管理/更改密码"
     service="microsoft.activedirectory"
     resource="activedirectory"

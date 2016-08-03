@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/门户：错误或失误"
+    pageTitle="service/portal: error or mistake"
     description="服务/门户：错误或失误"
     service="microsoft.mobileengagement"
     resource="appcollections"

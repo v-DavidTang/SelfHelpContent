@@ -1,5 +1,5 @@
 <properties
-    pageTitle="软件即服务 (SAAS) 管理和访问/配置用户预配"
+    pageTitle="software as a service (saas) management and access/configuring user provisioning"
     description="软件即服务 (SAAS) 管理和访问/配置用户预配"
     service="microsoft.activedirectory"
     resource="activedirectory"

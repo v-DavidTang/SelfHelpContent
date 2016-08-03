@@ -1,5 +1,5 @@
 <properties
-    pageTitle="软件即服务 (SAAS) 管理和访问/将应用程序分配到用户或组"
+    pageTitle="software as a service (saas) management and access/assigning applications to users or groups"
     description="软件即服务 (SAAS) 管理和访问/将应用程序分配到用户或组"
     service="microsoft.activedirectory"
     resource="activedirectory"

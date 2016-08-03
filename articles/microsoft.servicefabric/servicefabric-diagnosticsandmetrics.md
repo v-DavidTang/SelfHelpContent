@@ -1,5 +1,5 @@
 <properties
-    pageTitle="应用程序/诊断和指标"
+    pageTitle="application/diagnostics and metrics"
     description="应用程序/诊断和指标"
     service="microsoft.servicefabric"
     resource="clusters"

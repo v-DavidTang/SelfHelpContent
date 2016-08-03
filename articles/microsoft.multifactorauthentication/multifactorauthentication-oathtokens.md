@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/OATH 令牌"
+    pageTitle="server (phonefactor)/oath tokens"
     description="服务器 (phonefactor)/OATH 令牌"
     service="microsoft.multifactorauthentication"
     resource=""

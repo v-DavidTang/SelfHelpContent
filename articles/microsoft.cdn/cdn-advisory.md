@@ -1,5 +1,5 @@
 <properties
-    pageTitle="咨询"
+    pageTitle="advisory"
     description="咨询"
     service="microsoft.cdn"
     resource="profiles"

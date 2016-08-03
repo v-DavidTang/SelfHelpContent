@@ -1,5 +1,5 @@
 <properties
-    pageTitle="托管缓存/门户无响应或不按预期方式工作"
+    pageTitle="managed cache/portal is unresponsive or not functioning as expected"
     description="托管缓存/门户无响应或不按预期方式工作"
     service="microsoft.cache"
     resource="redis"

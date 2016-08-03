@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/文件未更新"
+    pageTitle="availability and performance/file does not update"
     description="可用性和性能/文件未更新"
     service="microsoft.cdn"
     resource="profiles"

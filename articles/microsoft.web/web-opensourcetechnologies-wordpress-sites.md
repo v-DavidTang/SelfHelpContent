@@ -1,5 +1,5 @@
 <properties
-    pageTitle="开源技术/wordpress"
+    pageTitle="open source technologies/wordpress"
     description="开源技术/wordpress"
     service="microsoft.web"
     resource="sites"

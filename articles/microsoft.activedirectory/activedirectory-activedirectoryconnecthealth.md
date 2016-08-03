@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect Health"
+    pageTitle="active directory connect health"
     description="Active Directory Connect Health"
     service="microsoft.activedirectory"
     resource="activedirectory"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/合作伙伴相关的问题"
+    pageTitle="connectivity/partner-related issues"
     description="连接/合作伙伴相关的问题"
     service="microsoft.network"
     resource="expressroutecircuits"

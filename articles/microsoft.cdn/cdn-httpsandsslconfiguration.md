@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置/https 和 ssl 配置"
+    pageTitle="configuration/https and ssl configuration"
     description="配置/https 和 ssl 配置"
     service="microsoft.cdn"
     resource="profiles"

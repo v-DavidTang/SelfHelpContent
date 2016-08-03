@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/网络连接问题"
+    pageTitle="connectivity/network connectivity problems"
     description="连接/网络连接问题"
     service="microsoft.compute"
     resource="virtualmachines"

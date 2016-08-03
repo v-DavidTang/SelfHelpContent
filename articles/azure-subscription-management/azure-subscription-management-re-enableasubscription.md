@@ -1,5 +1,5 @@
 <properties
-    pageTitle="重新启用订阅"
+    pageTitle="re-enable a subscription"
     description="重新启用订阅"
     service="azure_subscription_management"
     resource=""

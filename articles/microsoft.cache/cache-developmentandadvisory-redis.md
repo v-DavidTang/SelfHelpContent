@@ -1,5 +1,5 @@
 <properties
-    pageTitle="托管缓存/开发与咨询"
+    pageTitle="managed cache/development and advisory"
     description="托管缓存/开发与咨询"
     service="microsoft.cache"
     resource="redis"

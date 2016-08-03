@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/启用和禁用 MFA 服务"
+    pageTitle="service/enable and disable mfa service"
     description="服务/启用和禁用 MFA 服务"
     service="microsoft.multifactorauthentication"
     resource=""

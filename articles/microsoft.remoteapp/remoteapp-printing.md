@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户体验/打印"
+    pageTitle="user experience/printing"
     description="用户体验/打印"
     service="microsoft.remoteapp"
     resource=""

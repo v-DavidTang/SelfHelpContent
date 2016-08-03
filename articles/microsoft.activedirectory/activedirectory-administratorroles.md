@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户管理/管理员角色"
+    pageTitle="user management/administrator roles"
     description="用户管理/管理员角色"
     service="microsoft.activedirectory"
     resource="activedirectory"

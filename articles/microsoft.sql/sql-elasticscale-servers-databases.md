@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/弹性缩放"
+    pageTitle="managing/elastic scale"
     description="管理/弹性缩放"
     service="microsoft.sql"
     resource="servers"

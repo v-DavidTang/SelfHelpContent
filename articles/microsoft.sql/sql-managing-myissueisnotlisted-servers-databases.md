@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/未列出我的问题"
+    pageTitle="managing/my issue is not listed"
     description="管理/未列出我的问题"
     service="microsoft.sql"
     resource="servers"

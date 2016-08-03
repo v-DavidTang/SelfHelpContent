@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Redis 缓存/开发与咨询"
+    pageTitle="redis cache/development and advisory"
     description="Redis 缓存/开发与咨询"
     service="microsoft.cache"
     resource="redis"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/AD FS 适配器"
+    pageTitle="server (phonefactor)/ad fs adapter"
     description="服务器 (phonefactor)/AD FS 适配器"
     service="microsoft.multifactorauthentication"
     resource=""

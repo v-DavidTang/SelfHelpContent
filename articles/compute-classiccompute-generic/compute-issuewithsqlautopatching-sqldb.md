@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/SQL 自动修补问题"
+    pageTitle="connectivity/issue with sql auto patching"
     description="连接/SQL 自动修补问题"
     service="microsoft.compute"
     resource="virtualmachines"

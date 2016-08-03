@@ -1,5 +1,5 @@
 <properties
-    pageTitle="App Service 环境"
+    pageTitle="app service environment"
     description="App Service 环境"
     service="microsoft.web"
     resource="sites"

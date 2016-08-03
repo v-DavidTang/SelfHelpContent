@@ -1,5 +1,5 @@
 <properties
-    pageTitle="开源技术/mysql 或 cleardb"
+    pageTitle="open source technologies/mysql or cleardb"
     description="开源技术/mysql 或 cleardb"
     service="microsoft.web"
     resource="sites"

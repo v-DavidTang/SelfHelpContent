@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect Health/无法在门户中激活服务"
+    pageTitle="active directory connect health/cannot activate the service in the portal"
     description="Active Directory Connect Health/无法在门户中激活服务"
     service="microsoft.activedirectory"
     resource="activedirectory"

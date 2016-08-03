@@ -1,5 +1,5 @@
 <properties
-    pageTitle="报告/高级安全报告"
+    pageTitle="reporting/advanced security reports"
     description="报告/高级安全报告"
     service="microsoft.activedirectory"
     resource="activedirectory"

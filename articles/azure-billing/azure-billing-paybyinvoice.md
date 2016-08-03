@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用发票付款"
+    pageTitle="pay by invoice"
     description="用发票付款"
     service="azure_billing"
     resource=""

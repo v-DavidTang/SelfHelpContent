@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/未列出我的问题"
+    pageTitle="server (phonefactor)/my issue is not listed"
     description="服务器 (phonefactor)/未列出我的问题"
     service="microsoft.multifactorauthentication"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="推送和送达/推送证书问题（已过期或生产与开发环境）"
+    pageTitle="push and reach/push certificate issues (expired or prod vs. dev)"
     description="推送和送达/推送证书问题（已过期或生产与开发环境）"
     service="microsoft.mobileengagement"
     resource="appcollections"

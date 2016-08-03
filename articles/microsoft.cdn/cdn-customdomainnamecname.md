@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置/自定义域名 (cname)"
+    pageTitle="configuration/custom domain name (cname)"
     description="配置/自定义域名 (cname)"
     service="microsoft.cdn"
     resource="profiles"

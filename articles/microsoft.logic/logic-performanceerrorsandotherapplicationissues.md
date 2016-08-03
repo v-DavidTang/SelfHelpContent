@@ -1,5 +1,5 @@
 <properties
-    pageTitle="性能、错误和其他应用程序问题"
+    pageTitle="performance, errors, and other application issues"
     description="性能、错误和其他应用程序问题"
     service="microsoft.logic"
     resource="workflows"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure Active Directory 域服务（适用于 Azure VM 的域服务）- 预览/域加入和脱离"
+    pageTitle="azure active directory domain services (domain services for azure vms) - preview/domain join and disjoin"
     description="Azure Active Directory 域服务（适用于 Azure VM 的域服务）- 预览/域加入和脱离"
     service="microsoft.activedirectory"
     resource="activedirectory"

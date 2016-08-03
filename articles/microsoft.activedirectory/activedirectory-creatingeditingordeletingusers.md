@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户管理/创建、编辑或删除用户"
+    pageTitle="user management/creating, editing, or deleting users"
     description="用户管理/创建、编辑或删除用户"
     service="microsoft.activedirectory"
     resource="activedirectory"

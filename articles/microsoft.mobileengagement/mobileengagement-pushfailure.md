@@ -1,5 +1,5 @@
 <properties
-    pageTitle="推送和送达/推送失败"
+    pageTitle="push and reach/push failure"
     description="推送和送达/推送失败"
     service="microsoft.mobileengagement"
     resource="appcollections"

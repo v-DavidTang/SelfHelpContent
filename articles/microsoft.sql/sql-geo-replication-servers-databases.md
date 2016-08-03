@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/异地复制"
+    pageTitle="managing/geo-replication"
     description="管理/异地复制"
     service="microsoft.sql"
     resource="servers"

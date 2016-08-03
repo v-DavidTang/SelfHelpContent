@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法通过建立的 VPN 隧道连接到 VM 或应用程序"
+    pageTitle="unable to connect to vm or application via established vpn tunnel"
     description="无法通过建立的 VPN 隧道连接到 VM 或应用程序"
     service="microsoft.network"
     resource="virtualnetworkgateways"

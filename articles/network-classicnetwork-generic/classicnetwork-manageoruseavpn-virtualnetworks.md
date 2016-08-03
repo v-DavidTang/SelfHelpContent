@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/管理或使用 VPN"
+    pageTitle="management/manage or use a vpn"
     description="管理/管理或使用 VPN"
     service="microsoft.classicnetwork"
     resource="virtualnetworks"

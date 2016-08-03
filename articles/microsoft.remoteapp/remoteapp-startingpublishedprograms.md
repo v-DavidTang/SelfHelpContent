@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户体验/启动已发布的程序"
+    pageTitle="user experience/starting published programs"
     description="用户体验/启动已发布的程序"
     service="microsoft.remoteapp"
     resource=""

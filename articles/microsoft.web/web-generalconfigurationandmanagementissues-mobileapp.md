@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/一般性的配置和管理问题"
+    pageTitle="configuration and management/general configuration and management issues"
     description="配置和管理/一般性的配置和管理问题"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="性能/数据库服务器速度缓慢或无响应"
+    pageTitle="performance/database server is slow or unresponsive"
     description="性能/数据库服务器速度缓慢或无响应"
     service="microsoft.compute"
     resource="virtualmachines"

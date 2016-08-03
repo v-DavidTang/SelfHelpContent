@@ -1,5 +1,5 @@
 <properties
-    pageTitle="开源技术/python"
+    pageTitle="open source technologies/python"
     description="开源技术/python"
     service="microsoft.web"
     resource="sites"

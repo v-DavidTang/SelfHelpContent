@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/Microsoft 对等互连"
+    pageTitle="connectivity/microsoft peering"
     description="连接/Microsoft 对等互连"
     service="microsoft.network"
     resource="expressroutecircuits"

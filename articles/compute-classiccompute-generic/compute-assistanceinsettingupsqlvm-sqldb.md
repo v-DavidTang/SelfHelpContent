@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和配置/帮助设置 SQL VM"
+    pageTitle="setup and configuration/assistance in setting up sql vm"
     description="设置和配置/帮助设置 SQL VM"
     service="microsoft.compute"
     resource="virtualmachines"

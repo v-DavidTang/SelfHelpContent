@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect Health/Active Directory Federation Services Health 代理"
+    pageTitle="active directory connect health/active directory federation services health agent"
     description="Active Directory Connect Health/Active Directory Federation Services Health 代理"
     service="microsoft.activedirectory"
     resource="activedirectory"

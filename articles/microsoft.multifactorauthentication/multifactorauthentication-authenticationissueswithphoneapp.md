@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/手机应用身份验证问题"
+    pageTitle="service/authentication issues with phone app"
     description="服务/手机应用身份验证问题"
     service="microsoft.multifactorauthentication"
     resource=""

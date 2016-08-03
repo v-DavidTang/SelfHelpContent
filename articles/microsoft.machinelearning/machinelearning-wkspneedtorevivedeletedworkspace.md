@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我需要恢复一个意外删除的工作区"
+    pageTitle="I need to revive a workspace I accidentally deleted"
     description="我需要恢复一个意外删除的工作区"
     service="microsoft.machinelearning"
     resource="workspaces"

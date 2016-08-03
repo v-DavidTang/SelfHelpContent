@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect"
+    pageTitle="active directory connect"
     description="Active Directory Connect"
     service="microsoft.activedirectory"
     resource="activedirectory"

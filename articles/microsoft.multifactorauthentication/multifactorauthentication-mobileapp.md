@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/移动应用"
+    pageTitle="server (phonefactor)/mobile app"
     description="服务器 (phonefactor)/移动应用"
     service="microsoft.multifactorauthentication"
     resource=""

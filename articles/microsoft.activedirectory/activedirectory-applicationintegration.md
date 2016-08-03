@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2C：预览/应用程序集成"
+    pageTitle="b2c: preview/application integration"
     description="B2C：预览/应用程序集成"
     service="microsoft.activedirectory"
     resource="activedirectory"

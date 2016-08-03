@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/IP 配置"
+    pageTitle="configuration and management/ip configuration"
     description="配置和管理/IP 配置"
     service="microsoft.web"
     resource="sites"

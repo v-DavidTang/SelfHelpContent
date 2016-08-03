@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/创建终结点"
+    pageTitle="configuration and setup/create endpoints"
     description="配置和设置/创建终结点"
     service="microsoft.compute"
     resource="virtualmachines"

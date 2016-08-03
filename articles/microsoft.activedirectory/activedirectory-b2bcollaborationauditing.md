@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2B 协作：预览/B2B 协作：审核"
+    pageTitle="b2b collaboration: preview/b2b collaboration: auditing"
     description="B2B 协作：预览/B2B 协作：审核"
     service="microsoft.activedirectory"
     resource="activedirectory"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory 同步/排查 Active Directory 同步问题"
+    pageTitle="active directory synchronization/troubleshooting active directory synchronization"
     description="Active Directory 同步/排查 Active Directory 同步问题"
     service="microsoft.activedirectory"
     resource="activedirectory"

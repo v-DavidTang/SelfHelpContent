@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/缩放"
+    pageTitle="configuration and management/scaling"
     description="配置和管理/缩放"
     service="microsoft.web"
     resource="sites"

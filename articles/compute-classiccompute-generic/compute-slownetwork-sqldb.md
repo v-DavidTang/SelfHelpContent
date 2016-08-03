@@ -1,5 +1,5 @@
 <properties
-    pageTitle="性能/网络速度缓慢"
+    pageTitle="performance/slow network"
     description="性能/网络速度缓慢"
     service="microsoft.compute"
     resource="virtualmachines"

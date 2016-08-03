@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/服务器不可用"
+    pageTitle="connectivity/server is unavailable"
     description="连接/服务器不可用"
     service="microsoft.sql"
     resource="servers"

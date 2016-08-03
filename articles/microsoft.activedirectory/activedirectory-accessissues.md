@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码/访问问题"
+    pageTitle="sign-in and passwords/access issues"
     description="登录和密码/访问问题"
     service="microsoft.activedirectory"
     resource="activedirectory"

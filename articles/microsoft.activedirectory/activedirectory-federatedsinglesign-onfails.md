@@ -1,5 +1,5 @@
 <properties
-    pageTitle="软件即服务 (SAAS) 管理和访问/联合单一登录失败"
+    pageTitle="software as a service (saas) management and access/federated single sign-on fails"
     description="软件即服务 (SAAS) 管理和访问/联合单一登录失败"
     service="microsoft.activedirectory"
     resource="activedirectory"

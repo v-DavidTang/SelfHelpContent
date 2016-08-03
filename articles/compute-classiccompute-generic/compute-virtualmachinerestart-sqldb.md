@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/虚拟机重启"
+    pageTitle="connectivity/virtual machine restart"
     description="连接/虚拟机重启"
     service="microsoft.compute"
     resource="virtualmachines"

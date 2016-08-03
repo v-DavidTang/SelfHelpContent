@@ -1,5 +1,5 @@
 <properties
-    pageTitle="部署"
+    pageTitle="deployment"
     description="部署"
     service="microsoft.web"
     resource="sites"

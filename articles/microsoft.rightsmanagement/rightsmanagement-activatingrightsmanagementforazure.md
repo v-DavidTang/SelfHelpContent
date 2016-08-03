@@ -1,5 +1,5 @@
 <properties
-    pageTitle="激活 Azure Rights Management"
+    pageTitle="activating rights management for azure"
     description="激活 Azure Rights Management"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

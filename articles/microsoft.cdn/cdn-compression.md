@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置/压缩"
+    pageTitle="configuration/compression"
     description="配置/压缩"
     service="microsoft.cdn"
     resource="profiles"

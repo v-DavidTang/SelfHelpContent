@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置/流配置"
+    pageTitle="configuration/streaming configuration"
     description="配置/流配置"
     service="microsoft.cdn"
     resource="profiles"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="出现运行失败或触发器失败"
+    pageTitle="I am seeing run or trigger failures"
     description="出现运行失败或触发器失败"
     service="microsoft.logic"
     resource="workflows"

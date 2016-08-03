@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置/查询字符串配置"
+    pageTitle="configuration/query string configuration"
     description="配置/查询字符串配置"
     service="microsoft.cdn"
     resource="profiles"

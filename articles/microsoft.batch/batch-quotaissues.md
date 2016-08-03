@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置问题/配额问题"
+    pageTitle="configuration and setup issues/quota issues"
     description="配置和设置问题/配额问题"
     service="microsoft.batch"
     resource="batchaccounts"

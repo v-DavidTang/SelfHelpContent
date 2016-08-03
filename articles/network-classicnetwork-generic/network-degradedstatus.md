@@ -1,5 +1,5 @@
 <properties
-    pageTitle="降级状态"
+    pageTitle="degraded status"
     description="降级状态"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

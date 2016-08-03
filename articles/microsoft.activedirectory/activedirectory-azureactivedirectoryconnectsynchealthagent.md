@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect Health/Azure Active Directory Connect (Sync) Health 代理"
+    pageTitle="active directory connect health/azure active directory connect (sync) health agent"
     description="Active Directory Connect Health/Azure Active Directory Connect (Sync) Health 代理"
     service="microsoft.activedirectory"
     resource="activedirectory"

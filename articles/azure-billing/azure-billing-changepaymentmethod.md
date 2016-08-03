@@ -1,5 +1,5 @@
 <properties
-    pageTitle="更改付款方式"
+    pageTitle="change payment method"
     description="更改付款方式"
     service="azure-billing"
     resource="billing"

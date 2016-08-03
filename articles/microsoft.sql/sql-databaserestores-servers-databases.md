@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/数据库还原"
+    pageTitle="managing/database restores"
     description="管理/数据库还原"
     service="microsoft.sql"
     resource="servers"

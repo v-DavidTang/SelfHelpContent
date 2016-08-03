@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2C：预览/应用程序运行时错误"
+    pageTitle="b2c: preview/application run-time errors"
     description="B2C：预览/应用程序运行时错误"
     service="microsoft.activedirectory"
     resource="activedirectory"

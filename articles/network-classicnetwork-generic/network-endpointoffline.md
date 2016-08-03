@@ -1,5 +1,5 @@
 <properties
-    pageTitle="终结点脱机"
+    pageTitle="endpoint offline"
     description="终结点脱机"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

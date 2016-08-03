@@ -1,5 +1,5 @@
 <properties
-    pageTitle="站点恢复（VMware 到 Azure）/故障转移后重新保护 VM"
+    pageTitle="Site Recovery (VMware to Azure)/Reprotect VM after failover"
     description="站点恢复（VMware 到 Azure）/故障转移后重新保护 VM"
     service="microsoft.recoveryservices"
     resource="vaults"

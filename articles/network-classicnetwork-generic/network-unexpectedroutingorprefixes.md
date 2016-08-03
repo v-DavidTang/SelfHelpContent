@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/意外的路由或前缀"
+    pageTitle="connectivity/unexpected routing or prefixes"
     description="连接/意外的路由或前缀"
     service="microsoft.network"
     resource="expressroutecircuits"

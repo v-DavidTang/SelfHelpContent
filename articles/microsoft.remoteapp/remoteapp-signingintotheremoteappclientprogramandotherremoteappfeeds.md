@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户体验/登录到 RemoteApp 客户端程序和其他 RemoteApp 源"
+    pageTitle="user experience/signing in to the remoteapp client program and other remoteapp feeds"
     description="用户体验/登录到 RemoteApp 客户端程序和其他 RemoteApp 源"
     service="microsoft.remoteapp"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/数据库"
+    pageTitle="managing/databases"
     description="管理/数据库"
     service="microsoft.sql"
     resource="servers"

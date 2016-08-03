@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2C：预览/未列出我的问题"
+    pageTitle="b2c: preview/my issue is not listed"
     description="B2C：预览/未列出我的问题"
     service="microsoft.activedirectory"
     resource="activedirectory"

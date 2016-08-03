@@ -1,5 +1,5 @@
 <properties
-    pageTitle="性能"
+    pageTitle="performance"
     description="性能"
     service="microsoft.network"
     resource="applicationgateways"

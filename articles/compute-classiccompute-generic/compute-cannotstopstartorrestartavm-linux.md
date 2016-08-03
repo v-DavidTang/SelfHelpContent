@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/无法停止、启动或重新启动 VM"
+    pageTitle="management/cannot stop, start, or restart a vm"
     description="管理/无法停止、启动或重新启动 VM"
     service="microsoft.compute"
     resource="virtualmachines"

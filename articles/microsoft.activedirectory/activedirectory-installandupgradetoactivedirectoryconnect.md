@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect/安装和升级到 Active Directory Connect"
+    pageTitle="active directory connect/install and upgrade to active directory connect"
     description="Active Directory Connect/安装和升级到 Active Directory Connect"
     service="microsoft.activedirectory"
     resource="activedirectory"

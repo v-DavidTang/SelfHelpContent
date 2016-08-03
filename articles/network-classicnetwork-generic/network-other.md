@@ -1,5 +1,5 @@
 <properties
-    pageTitle="其他"
+    pageTitle="other"
     description="其他"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

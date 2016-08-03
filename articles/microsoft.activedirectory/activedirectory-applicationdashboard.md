@@ -1,5 +1,5 @@
 <properties
-    pageTitle="软件即服务 (SAAS) 管理和访问/应用程序仪表板"
+    pageTitle="software as a service (saas) management and access/application dashboard"
     description="软件即服务 (SAAS) 管理和访问/应用程序仪表板"
     service="microsoft.activedirectory"
     resource="activedirectory"

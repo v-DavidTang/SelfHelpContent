@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的逻辑应用未运行"
+    pageTitle="My Logic App is not running"
     description="我的逻辑应用未运行"
     service="microsoft.logic"
     resource="workflows"

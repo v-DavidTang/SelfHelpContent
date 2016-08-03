@@ -1,5 +1,5 @@
 <properties
-    pageTitle="RemoteApp 部署/自定义模板创建、修改和上载"
+    pageTitle="remoteapp deployment/custom template creation, modification, and uploading"
     description="RemoteApp 部署/自定义模板创建、修改和上载"
     service="microsoft.remoteapp"
     resource=""

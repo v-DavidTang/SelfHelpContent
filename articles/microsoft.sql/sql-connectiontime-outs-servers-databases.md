@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/连接超时"
+    pageTitle="connectivity/connection time-outs"
     description="连接/连接超时"
     service="microsoft.sql"
     resource="servers"

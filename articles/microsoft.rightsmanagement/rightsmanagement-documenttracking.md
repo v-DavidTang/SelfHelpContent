@@ -1,5 +1,5 @@
 <properties
-    pageTitle="文档跟踪"
+    pageTitle="document tracking"
     description="文档跟踪"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

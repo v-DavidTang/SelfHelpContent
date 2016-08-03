@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/CDN 不缓存内容"
+    pageTitle="availability and performance/cdn does not cache content"
     description="可用性和性能/CDN 不缓存内容"
     service="microsoft.cdn"
     resource="profiles"

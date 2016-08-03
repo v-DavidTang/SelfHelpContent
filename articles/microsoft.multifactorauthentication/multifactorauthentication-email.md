@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/电子邮件"
+    pageTitle="server (phonefactor)/email"
     description="服务器 (phonefactor)/电子邮件"
     service="microsoft.multifactorauthentication"
     resource=""

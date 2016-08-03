@@ -1,5 +1,5 @@
 <properties
-    pageTitle="购买、升级和取消订阅"
+    pageTitle="purchase, upgrade, and cancel subscriptions"
     description="购买、升级和取消订阅"
     service="azure-subscription-management"
     resource="subscription-management"

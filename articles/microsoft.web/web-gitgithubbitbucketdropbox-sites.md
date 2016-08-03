@@ -1,5 +1,5 @@
 <properties
-    pageTitle="部署/git、github、bitbucket、dropbox"
+    pageTitle="deployment/git, github, bitbucket, dropbox"
     description="部署/git、github、bitbucket、dropbox"
     service="microsoft.web"
     resource="sites"

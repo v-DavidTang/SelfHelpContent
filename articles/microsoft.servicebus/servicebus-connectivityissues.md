@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接问题"
+    pageTitle="connectivity issues"
     description="连接问题"
     service="microsoft.servicebus"
     resource="namespaces"

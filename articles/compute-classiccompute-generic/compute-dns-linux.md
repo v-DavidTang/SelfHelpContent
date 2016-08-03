@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/dns"
+    pageTitle="configuration and setup/dns"
     description="配置和设置/dns"
     service="microsoft.compute"
     resource="virtualmachines"

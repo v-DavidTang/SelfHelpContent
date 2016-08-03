@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/BizTalk 连接器"
+    pageTitle="configuration and management/biztalk connectors"
     description="配置和管理/BizTalk 连接器"
     service="microsoft.logic"
     resource="workflows"

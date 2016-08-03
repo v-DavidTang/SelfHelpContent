@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理门户/门户中未提供 CDN 选项"
+    pageTitle="management portal/cdn option is not available in portal"
     description="管理门户/门户中未提供 CDN 选项"
     service="microsoft.cdn"
     resource="profiles"

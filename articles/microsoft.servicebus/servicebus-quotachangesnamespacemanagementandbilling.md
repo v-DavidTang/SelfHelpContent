@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配额更改、命名空间管理和计费"
+    pageTitle="quota changes, namespace management, and billing"
     description="配额更改、命名空间管理和计费"
     service="microsoft.servicebus"
     resource="namespaces"

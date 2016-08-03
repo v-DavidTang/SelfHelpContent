@@ -1,5 +1,5 @@
 <properties
-    pageTitle="如何添加和管理管理员"
+    pageTitle="how to add and manage admins"
     description="如何添加和管理管理员"
     service="azure-subscription-management"
     resource="subscription-management"

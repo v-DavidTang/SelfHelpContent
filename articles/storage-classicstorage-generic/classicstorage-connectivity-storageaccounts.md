@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接"
+    pageTitle="connectivity"
     description="连接"
     service="microsoft.classicstorage"
     resource="storageaccounts"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/Azure 门户中未显示 Azure 应用"
+    pageTitle="configuration and management/azure app is not visible in azure portal"
     description="配置和管理/Azure 门户中未显示 Azure 应用"
     service="microsoft.web"
     resource="sites"

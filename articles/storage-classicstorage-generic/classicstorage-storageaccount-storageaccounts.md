@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/存储帐户"
+    pageTitle="configuration and setup/storage account"
     description="配置和设置/存储帐户"
     service="microsoft.classicstorage"
     resource="storageaccounts"

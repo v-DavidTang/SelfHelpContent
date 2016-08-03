@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/IIS 身份验证"
+    pageTitle="server (phonefactor)/iis authentication"
     description="服务器 (phonefactor)/IIS 身份验证"
     service="microsoft.multifactorauthentication"
     resource=""

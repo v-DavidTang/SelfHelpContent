@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/门户问题"
+    pageTitle="configuration and setup/portal issues"
     description="配置和设置/门户问题"
     service="microsoft.network"
     resource="expressroutecircuits"

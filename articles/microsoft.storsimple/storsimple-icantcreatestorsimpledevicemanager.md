@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法创建 StorSimple 设备管理器"
+    pageTitle="I can't create a StorSimple Device Manager"
     description="无法创建 StorSimple 设备管理器"
     service="microsoft.storsimple"
     resource="managers"

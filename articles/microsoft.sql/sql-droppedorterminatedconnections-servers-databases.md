@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/已删除或终止的连接"
+    pageTitle="connectivity/dropped or terminated connections"
     description="连接/已删除或终止的连接"
     service="microsoft.sql"
     resource="servers"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="SharePoint Online"
+    pageTitle="sharepoint online"
     description="SharePoint Online"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

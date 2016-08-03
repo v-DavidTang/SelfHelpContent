@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法注册虚拟阵列"
+    pageTitle="I can't register my virtual array"
     description="无法注册虚拟阵列。"
     service="microsoft.storsimple"
     resource="managers"

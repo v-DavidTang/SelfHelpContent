@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2C：预览/创建 B2C 目录"
+    pageTitle="b2c: preview/create a b2c directory"
     description="B2C：预览/创建 B2C 目录"
     service="microsoft.activedirectory"
     resource="activedirectory"

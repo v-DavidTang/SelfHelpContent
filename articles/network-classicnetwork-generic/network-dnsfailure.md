@@ -1,5 +1,5 @@
 <properties
-    pageTitle="DNS 失败"
+    pageTitle="dns failure"
     description="DNS 失败"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/Azure 公共对等互连"
+    pageTitle="connectivity/azure public peering"
     description="连接/Azure 公共对等互连"
     service="microsoft.network"
     resource="expressroutecircuits"

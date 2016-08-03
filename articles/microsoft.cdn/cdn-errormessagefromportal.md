@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理门户/门户中的错误消息"
+    pageTitle="management portal/error message from portal"
     description="管理门户/门户中的错误消息"
     service="microsoft.cdn"
     resource="profiles"

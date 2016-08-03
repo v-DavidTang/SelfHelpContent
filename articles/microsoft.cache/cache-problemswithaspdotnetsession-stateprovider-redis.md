@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Redis 缓存/ASP.NET 会话状态提供程序问题"
+    pageTitle="redis cache/problems with asp.net session-state provider"
     description="Redis 缓存/ASP.NET 会话状态提供程序问题"
     service="microsoft.cache"
     resource="redis"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="基础结构设置/Active Directory 联合身份验证配置（STS 和 AD FS）"
+    pageTitle="infrastructure setup/active directory federation configuration (sts and ad fs)"
     description="基础结构设置/Active Directory 联合身份验证配置（STS 和 AD FS）"
     service="microsoft.remoteapp"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/管理"
+    pageTitle="connectivity/administration & management"
     description="连接/管理"
     service="microsoft.compute"
     resource="virtualmachines"

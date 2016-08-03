@@ -1,5 +1,5 @@
 <properties
-    pageTitle="群集/群集服务"
+    pageTitle="cluster/cluster services"
     description="群集/群集服务"
     service="microsoft.servicefabric"
     resource="clusters"

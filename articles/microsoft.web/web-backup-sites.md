@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/备份"
+    pageTitle="configuration and management/backup"
     description="配置和管理/备份"
     service="microsoft.web"
     resource="sites"

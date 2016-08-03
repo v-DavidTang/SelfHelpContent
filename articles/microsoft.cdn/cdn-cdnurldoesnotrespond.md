@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/CDN URL 无响应"
+    pageTitle="availability and performance/cdn url does not respond"
     description="可用性和性能/CDN URL 无响应"
     service="microsoft.cdn"
     resource="profiles"

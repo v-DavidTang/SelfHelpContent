@@ -1,5 +1,5 @@
 <properties
-    pageTitle="开源技术/node.js"
+    pageTitle="open source technologies/node.js"
     description="开源技术/node.js"
     service="microsoft.web"
     resource="sites"

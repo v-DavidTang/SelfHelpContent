@@ -1,5 +1,5 @@
 <properties
-    pageTitle="应用程序/错误或异常"
+    pageTitle="application/errors or exceptions"
     description="应用程序/错误或异常"
     service="microsoft.servicefabric"
     resource="clusters"

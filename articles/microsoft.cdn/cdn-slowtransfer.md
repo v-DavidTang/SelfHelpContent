@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/传输速度缓慢"
+    pageTitle="availability and performance/slow transfer"
     description="可用性和性能/传输速度缓慢"
     service="microsoft.cdn"
     resource="profiles"

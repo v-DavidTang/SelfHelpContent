@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect Health/未列出我的问题"
+    pageTitle="active directory connect health/my issue is not listed"
     description="Active Directory Connect Health/未列出我的问题"
     service="microsoft.activedirectory"
     resource="activedirectory"

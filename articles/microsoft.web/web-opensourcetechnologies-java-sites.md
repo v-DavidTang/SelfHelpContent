@@ -1,5 +1,5 @@
 <properties
-    pageTitle="开源技术/java"
+    pageTitle="open source technologies/java"
     description="开源技术/java"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect/通过快速设置来配置目录集成"
+    pageTitle="active directory connect/configure directory integration through express settings"
     description="Active Directory Connect/通过快速设置来配置目录集成"
     service="microsoft.activedirectory"
     resource="activedirectory"

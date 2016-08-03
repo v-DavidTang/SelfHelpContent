@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/创建 VPN"
+    pageTitle="configuration and setup/create a vpn"
     description="配置和设置/创建 VPN"
     service="microsoft.classicnetwork"
     resource="virtualnetworks"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="流量管理器性能"
+    pageTitle="traffic manager performance"
     description="流量管理器性能"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

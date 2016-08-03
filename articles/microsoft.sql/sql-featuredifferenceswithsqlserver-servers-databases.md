@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设计和开发/与 SQL Server 之间的功能差异"
+    pageTitle="design and development/feature differences with sql server"
     description="设计和开发/与 SQL Server 之间的功能差异"
     service="microsoft.sql"
     resource="servers"

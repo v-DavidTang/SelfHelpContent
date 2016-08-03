@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/其他"
+    pageTitle="availability and performance/other"
     description="可用性和性能/其他"
     service="microsoft.cdn"
     resource="profiles"

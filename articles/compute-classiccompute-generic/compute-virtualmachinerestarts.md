@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/虚拟机重新启动"
+    pageTitle="management/virtual machine restarts"
     description="管理/虚拟机重新启动"
     service="microsoft.compute"
     resource="virtualmachines"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="P2S VPN 问题"
+    pageTitle="p2s vpn issues"
     description="P2S VPN 问题"
     service="microsoft.network"
     resource="virtualnetworkgateways"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="门户和 PowerShell 命令"
+    pageTitle="portal and powershell commands"
     description="门户和 PowerShell 命令"
     service="microsoft.servicebus"
     resource="namespaces"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和配置/有关 SQL Azure VM 许可证的问题"
+    pageTitle="setup and configuration/question on sql azure vm license"
     description="设置和配置/有关 SQL Azure VM 许可证的问题"
     service="microsoft.compute"
     resource="virtualmachines"

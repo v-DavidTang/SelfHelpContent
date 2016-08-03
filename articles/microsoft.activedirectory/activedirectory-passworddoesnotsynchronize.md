@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory 同步/密码不同步"
+    pageTitle="active directory synchronization/password does not synchronize"
     description="Active Directory 同步/密码不同步"
     service="microsoft.activedirectory"
     resource="activedirectory"

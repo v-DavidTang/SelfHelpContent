@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/Windows 身份验证和终端服务"
+    pageTitle="server (phonefactor)/windows authentication and terminal services"
     description="服务器 (phonefactor)/Windows 身份验证和终端服务"
     service="microsoft.multifactorauthentication"
     resource=""

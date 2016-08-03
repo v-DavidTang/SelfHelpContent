@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2C：预览/策略管理和配置"
+    pageTitle="b2c: preview/policy management and configuration"
     description="B2C：预览/策略管理和配置"
     service="microsoft.activedirectory"
     resource="activedirectory"

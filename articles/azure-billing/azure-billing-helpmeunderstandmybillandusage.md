@@ -1,5 +1,5 @@
 <properties
-    pageTitle="帮助我了解我的帐单和使用情况"
+    pageTitle="help me understand my bill and usage"
     description="帮助我了解我的帐单和使用情况"
     service="azure-billing"
     resource="billing"

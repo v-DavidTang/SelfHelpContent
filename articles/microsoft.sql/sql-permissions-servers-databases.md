@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/权限"
+    pageTitle="managing/permissions"
     description="管理/权限"
     service="microsoft.sql"
     resource="servers"

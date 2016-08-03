@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure 产品和定价"
+    pageTitle="azure offers and pricing"
     description="Azure 产品和定价"
     service="azure-billing"
     resource="billing"

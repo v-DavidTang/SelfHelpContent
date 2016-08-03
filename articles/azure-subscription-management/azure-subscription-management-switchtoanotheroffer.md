@@ -1,5 +1,5 @@
 <properties
-    pageTitle="切换到其他产品"
+    pageTitle="switch to another offer"
     description="切换到其他产品"
     service="azure-subscription-management"
     resource="subscription-management"

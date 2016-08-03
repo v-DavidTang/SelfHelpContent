@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设计和开发/扩展"
+    pageTitle="design and development/scaling out"
     description="设计和开发/扩展"
     service="microsoft.sql"
     resource="servers"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务"
+    pageTitle="service"
     description="服务"
     service="microsoft.multifactorauthentication"
     resource=""

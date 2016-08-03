@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory 同步/设置 Active Directory 同步"
+    pageTitle="active directory synchronization/setting up active directory synchronization"
     description="Active Directory 同步/设置 Active Directory 同步"
     service="microsoft.activedirectory"
     resource="activedirectory"

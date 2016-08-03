@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure Active Directory 域服务（适用于 Azure VM 的域服务）- 预览/配置 Azure AD 域服务的网络"
+    pageTitle="azure active directory domain services (domain services for azure vms) - preview/configuring network for domain services usage"
     description="Azure Active Directory 域服务（适用于 Azure VM 的域服务）- 预览/配置 Azure AD 域服务的网络"
     service="microsoft.activedirectory"
     resource="activedirectory"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码/密码过期"
+    pageTitle="sign-in and passwords/password expiration"
     description="登录和密码/密码过期"
     service="microsoft.activedirectory"
     resource="activedirectory"

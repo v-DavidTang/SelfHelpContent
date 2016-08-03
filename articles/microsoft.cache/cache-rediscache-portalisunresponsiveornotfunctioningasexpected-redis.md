@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Redis 缓存/门户无响应或不按预期方式工作"
+    pageTitle="redis cache/portal is unresponsive or not functioning as expected"
     description="Redis 缓存/门户无响应或不按预期方式工作"
     service="microsoft.cache"
     resource="redis"

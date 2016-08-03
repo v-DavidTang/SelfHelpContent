@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/操作系统激活错误"
+    pageTitle="connectivity/operating system activation errors"
     description="连接/操作系统激活错误"
     service="microsoft.network"
     resource="expressroutecircuits"

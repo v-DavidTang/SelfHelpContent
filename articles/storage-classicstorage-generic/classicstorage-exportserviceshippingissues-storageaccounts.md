@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/导入/导出服务：传送问题"
+    pageTitle="configuration and setup/import/export service: shipping issues"
     description="配置和设置/导入/导出服务：传送问题"
     service="microsoft.classicstorage"
     resource="storageaccounts"

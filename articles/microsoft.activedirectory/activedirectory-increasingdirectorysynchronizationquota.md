@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory 同步/提高 Active Directory 同步配额"
+    pageTitle="active directory synchronization/increasing directory synchronization quota"
     description="Active Directory 同步/提高 Active Directory 同步配额"
     service="microsoft.activedirectory"
     resource="activedirectory"

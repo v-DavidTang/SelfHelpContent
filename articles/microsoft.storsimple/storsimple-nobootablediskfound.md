@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的虚拟阵列不启动"
+    pageTitle="My virtual array isn't booting"
     description="我的虚拟阵列不启动"
     service="microsoft.storsimple"
     resource="managers"

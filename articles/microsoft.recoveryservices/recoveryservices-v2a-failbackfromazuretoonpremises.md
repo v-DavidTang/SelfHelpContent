@@ -1,5 +1,5 @@
 <properties
-    pageTitle="站点恢复（VMware 到 Azure）/从 Azure 故障回复到本地"
+    pageTitle="Site Recovery (VMware to Azure)/Failback from Azure to on-premises"
     description="站点恢复（VMware 到 Azure）/从 Azure 故障回复到本地"
     service="microsoft.recoveryservices"
     resource="vaults"

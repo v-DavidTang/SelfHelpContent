@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/VNet"
+    pageTitle="configuration and management/vnet"
     description="配置和管理/VNet"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性、性能和应用程序问题/HTTP 4xx 错误"
+    pageTitle="availability, performance, and application issues/http 4xx errors"
     description="可用性、性能和应用程序问题/HTTP 4xx 错误"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="RemoteApp 持续管理/管理用户和组对程序的访问"
+    pageTitle="remoteapp ongoing management/managing user and group access to programs"
     description="RemoteApp 持续管理/管理用户和组对程序的访问"
     service="microsoft.remoteapp"
     resource=""

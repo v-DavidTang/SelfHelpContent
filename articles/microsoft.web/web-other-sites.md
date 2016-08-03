@@ -1,5 +1,5 @@
 <properties
-    pageTitle="部署/其他"
+    pageTitle="deployment/other"
     description="部署/其他"
     service="microsoft.web"
     resource="sites"

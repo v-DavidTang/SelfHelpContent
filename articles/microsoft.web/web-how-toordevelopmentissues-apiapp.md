@@ -1,5 +1,5 @@
 <properties
-    pageTitle="操作说明或开发问题"
+    pageTitle="how-to or development issues"
     description="操作说明或开发问题"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设计和开发/Transact-SQL"
+    pageTitle="design and development/transact-sql"
     description="设计和开发/Transact-SQL"
     service="microsoft.sql"
     resource="servers"

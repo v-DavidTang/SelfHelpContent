@@ -1,5 +1,5 @@
 <properties
-    pageTitle="性能/VM 运行缓慢或无响应"
+    pageTitle="performance/vm is slow or unresponsive"
     description="性能/VM 运行缓慢或无响应"
     service="microsoft.compute"
     resource="virtualmachines"

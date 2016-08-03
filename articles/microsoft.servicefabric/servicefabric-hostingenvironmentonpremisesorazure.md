@@ -1,5 +1,5 @@
 <properties
-    pageTitle="群集/托管环境（本地或 Azure）"
+    pageTitle="cluster/hosting environment (on premises or azure)"
     description="群集/托管环境（本地或 Azure）"
     service="microsoft.servicefabric"
     resource="clusters"

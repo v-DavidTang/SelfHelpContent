@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设计和开发/客户端驱动程序和 API"
+    pageTitle="design and development/client drivers and apis"
     description="设计和开发/客户端驱动程序和 API"
     service="microsoft.sql"
     resource="servers"

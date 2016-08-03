@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码/管理密码重置"
+    pageTitle="sign-in and passwords/admin password reset"
     description="登录和密码/管理密码重置"
     service="microsoft.activedirectory"
     resource="activedirectory"

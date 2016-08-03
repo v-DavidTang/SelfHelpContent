@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户管理/订阅和许可证"
+    pageTitle="user management/subscriptions and licenses"
     description="用户管理/订阅和许可证"
     service="microsoft.activedirectory"
     resource="activedirectory"

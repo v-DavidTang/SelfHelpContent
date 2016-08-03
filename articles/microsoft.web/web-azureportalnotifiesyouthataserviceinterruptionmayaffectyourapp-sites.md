@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性、性能和应用程序问题/Azure 门户告知中断服务可能会影响你的应用"
+    pageTitle="availability, performance, and application issues/azure portal notifies you that a service interruption may affect your app"
     description="可用性、性能和应用程序问题/Azure 门户告知中断服务可能会影响你的应用"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/动态管理视图"
+    pageTitle="managing/dynamic management views"
     description="管理/动态管理视图"
     service="microsoft.sql"
     resource="servers"

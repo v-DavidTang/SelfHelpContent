@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure 购买问题"
+    pageTitle="issues with an azure purchase"
     description="Azure 购买问题"
     service="azure-subscription-management"
     resource="subscription-management"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="辅助角色 (PAAS)/应用程序和服务可用性/RDP"
+    pageTitle="worker role (paas)/application and service availability/rdp"
     description="辅助角色 (PAAS)/应用程序和服务可用性/RDP"
     service="microsoft.classiccompute"
     resource="domainnames"

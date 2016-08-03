@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/部署新 VM"
+    pageTitle="configuration and setup/deploy a new vm"
     description="配置和设置/部署新 VM"
     service="microsoft.compute"
     resource="virtualmachines"

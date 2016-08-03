@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码/有关多重身份验证设置的帮助和操作方法"
+    pageTitle="sign-in and passwords/help and how-to information for multi-factor authentication setup"
     description="登录和密码/有关多重身份验证设置的帮助和操作方法"
     service="microsoft.activedirectory"
     resource="activedirectory"

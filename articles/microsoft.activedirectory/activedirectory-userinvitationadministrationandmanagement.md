@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2B 协作：预览/用户邀请管理"
+    pageTitle="b2b collaboration: preview/user invitation administration and management"
     description="B2B 协作：预览/用户邀请管理"
     service="microsoft.activedirectory"
     resource="activedirectory"

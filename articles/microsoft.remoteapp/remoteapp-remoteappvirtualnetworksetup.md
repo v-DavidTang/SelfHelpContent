@@ -1,5 +1,5 @@
 <properties
-    pageTitle="RemoteApp 部署/RemoteApp 虚拟网络设置"
+    pageTitle="remoteapp deployment/remoteapp virtual network setup"
     description="RemoteApp 部署/RemoteApp 虚拟网络设置"
     service="microsoft.remoteapp"
     resource=""

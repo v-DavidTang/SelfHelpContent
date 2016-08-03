@@ -1,5 +1,5 @@
 <properties
-    pageTitle="计费和付款问题"
+    pageTitle="billing and payment issues"
     description="计费和付款问题"
     service="azure-billing"
     resource="billing"

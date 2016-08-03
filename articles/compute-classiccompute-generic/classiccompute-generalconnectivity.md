@@ -1,5 +1,5 @@
 <properties
-    pageTitle="辅助角色 (PAAS)/连接/常规连接"
+    pageTitle="worker role (paas)/connectivity/general connectivity"
     description="辅助角色 (PAAS)/连接/常规连接"
     service="microsoft.classiccompute"
     resource="domainnames"

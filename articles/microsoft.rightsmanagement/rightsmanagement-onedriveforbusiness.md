@@ -1,5 +1,5 @@
 <properties
-    pageTitle="OneDrive for Business"
+    pageTitle="onedrive for business"
     description="OneDrive for Business"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

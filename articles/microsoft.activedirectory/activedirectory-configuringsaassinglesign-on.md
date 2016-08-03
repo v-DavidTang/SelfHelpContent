@@ -1,5 +1,5 @@
 <properties
-    pageTitle="软件即服务 (SAAS) 管理和访问/配置 SAAS 单一登录"
+    pageTitle="software as a service (saas) management and access/configuring saas single sign-on"
     description="软件即服务 (SAAS) 管理和访问/配置 SAAS 单一登录"
     service="microsoft.activedirectory"
     resource="activedirectory"

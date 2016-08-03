@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/用户门户"
+    pageTitle="server (phonefactor)/user portal"
     description="服务器 (phonefactor)/用户门户"
     service="microsoft.multifactorauthentication"
     resource=""

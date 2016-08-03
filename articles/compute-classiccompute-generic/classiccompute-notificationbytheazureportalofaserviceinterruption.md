@@ -1,5 +1,5 @@
 <properties
-    pageTitle="辅助角色 (PAAS)/应用程序和服务可用性/Azure 门户通知已发生服务中断"
+    pageTitle="worker role (paas)/application and service availability/notification by the azure portal of a service interruption"
     description="辅助角色 (PAAS)/应用程序和服务可用性/Azure 门户通知已发生服务中断"
     service="microsoft.classiccompute"
     resource="domainnames"

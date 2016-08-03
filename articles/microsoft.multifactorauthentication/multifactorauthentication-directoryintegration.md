@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/目录集成"
+    pageTitle="server (phonefactor)/directory integration"
     description="服务器 (phonefactor)/目录集成"
     service="microsoft.multifactorauthentication"
     resource=""

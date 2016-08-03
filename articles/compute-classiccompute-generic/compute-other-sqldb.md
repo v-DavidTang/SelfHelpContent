@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和配置/其他"
+    pageTitle="setup and configuration/other"
     description="设置和配置/其他"
     service="microsoft.compute"
     resource="virtualmachines"

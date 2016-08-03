@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Microsoft Azure Web Apps (azurewebsites.net) 配置"
+    pageTitle="microsoft azure web apps (azurewebsites.net) configuration"
     description="Microsoft Azure Web Apps (azurewebsites.net) 配置"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

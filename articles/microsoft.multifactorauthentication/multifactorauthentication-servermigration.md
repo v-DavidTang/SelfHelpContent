@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/服务器迁移"
+    pageTitle="server (phonefactor)/server migration"
     description="服务器 (phonefactor)/服务器迁移"
     service="microsoft.multifactorauthentication"
     resource=""

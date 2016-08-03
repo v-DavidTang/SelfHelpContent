@@ -1,5 +1,5 @@
 <properties
-    pageTitle="工具/SQL Server Management Studio"
+    pageTitle="tools/sql server management studio"
     description="工具/SQL Server Management Studio"
     service="microsoft.sql"
     resource="servers"

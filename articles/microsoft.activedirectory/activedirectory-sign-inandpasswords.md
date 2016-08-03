@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码"
+    pageTitle="sign-in and passwords"
     description="登录和密码"
     service="microsoft.activedirectory"
     resource="activedirectory"

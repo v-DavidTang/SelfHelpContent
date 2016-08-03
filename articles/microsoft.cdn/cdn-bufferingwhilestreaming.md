@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/一边缓冲一边流式传输"
+    pageTitle="availability and performance/buffering while streaming"
     description="可用性和性能/一边缓冲一边流式传输"
     service="microsoft.cdn"
     resource="profiles"

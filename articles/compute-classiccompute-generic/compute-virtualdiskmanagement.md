@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/虚拟磁盘管理"
+    pageTitle="configuration and setup/virtual disk management"
     description="配置和设置/虚拟磁盘管理"
     service="microsoft.compute"
     resource="virtualmachines"

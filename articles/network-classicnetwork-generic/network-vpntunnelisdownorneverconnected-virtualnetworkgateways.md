@@ -1,5 +1,5 @@
 <properties
-    pageTitle="VPN 隧道关闭或从未连接"
+    pageTitle="vpn tunnel is down or never connected"
     description="VPN 隧道关闭或从未连接"
     service="microsoft.network"
     resource="virtualnetworkgateways"

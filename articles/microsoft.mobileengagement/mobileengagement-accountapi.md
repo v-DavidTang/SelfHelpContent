@@ -1,5 +1,5 @@
 <properties
-    pageTitle="API/帐户 API"
+    pageTitle="api/account api"
     description="API/帐户 API"
     service="microsoft.mobileengagement"
     resource="appcollections"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/ARM 模板问题"
+    pageTitle="configuration and setup/arm template issues"
     description="配置和设置/ARM 模板问题"
     service="microsoft.network"
     resource="expressroutecircuits"

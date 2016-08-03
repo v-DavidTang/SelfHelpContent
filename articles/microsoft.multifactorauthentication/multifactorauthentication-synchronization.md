@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/同步"
+    pageTitle="server (phonefactor)/synchronization"
     description="服务器 (phonefactor)/同步"
     service="microsoft.multifactorauthentication"
     resource=""

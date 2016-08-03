@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和配置/升级 SQL VM 或 SQL 版本"
+    pageTitle="setup and configuration/upgrading sql vm or sql edition"
     description="设置和配置/升级 SQL VM 或 SQL 版本"
     service="microsoft.compute"
     resource="virtualmachines"

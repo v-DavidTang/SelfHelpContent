@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理/复制数据库"
+    pageTitle="managing/copying databases"
     description="管理/复制数据库"
     service="microsoft.sql"
     resource="servers"

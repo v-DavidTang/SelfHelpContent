@@ -1,5 +1,5 @@
 <properties
-    pageTitle="开源技术/php"
+    pageTitle="open source technologies/php"
     description="开源技术/php"
     service="microsoft.web"
     resource="sites"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="作业执行问题/运行时错误"
+    pageTitle="job execution issues/runtime errors"
     description="作业执行问题/运行时错误"
     service="microsoft.batch"
     resource="batchaccounts"

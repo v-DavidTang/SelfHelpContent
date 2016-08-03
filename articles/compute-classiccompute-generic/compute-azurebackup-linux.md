@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/Azure 备份"
+    pageTitle="configuration and setup/azure backup"
     description="配置和设置/Azure 备份"
     service="microsoft.compute"
     resource="virtualmachines"

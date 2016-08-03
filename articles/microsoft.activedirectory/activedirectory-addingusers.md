@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户管理/添加用户"
+    pageTitle="user management/adding users"
     description="用户管理/添加用户"
     service="microsoft.activedirectory"
     resource="activedirectory"

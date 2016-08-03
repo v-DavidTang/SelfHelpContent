@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/创建或删除 Web 应用"
+    pageTitle="configuration and management/creating or deleting web app"
     description="配置和管理/创建或删除 Web 应用"
     service="microsoft.web"
     resource="sites"

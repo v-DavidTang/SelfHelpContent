@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/防火墙规则"
+    pageTitle="connectivity/firewall rules"
     description="连接/防火墙规则"
     service="microsoft.sql"
     resource="servers"

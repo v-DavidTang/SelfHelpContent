@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect/通过 Active Directory Connect 自定义设置将 ADFS 设置为支持 SSO"
+    pageTitle="active directory connect/set up adfs for sso through active directory connect custom settings"
     description="Active Directory Connect/通过 Active Directory Connect 自定义设置将 ADFS 设置为支持 SSO"
     service="microsoft.activedirectory"
     resource="activedirectory"

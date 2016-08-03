@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect Health/无法访问 Active Directory Connect Health 扩展"
+    pageTitle="active directory connect health/cannot access active directory connect health extension"
     description="Active Directory Connect Health/无法访问 Active Directory Connect Health 扩展"
     service="microsoft.activedirectory"
     resource="activedirectory"

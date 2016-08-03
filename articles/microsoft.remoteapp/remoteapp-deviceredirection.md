@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户体验/设备重定向"
+    pageTitle="user experience/device redirection"
     description="用户体验/设备重定向"
     service="microsoft.remoteapp"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="支持的付款方式和币种"
+    pageTitle="supported payment methods and currencies"
     description="支持的付款方式和币种"
     service="azure-billing"
     resource="billing"

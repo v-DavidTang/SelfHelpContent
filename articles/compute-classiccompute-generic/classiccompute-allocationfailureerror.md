@@ -1,5 +1,5 @@
 <properties
-    pageTitle="辅助角色 (PAAS)/应用程序和服务可用性/分配失败错误"
+    pageTitle="worker role (paas)/application and service availability/allocation failure error"
     description="辅助角色 (PAAS)/应用程序和服务可用性/分配失败错误"
     service="microsoft.classiccompute"
     resource="domainnames"

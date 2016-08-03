@@ -1,5 +1,5 @@
 <properties
-    pageTitle="软件即服务 (SAAS) 管理和访问/密码单一登录浏览器扩展"
+    pageTitle="software as a service (saas) management and access/password single sign-on browser extension"
     description="软件即服务 (SAAS) 管理和访问/密码单一登录浏览器扩展"
     service="microsoft.activedirectory"
     resource="activedirectory"

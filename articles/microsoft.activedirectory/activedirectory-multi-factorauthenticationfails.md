@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码/多重身份验证失败"
+    pageTitle="sign-in and passwords/multi-factor authentication fails"
     description="登录和密码/多重身份验证失败"
     service="microsoft.activedirectory"
     resource="activedirectory"

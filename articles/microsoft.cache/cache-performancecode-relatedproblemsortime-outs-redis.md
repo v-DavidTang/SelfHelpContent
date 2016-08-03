@@ -1,5 +1,5 @@
 <properties
-    pageTitle="托管缓存/性能、代码相关的问题或超时"
+    pageTitle="managed cache/performance, code-related problems, or time-outs"
     description="托管缓存/性能、代码相关的问题或超时"
     service="microsoft.cache"
     resource="redis"

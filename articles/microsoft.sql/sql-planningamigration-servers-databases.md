@@ -1,5 +1,5 @@
 <properties
-    pageTitle="迁移到 Azure/规划迁移"
+    pageTitle="migrating to azure/planning a migration"
     description="迁移到 Azure/规划迁移"
     service="microsoft.sql"
     resource="servers"

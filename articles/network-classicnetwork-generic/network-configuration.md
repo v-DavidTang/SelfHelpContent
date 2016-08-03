@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置"
+    pageTitle="configuration"
     description="配置"
     service="microsoft.network"
     resource="trafficmanagerprofiles"

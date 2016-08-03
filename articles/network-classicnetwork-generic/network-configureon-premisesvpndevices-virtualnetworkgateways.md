@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置本地 VPN 设备"
+    pageTitle="configure on-premises vpn devices"
     description="配置本地 VPN 设备"
     service="microsoft.network"
     resource="virtualnetworkgateways"

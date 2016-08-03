@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/无法使用 rdp 或 ssh 连接到虚拟机"
+    pageTitle="connectivity/cannot connect to virtual machine by using rdp or ssh"
     description="连接/无法使用 rdp 或 ssh 连接到虚拟机"
     service="microsoft.compute"
     resource="virtualmachines"

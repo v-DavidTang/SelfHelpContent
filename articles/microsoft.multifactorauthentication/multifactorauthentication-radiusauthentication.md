@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务器 (phonefactor)/Radius 身份验证"
+    pageTitle="server (phonefactor)/radius authentication"
     description="服务器 (phonefactor)/Radius 身份验证"
     service="microsoft.multifactorauthentication"
     resource=""

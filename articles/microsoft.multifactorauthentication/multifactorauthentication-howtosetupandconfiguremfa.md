@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/如何设置和配置 MFA"
+    pageTitle="service/how to set up and configure mfa"
     description="服务/如何设置和配置 MFA"
     service="microsoft.multifactorauthentication"
     resource=""

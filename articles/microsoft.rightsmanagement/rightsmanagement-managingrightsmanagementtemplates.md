@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理 Rights Management 模板"
+    pageTitle="managing rights management templates"
     description="管理 Rights Management 模板"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Redis 缓存/性能、代码相关的问题或超时"
+    pageTitle="redis cache/performance, code-related problems, or time-outs"
     description="Redis 缓存/性能、代码相关的问题或超时"
     service="microsoft.cache"
     resource="redis"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/无法通过 AG 侦听器连接到 SQL "
+    pageTitle="connectivity/cannot connect to sql through ag listener"
     description="连接/无法通过 AG 侦听器连接到 SQL "
     service="microsoft.compute"
     resource="virtualmachines"

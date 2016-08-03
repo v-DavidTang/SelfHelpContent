@@ -1,5 +1,5 @@
 <properties
-    pageTitle="本地应用程序"
+    pageTitle="on-premises applications"
     description="本地应用程序"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

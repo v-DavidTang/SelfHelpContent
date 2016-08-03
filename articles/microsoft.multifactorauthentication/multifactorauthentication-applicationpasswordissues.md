@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/应用程序密码问题"
+    pageTitle="service/application password issues"
     description="服务/应用程序密码问题"
     service="microsoft.multifactorauthentication"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Exchange Online"
+    pageTitle="exchange online"
     description="Exchange Online"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

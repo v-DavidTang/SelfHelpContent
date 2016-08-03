@@ -1,5 +1,5 @@
 <properties
-    pageTitle="更改订阅的所有权"
+    pageTitle="change ownership of my subscription"
     description="更改订阅的所有权"
     service="azure-subscription-management"
     resource="subscription-management"

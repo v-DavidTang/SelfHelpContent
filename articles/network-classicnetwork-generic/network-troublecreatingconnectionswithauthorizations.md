@@ -1,5 +1,5 @@
 <properties
-    pageTitle="跨订阅连接问题/在与授权建立连接时出现问题"
+    pageTitle="cross-subscription connectivity issues/trouble creating connections with authorizations"
     description="跨订阅连接问题/在与授权建立连接时出现问题"
     service="microsoft.network"
     resource="expressroutecircuits"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="创建和管理 VPN 网关、连接和路由"
+    pageTitle="create and manage vpn gateway, connection, routing"
     description="创建和管理 VPN 网关、连接和路由"
     service="microsoft.network"
     resource="virtualnetworkgateways"

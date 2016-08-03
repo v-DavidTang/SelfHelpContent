@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置问题/帐户创建问题"
+    pageTitle="configuration and setup issues/account creation issues"
     description="配置和设置问题/帐户创建问题"
     service="microsoft.batch"
     resource="batchaccounts"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="管理门户/其他"
+    pageTitle="management portal/other"
     description="管理门户/其他"
     service="microsoft.cdn"
     resource="profiles"

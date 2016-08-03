@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和配置/部署 SQL AlwaysOn AG 模板失败"
+    pageTitle="setup and configuration/failure deploying sql alwayson ag template"
     description="设置和配置/部署 SQL AlwaysOn AG 模板失败"
     service="microsoft.compute"
     resource="virtualmachines"

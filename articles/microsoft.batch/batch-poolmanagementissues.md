@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置问题/池管理问题"
+    pageTitle="configuration and setup issues/pool management issues"
     description="配置和设置问题/池管理问题"
     service="microsoft.batch"
     resource="batchaccounts"

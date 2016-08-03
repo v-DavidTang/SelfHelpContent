@@ -1,5 +1,5 @@
 <properties
-    pageTitle="报告"
+    pageTitle="reporting"
     description="报告"
     service="microsoft.activedirectory"
     resource="activedirectory"

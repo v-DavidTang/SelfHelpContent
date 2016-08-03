@@ -1,5 +1,5 @@
 <properties
-    pageTitle="虚拟阵列已脱机"
+    pageTitle="My virtual array is offline"
     description="虚拟阵列已脱机"
     service="microsoft.storsimple"
     resource="managers"

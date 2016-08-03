@@ -1,5 +1,5 @@
 <properties
-    pageTitle="查询执行/限制和调控"
+    pageTitle="query execution/throttling and governance"
     description="查询执行/限制和调控"
     service="microsoft.sql"
     resource="servers"

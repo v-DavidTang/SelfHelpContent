@@ -1,5 +1,5 @@
 <properties
-    pageTitle="客户端 SDK 问题/REST API"
+    pageTitle="client sdk issues/rest api"
     description="客户端 SDK 问题/REST API"
     service="microsoft.batch"
     resource="batchaccounts"

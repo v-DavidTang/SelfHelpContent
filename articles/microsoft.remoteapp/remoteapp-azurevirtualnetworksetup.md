@@ -1,5 +1,5 @@
 <properties
-    pageTitle="基础结构设置/Azure 虚拟网络设置"
+    pageTitle="infrastructure setup/azure virtual network setup"
     description="基础结构设置/Azure 虚拟网络设置"
     service="microsoft.remoteapp"
     resource=""

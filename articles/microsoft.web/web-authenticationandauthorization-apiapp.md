@@ -1,5 +1,5 @@
 <properties
-    pageTitle="身份验证和授权"
+    pageTitle="authentication and authorization"
     description="身份验证和授权"
     service="microsoft.web"
     resource="sites"

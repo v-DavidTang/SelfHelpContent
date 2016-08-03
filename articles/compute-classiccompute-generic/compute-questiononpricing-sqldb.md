@@ -1,5 +1,5 @@
 <properties
-    pageTitle="设置和配置/有关定价的问题"
+    pageTitle="setup and configuration/question on pricing"
     description="设置和配置/有关定价的问题"
     service="microsoft.compute"
     resource="virtualmachines"

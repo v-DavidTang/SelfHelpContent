@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性、性能和应用程序问题/其他"
+    pageTitle="availability, performance, and application issues/other"
     description="可用性、性能和应用程序问题/其他"
     service="microsoft.web"
     resource="sites"

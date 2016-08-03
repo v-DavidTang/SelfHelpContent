@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/短信身份验证问题"
+    pageTitle="service/authentication issues with sms"
     description="服务/短信身份验证问题"
     service="microsoft.multifactorauthentication"
     resource=""

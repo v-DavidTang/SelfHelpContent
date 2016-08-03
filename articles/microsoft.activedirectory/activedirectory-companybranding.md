@@ -1,5 +1,5 @@
 <properties
-    pageTitle="登录和密码/公司品牌"
+    pageTitle="sign-in and passwords/company branding"
     description="登录和密码/公司品牌"
     service="microsoft.activedirectory"
     resource="activedirectory"

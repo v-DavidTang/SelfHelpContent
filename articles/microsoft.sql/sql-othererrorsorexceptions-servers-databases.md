@@ -1,5 +1,5 @@
 <properties
-    pageTitle="查询执行/其他错误或异常"
+    pageTitle="query execution/other errors or exceptions"
     description="查询执行/其他错误或异常"
     service="microsoft.sql"
     resource="servers"

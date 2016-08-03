@@ -1,5 +1,5 @@
 <properties
-    pageTitle="RemoteApp 部署/为用户和组分配已发布程序访问权限"
+    pageTitle="remoteapp deployment/assigning users and groups access to published programs"
     description="RemoteApp 部署/为用户和组分配已发布程序访问权限"
     service="microsoft.remoteapp"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="用户管理/企业状态漫游"
+    pageTitle="user management/enterprise state roaming"
     description="用户管理/企业状态漫游"
     service="microsoft.activedirectory"
     resource="activedirectory"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="辅助角色 (PAAS)/应用程序和服务可用性/性能"
+    pageTitle="worker role (paas)/application and service availability/performance"
     description="辅助角色 (PAAS)/应用程序和服务可用性/性能"
     service="microsoft.classiccompute"
     resource="domainnames"

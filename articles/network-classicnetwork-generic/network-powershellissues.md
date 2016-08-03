@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/powershell 问题"
+    pageTitle="configuration and setup/powershell issues"
     description="配置和设置/powershell 问题"
     service="microsoft.network"
     resource="expressroutecircuits"

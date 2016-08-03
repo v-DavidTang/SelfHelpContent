@@ -1,5 +1,5 @@
 <properties
-    pageTitle="RemoteApp 持续管理/管理 RemoteApp 虚拟网络"
+    pageTitle="remoteapp ongoing management/managing remoteapp virtual networks"
     description="RemoteApp 持续管理/管理 RemoteApp 虚拟网络"
     service="microsoft.remoteapp"
     resource=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/配置自定义域名"
+    pageTitle="configuration and management/configuring custom domain names"
     description="配置和管理/配置自定义域名"
     service="microsoft.web"
     resource="sites"

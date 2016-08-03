@@ -1,5 +1,5 @@
 <properties
-    pageTitle="请求取消订阅"
+    pageTitle="request for cancellation of a subscription"
     description="请求取消订阅"
     service="azure_subscription_management"
     resource=""

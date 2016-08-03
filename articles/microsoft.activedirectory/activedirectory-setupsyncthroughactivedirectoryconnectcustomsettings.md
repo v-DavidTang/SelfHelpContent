@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect/通过 Active Directory Connect 自定义设置来设置同步"
+    pageTitle="active directory connect/set up sync through active directory connect custom settings"
     description="Active Directory Connect/通过 Active Directory Connect 自定义设置来设置同步"
     service="microsoft.activedirectory"
     resource="activedirectory"

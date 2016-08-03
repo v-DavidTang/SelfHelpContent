@@ -1,5 +1,5 @@
 <properties
-    pageTitle="高可用性/使用 AlwaysOn 时出现问题或错误"
+    pageTitle="high availability/issue or error when using alwayson"
     description="高可用性/使用 AlwaysOn 时出现问题或错误"
     service="microsoft.compute"
     resource="virtualmachines"

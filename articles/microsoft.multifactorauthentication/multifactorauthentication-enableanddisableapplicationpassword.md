@@ -1,5 +1,5 @@
 <properties
-    pageTitle="服务/启用和禁用应用程序密码"
+    pageTitle="service/enable and disable application password"
     description="服务/启用和禁用应用程序密码"
     service="microsoft.multifactorauthentication"
     resource=""

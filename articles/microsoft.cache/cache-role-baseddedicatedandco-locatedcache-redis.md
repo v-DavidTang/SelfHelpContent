@@ -1,5 +1,5 @@
 <properties
-    pageTitle="基于角色的（专用和共置）缓存"
+    pageTitle="role-based (dedicated and co-located) cache"
     description="基于角色的（专用和共置）缓存"
     service="microsoft.cache"
     resource="redis"

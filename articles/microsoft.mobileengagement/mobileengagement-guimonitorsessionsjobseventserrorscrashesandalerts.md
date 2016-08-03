@@ -1,5 +1,5 @@
 <properties
-    pageTitle="分析、监视、分段和仪表板/GUI 监视器：会话、作业、事件、错误、崩溃和警报"
+    pageTitle="analytics, monitoring, segmentation, and dashboards/gui monitor: sessions, jobs, events, errors, crashes, and alerts"
     description="分析、监视、分段和仪表板/GUI 监视器：会话、作业、事件、错误、崩溃和警报"
     service="microsoft.mobileengagement"
     resource="appcollections"

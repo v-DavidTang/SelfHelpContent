@@ -1,5 +1,5 @@
 <properties
-    pageTitle="部署/Visual Studio 或 WebMatrix"
+    pageTitle="deployment/visual studio or webmatrix"
     description="部署/Visual Studio 或 WebMatrix"
     service="microsoft.web"
     resource="sites"

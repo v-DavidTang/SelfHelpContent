@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Active Directory Connect/通过 Active Directory Connect 安装同步引擎"
+    pageTitle="active directory connect/install sync engine through active directory connect"
     description="Active Directory Connect/通过 Active Directory Connect 安装同步引擎"
     service="microsoft.activedirectory"
     resource="activedirectory"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="激活适用于 Office 365 的 Rights Management"
+    pageTitle="activating rights management for office 365"
     description="激活适用于 Office 365 的 Rights Management"
     service="microsoft.rightsmanagement"
     resource="rightsmanagement"

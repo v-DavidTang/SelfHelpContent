@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和管理/配置 SSL"
+    pageTitle="configuration and management/configuring ssl"
     description="配置和管理/配置 SSL"
     service="microsoft.web"
     resource="sites"

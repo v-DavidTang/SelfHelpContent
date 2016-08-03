@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="我需要删除我不拥有的工作区"
+    pageTitle="I need to delete a workspace that I'm not an owner of"
     description="我需要删除我不拥有的工作区"
     service="microsoft.machinelearning"
     resource="workspaces"

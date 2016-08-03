@@ -1,5 +1,5 @@
 <properties
-    pageTitle="可用性和性能/低清流式传输"
+    pageTitle="availability and performance/low-definition streaming"
     description="可用性和性能/低清流式传输"
     service="microsoft.cdn"
     resource="profiles"

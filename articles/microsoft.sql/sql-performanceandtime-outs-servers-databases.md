@@ -1,5 +1,5 @@
 <properties
-    pageTitle="查询执行/性能和超时"
+    pageTitle="query execution/performance and time-outs"
     description="查询执行/性能和超时"
     service="microsoft.sql"
     resource="servers"

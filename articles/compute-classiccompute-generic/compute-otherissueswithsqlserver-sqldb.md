@@ -1,5 +1,5 @@
 <properties
-    pageTitle="连接/其他 SQL Server 问题"
+    pageTitle="connectivity/other issues with sql server"
     description="连接/其他 SQL Server 问题"
     service="microsoft.compute"
     resource="virtualmachines"

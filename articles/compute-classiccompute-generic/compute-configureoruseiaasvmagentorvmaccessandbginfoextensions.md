@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/配置或使用 iaas vm 代理或 vmaccess 和 bginfo 扩展"
+    pageTitle="configuration and setup/configure or use iaas vm agent or vmaccess and bginfo extensions"
     description="配置和设置/配置或使用 iaas vm 代理或 vmaccess 和 bginfo 扩展"
     service="microsoft.compute"
     resource="virtualmachines"

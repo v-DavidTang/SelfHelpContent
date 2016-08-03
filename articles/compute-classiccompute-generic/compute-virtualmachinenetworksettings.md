@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/虚拟机网络设置"
+    pageTitle="configuration and setup/virtual machine network settings"
     description="配置和设置/虚拟机网络设置"
     service="microsoft.compute"
     resource="virtualmachines"

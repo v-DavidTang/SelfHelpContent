@@ -1,5 +1,5 @@
 <properties
-    pageTitle="B2C：预览/用户和组管理"
+    pageTitle="b2c: preview/user and group management"
     description="B2C：预览/用户和组管理"
     service="microsoft.activedirectory"
     resource="activedirectory"

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置和设置/网络"
+    pageTitle="configuration and setup/network"
     description="配置和设置/网络"
     service="microsoft.classicnetwork"
     resource="virtualnetworks"
