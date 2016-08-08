@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="I have a question regarding billing for machine learing web service plans"
+    pageTitle="我对机器学习 Web 服务计划的计费有疑问"
     description="我对机器学习 Web 服务计划的计费有疑问"
     service="microsoft.machinelearning"
     resource="commitmentPlans"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 
