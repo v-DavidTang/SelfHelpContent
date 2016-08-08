@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的存储帐户可缩放性目标是什么？"
+    pageTitle="What are my Storage account scalability targets?"
     description="我的存储帐户可缩放性目标是什么？"
     service="microsoft.storage"
     resource="storageaccounts"

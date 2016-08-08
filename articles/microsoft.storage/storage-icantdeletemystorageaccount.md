@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法删除存储帐户"
+    pageTitle="I can't delete my storage account"
     description="无法删除存储帐户"
     service="microsoft.storage"
     resource="storageaccounts"

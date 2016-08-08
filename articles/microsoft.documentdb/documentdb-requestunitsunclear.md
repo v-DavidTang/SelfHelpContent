@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我的请求单位 (RU) 费用不明确"
+    pageTitle="My request unit (RU) charging is unclear"
     description="我的请求单位 (RU) 费用不明确"
     service="microsoft.documentdb"
     resource="databaseAccounts"

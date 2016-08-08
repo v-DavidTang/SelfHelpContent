@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我需要更大的存储空间/吞吐量"
+    pageTitle="I need more storage/throughput"
     description="我需要更大的存储空间/吞吐量"
     service="microsoft.documentdb"
     resource="databaseAccounts"

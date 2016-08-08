@@ -1,5 +1,5 @@
 <properties
-    pageTitle="无法连接到网关"
+    pageTitle="I can’t connect to a gateway"
     description="无法连接到 Server 管理工具网关"
     service="microsoft.servermanagement"
     resource="gateways"
