@@ -1,5 +1,5 @@
 <properties
-    pageTitle="infrastructure setup/azure virtual network setup"
+    pageTitle="基础结构设置/Azure 虚拟网络设置"
     description="基础结构设置/Azure 虚拟网络设置"
     service="microsoft.remoteapp"
     resource=""
@@ -18,7 +18,7 @@
 
 ## **建议的文档**
 [规划 Azure RemoteApp 虚拟网络](https://azure.microsoft.com/documentation/articles/remoteapp-planvnet/)<br>
-[要加入虚拟网络白名单的端口和 URL 列表](https://azure.microsoft.com/documentation/articles/remoteapp-ports/)
+[要加入虚拟网络允许列表的端口和 URL 列表](https://azure.microsoft.com/documentation/articles/remoteapp-ports/)
 
 
 

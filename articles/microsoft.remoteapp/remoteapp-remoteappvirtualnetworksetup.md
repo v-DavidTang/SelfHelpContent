@@ -1,5 +1,5 @@
 <properties
-    pageTitle="remoteapp deployment/remoteapp virtual network setup"
+    pageTitle="RemoteApp 部署/RemoteApp 虚拟网络设置"
     description="RemoteApp 部署/RemoteApp 虚拟网络设置"
     service="microsoft.remoteapp"
     resource=""
@@ -17,7 +17,7 @@
 
 ## **建议的文档**
 [规划 Azure RemoteApp 虚拟网络](https://azure.microsoft.com/documentation/articles/remoteapp-planvnet/)<br>
-[要加入虚拟网络白名单的端口和 URL 列表](https://azure.microsoft.com/documentation/articles/remoteapp-ports/)
+[要加入虚拟网络允许列表的端口和 URL 列表](https://azure.microsoft.com/documentation/articles/remoteapp-ports/)
 
 
 
