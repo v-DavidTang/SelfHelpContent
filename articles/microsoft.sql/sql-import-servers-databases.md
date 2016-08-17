@@ -1,5 +1,5 @@
 <properties
-    pageTitle="导入/导出服务/导入"
+    pageTitle="import/export service/import"
     description="导入/导出服务/导入"
     service="microsoft.sql"
     resource="servers"

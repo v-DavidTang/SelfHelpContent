@@ -1,5 +1,5 @@
 <properties
-    pageTitle="咨询和开发问题"
+    pageTitle="advisory and development questions"
     description="咨询和开发问题"
     service="microsoft.servicebus"
     resource="namespaces"

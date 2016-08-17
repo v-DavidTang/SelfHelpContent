@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Windows 备份到 Azure 备份/计划 Windows Server 或客户端的备份"
+    pageTitle="Windows Backup to Azure Backup/Schedule backup for a Windows Server or a client"
     description="Windows 备份到 Azure 备份/计划 Windows Server 或客户端的备份"
     service="microsoft.recoveryservices"
     resource="vaults"

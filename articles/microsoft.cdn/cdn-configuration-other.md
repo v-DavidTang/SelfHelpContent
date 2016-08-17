@@ -1,5 +1,5 @@
 <properties
-    pageTitle="配置/其他"
+    pageTitle="configuration/other"
     description="配置/其他"
     service="microsoft.cdn"
     resource="profiles"

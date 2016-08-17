@@ -1,5 +1,5 @@
 <properties
-    pageTitle="部署/FTP"
+    pageTitle="deployment/ftp"
     description="部署/FTP"
     service="microsoft.web"
     resource="sites"

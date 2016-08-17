@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure IAAS VM 备份/注册或备份 Windows 虚拟机"
+    pageTitle="azure iaas vm backup/register or back up a windows virtual machine"
     description="Azure IAAS VM 备份/注册或备份 Windows 虚拟机"
     service="microsoft.recoveryservices"
     resource="vaults"

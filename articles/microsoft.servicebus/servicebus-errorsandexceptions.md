@@ -1,5 +1,5 @@
 <properties
-    pageTitle="错误和异常"
+    pageTitle="errors and exceptions"
     description="错误和异常"
     service="microsoft.servicebus"
     resource="namespaces"
