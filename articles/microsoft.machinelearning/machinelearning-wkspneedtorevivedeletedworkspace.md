@@ -19,11 +19,11 @@
 若要解决此问题，请尝试执行以下步骤。
  
  1. 收集有关你要恢复的已删除工作区的任何可用信息（例如工作区 ID、名称、订阅名称、订阅 ID、所有者的电子邮件地址）。
- 2. 创建[支持票证](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)，并在请求中包含所有可用信息。
+ 2. 提交[支持请求](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)，并在请求中包含所有可用信息。
 
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Aug16_HO2-->
 
 

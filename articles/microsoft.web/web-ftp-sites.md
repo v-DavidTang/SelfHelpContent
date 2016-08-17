@@ -1,5 +1,5 @@
 <properties
-    pageTitle="deployment/ftp"
+    pageTitle="部署/FTP"
     description="部署/FTP"
     service="microsoft.web"
     resource="sites"
@@ -19,7 +19,9 @@
 问题：使用 FTP 连接网站失败
 
 1. 请检查是否输入了正确的主机名和凭据
-2. 请检查防火墙是否阻止了端口。a. FTP 控制连接端口：21。b. FTP 数据连接端口：989、10001-10300。
+2. 请检查防火墙是否阻止了端口
+    1. FTP 控制连接端口：21  
+    2. FTP 数据连接端口：989、10001-10300。
 
 ## **建议的文档**
 [通过 FTP 访问文件](https://github.com/projectkudu/kudu/wiki/Accessing-files-via-ftp)<br>
@@ -27,6 +29,6 @@
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 

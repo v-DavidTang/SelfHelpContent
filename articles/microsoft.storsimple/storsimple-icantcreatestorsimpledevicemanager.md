@@ -14,7 +14,11 @@
 
 
 # 无法创建 StorSimple 设备管理器
-StorSimple 设备管理器仅支持 Microsoft Azure Enterprise 协议和 MSDN 订阅。 不支持即用即付、预付费和 Azure 开放许可。
+虚拟阵列的 StorSimple 设备管理器仅支持 Microsoft Azure Enterprise 协议和 MSDN 订阅。 <br>
+<br>
+8000 系列的 StorSimple 设备管理器仅支持 Microsoft Azure Enterprise 协议。 <br>
+<br>
+不支持即用即付、预付费和 Azure 开放许可。
 
 ## **建议的步骤**
 * 确认你是否拥有 Microsoft Azure Enterprise 协议或 MSDN 订阅。
@@ -25,6 +29,6 @@ StorSimple 设备管理器仅支持 Microsoft Azure Enterprise 协议和 MSDN �
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO2-->
 
 
