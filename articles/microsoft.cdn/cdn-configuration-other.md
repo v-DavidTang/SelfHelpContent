@@ -1,9 +1,9 @@
 <properties
-    pageTitle="configuration/other"
+    pageTitle="配置/其他"
     description="配置/其他"
-    service="microsoft.contentdeliverynetwork"
-    resource=""
-    authors=""
+    service="microsoft.cdn"
+    resource="profiles"
+    authors="aashu"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32302794"
@@ -21,6 +21,6 @@
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 

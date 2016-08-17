@@ -16,11 +16,11 @@
 # 辅助角色 (PAAS)/应用程序和服务可用性/IIS 和 ASP.NET 错误
 
 ## **建议的文档**
-[ASP.NET 故障排除和调试](https://msdn.microsoft.com/library/ms178643(v=vs.140).aspx)<br>
+[ASP.NET 故障排除和调试](https://msdn.microsoft.com/library/ms178643.aspx)<br>
 [使用调试诊断工具来排查导致响应停止的进程](http://blogs.msdn.com/b/debugdiag/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO2-->
 
 

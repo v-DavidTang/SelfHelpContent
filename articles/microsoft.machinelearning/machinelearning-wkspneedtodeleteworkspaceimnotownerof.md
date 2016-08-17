@@ -16,10 +16,10 @@
 # 我需要删除我不拥有的工作区
 
 ## **建议的步骤**
-请创建[支持票证](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)来解决此问题。
+请提交[支持请求](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)来解决此问题。
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO2-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="availability, performance, and application issues/http 5xx errors"
+    pageTitle="可用性、性能和应用程序问题/HTTP 5xx 错误"
     description="可用性、性能和应用程序问题/HTTP 5xx 错误"
     service="microsoft.web"
     resource="sites"
@@ -29,10 +29,11 @@
 [远程分析 App Service 上运行的 .NET 应用程序](https://azure.microsoft.com/blog/remote-profiling-support-in-azure-app-service/)<br>
 [如何设置自动修复](http://azure.microsoft.com/blog/2014/02/06/auto-healing-windows-azure-web-sites/)<br>
 [尝试使用本地缓存来减少存储故障引起的应用重启](https://azure.microsoft.com/documentation/articles/app-service-local-cache/)<br>
-[本地缓存视频](https://channel9.msdn.com/Shows/Cloud+Cover/Episode-201-Azure-Web-App-Local-Cache-with-Cory-Fowler)
+[本地缓存视频](https://channel9.msdn.com/Shows/Cloud+Cover/Episode-201-Azure-Web-App-Local-Cache-with-Cory-Fowler)<br>
+[HTTP 状态代码和故障排除提示](https://blogs.msdn.microsoft.com/waws/2016/06/22/troubleshooting-azure-app-service-apps-using-web-server-logs/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 

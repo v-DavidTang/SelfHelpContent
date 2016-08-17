@@ -17,12 +17,12 @@
 
 
 ## **建议的文档**
-[Microsoft Azure 中的公司品牌图片似乎被剪断](http://support.microsoft.com/kb/2951270)<br>
+[Microsoft Azure 中的公司品牌图片似乎被剪断](https://azure.microsoft.com/documentation/articles/active-directory-add-company-branding)<br>
 [在“登录”和“访问面板”页中添加公司品牌](http://msdn.microsoft.com/library/windowsazure/dn532270.aspx)<br>
 [在 Microsoft Azure 中保存对公司品牌所做的更改时遇到“保存品牌时出现意外错误”错误](http://support.microsoft.com/kb/2951275)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO2-->
 
 

@@ -30,10 +30,9 @@
 [Azure 虚拟机中 SQL Server 的性能最佳实践](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-sql-performance/)<br>
 [高级存储： 适用于 Azure 虚拟机工作负荷的高性能存储](https://azure.microsoft.com/documentation/articles/storage-premium-storage/)<br>
 [SQL Server 性能：方法和工具](https://docs.com/ajith-krishnan/8919/sql-server-performance-troubleshooting-approach)<br>
-[Microsoft Azure 虚拟机中的 SQL Server 的性能指南](http://download.microsoft.com/download/D/2/0/D20E1C5F-72EA-4505-9F26-FEF9550EFD44/Performance Guidance for SQL Server in Windows Azure Virtual Machines.docx)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO2-->
 
 

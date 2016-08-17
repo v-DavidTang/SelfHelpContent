@@ -1,5 +1,5 @@
 <properties
-    pageTitle="errors and exceptions"
+    pageTitle="错误和异常"
     description="错误和异常"
     service="microsoft.servicebus"
     resource="namespaces"
@@ -17,10 +17,11 @@
 
 ## **建议的文档**
 [使用服务总线资源管理器来管理和测试实体](https://code.msdn.microsoft.com/Service-Bus-Explorer-f2abca5a)<br>
-[排查异常时需要帮助？](https://azure.microsoft.com/documentation/articles/service-bus-messaging-exceptions/)
+[排查异常时需要帮助？](https://azure.microsoft.com/documentation/articles/service-bus-messaging-exceptions/)<br>
+[看看是否可以在我们的“常见问题”部分中找到答案！](https://azure.microsoft.com/documentation/articles/service-bus-faq/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 
