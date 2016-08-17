@@ -1,6 +1,6 @@
 <properties
-    pageTitle="import\/export service/my issue is not listed"
-    description="导入\/导出服务/未列出我的问题"
+    pageTitle="导入/导出服务/未列出我的问题"
+    description="导入/导出服务/未列出我的问题"
     service="microsoft.sql"
     resource="servers"
     authors="aashu"
@@ -13,13 +13,13 @@
 />
 
 
-# 导入\/导出服务/未列出我的问题
+# 导入/导出服务/未列出我的问题
 
 ## **建议的文档**
 [从 Azure 数据库备份中还原单个表](https://azure.microsoft.com/documentation/articles/sql-database-cloud-migrate-restore-single-table-azure-backup/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 
