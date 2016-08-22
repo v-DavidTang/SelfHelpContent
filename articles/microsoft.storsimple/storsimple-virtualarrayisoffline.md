@@ -1,6 +1,6 @@
 <properties
-    pageTitle="My virtual array is offline"
-    description="虚拟阵列已脱机"
+    pageTitle="My virtual array is offline."
+    description="虚拟阵列已脱机。"
     service="microsoft.storsimple"
     resource="managers"
     authors="anbacker"
@@ -13,7 +13,7 @@
 />
 
 
-# 虚拟阵列已脱机
+# 虚拟阵列已脱机。
 如果你的虚拟阵列已脱机，其原因可能是下列其中一项：
 
 ## **建议的步骤**
@@ -31,6 +31,6 @@
 
 
 
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Aug16_HO3-->
 
 

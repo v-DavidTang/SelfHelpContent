@@ -16,10 +16,10 @@
 # 我对机器学习工作区的计费有疑问
 
 ## **建议的文档**
-[机器学习定价详细信息](https://azure.microsoft.com/en-us/pricing/details/machine-learning/)
+[机器学习定价详细信息](http://go.microsoft.com/fwlink/?LinkId=824637)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO2-->
 
 
