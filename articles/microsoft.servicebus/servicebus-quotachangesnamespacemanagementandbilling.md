@@ -16,10 +16,11 @@
 # 配额更改、命名空间管理和计费
 
 ## **建议的文档**
-[了解服务总线配额及其限制阈值](https://azure.microsoft.com/documentation/articles/service-bus-quotas/)
+[了解服务总线配额及其限制阈值](https://azure.microsoft.com/documentation/articles/service-bus-quotas/)<br>
+[如何将 SB 命名空间迁移到另一个订阅](https://azure.microsoft.com/documentation/articles/service-bus-powershell-how-to-provision/#migrate-a-namespace-to-another-azure-subscription)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO3-->
 
 

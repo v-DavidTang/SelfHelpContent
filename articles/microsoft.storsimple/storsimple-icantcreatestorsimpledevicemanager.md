@@ -1,6 +1,6 @@
 <properties
-    pageTitle="I can't create a StorSimple Device Manager"
-    description="无法创建 StorSimple 设备管理器"
+    pageTitle="I can't create a StorSimple Device Manager."
+    description="无法创建 StorSimple 设备管理器。"
     service="microsoft.storsimple"
     resource="managers"
     authors="anbacker"
@@ -13,7 +13,7 @@
 />
 
 
-# 无法创建 StorSimple 设备管理器
+# 无法创建 StorSimple 设备管理器。
 虚拟阵列的 StorSimple 设备管理器仅支持 Microsoft Azure Enterprise 协议和 MSDN 订阅。 <br>
 <br>
 8000 系列的 StorSimple 设备管理器仅支持 Microsoft Azure Enterprise 协议。 <br>
@@ -29,6 +29,6 @@
 
 
 
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Aug16_HO3-->
 
 

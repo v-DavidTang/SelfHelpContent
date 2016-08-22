@@ -1,6 +1,6 @@
 <properties
-    pageTitle="My virtual array isn't booting"
-    description="我的虚拟阵列不启动"
+    pageTitle="My virtual array doesn't boot up."
+    description="我的虚拟阵列无法启动。"
     service="microsoft.storsimple"
     resource="managers"
     authors="anbacker"
@@ -13,11 +13,11 @@
 />
 
 
-# 我的虚拟阵列不启动。
+# 我的虚拟阵列无法启动。
 如果无法启动预配的虚拟阵列，请检查所用的虚拟磁盘映像版本。 <br>
 常见错误消息： <br>
-    1. `Boot failure. Reboot and Select proper Boot device`<br>
-    2. `Insert Boot Media in selected Boot device`
+    1. `Boot failure. Reboot and Select proper Boot device`.<br>
+    2. `Insert Boot Media in selected Boot device`.
 
 ## **建议的步骤**
 * 如果使用适用于 Windows Server 2008 R2 或更高版本的 VHD，则需要创建**第 1 代** VM。
@@ -32,6 +32,6 @@
 
 
 
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Aug16_HO3-->
 
 

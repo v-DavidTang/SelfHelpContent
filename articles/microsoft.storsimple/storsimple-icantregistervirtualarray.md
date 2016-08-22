@@ -1,5 +1,5 @@
 <properties
-    pageTitle="I can't register my virtual array"
+    pageTitle="I can't register my virtual array."
     description="无法注册虚拟阵列。"
     service="microsoft.storsimple"
     resource="managers"
@@ -13,7 +13,7 @@
 />
 
 
-# 无法注册虚拟阵列
+# 无法注册虚拟阵列。
 如果注册失败，请执行以下操作。
 
 ## **建议的步骤**
@@ -30,6 +30,6 @@
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO3-->
 
 

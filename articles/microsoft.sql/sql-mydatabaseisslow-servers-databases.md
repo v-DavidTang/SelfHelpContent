@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="6"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="31980430, 31980438"
     resourceTags="databases, servers"
-    productPesIds=""
+    productPesIds="13491"
     cloudEnvironments="public"
 />
 
@@ -33,6 +33,6 @@
 
 
 
-<!--HONumber=Jun16_HO5-->
+<!--HONumber=Aug16_HO2-->
 
 

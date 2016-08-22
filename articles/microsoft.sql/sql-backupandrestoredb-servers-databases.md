@@ -6,9 +6,9 @@
     authors="kasparks"
     displayOrder="1"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32302682"
     resourceTags="databases, servers"
-    productPesIds=""
+    productPesIds="13491"
     cloudEnvironments="public"
 />
 
@@ -36,6 +36,6 @@ SQL 数据库保留了你数据库的副本，因此你可以在发生服务中�
 
 
 
-<!--HONumber=Jun16_HO5-->
+<!--HONumber=Aug16_HO2-->
 
 
