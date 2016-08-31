@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="I have a question regarding media services pricing"
+    pageTitle="Explanation of media services pricing"
     description="我对媒体服务的定价有疑问"
     service="microsoft.media"
     resource="mediaservices"
@@ -13,9 +13,10 @@
  />
 
 
-# 我对媒体服务的定价有疑问
+# 媒体服务定价说明
 
 ## **建议的文档**
+
 [媒体服务定价详细信息](https://azure.microsoft.com/pricing/details/media-services/)
 
 
