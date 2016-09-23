@@ -7,7 +7,7 @@
     displayOrder="5"
     selfHelpType="resource"
     supportTopicIds=""
-    resourceTags="windows, linux, windowsSQL"   
+    resourceTags="windows, linux, windowsSQL, redhat"   
     productPesIds=""
     cloudEnvironments="public" 
 />
@@ -28,6 +28,6 @@
 [Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/)
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Sep16_HO3-->
 
 

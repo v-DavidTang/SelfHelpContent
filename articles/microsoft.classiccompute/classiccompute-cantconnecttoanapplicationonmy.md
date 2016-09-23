@@ -8,7 +8,7 @@
     selfHelpType="resource"
     supportTopicIds="32411838"
     productPesIds="14749"
-    resourceTags="windows, linux, WindowsSQL"
+    resourceTags="windows, linux, WindowsSQL, redhat"
     cloudEnvironments="public"   
  />
 
@@ -30,6 +30,6 @@
 [Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Sep16_HO3-->
 
 
