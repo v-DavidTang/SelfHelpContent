@@ -16,10 +16,10 @@
 # 连接问题
 
 ## **建议的文档**
-[应该为服务总线中继通信打开哪些端口？](https://msdn.microsoft.com/library/mt723402(Azure.100).aspx)
+[应该为服务总线通信打开哪些端口？](https://msdn.microsoft.com/library/mt723402.aspx)
 
 
 
-<!--HONumber=Aug16_HO4-->
+<!--HONumber=Sep16_HO3-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="My backups are running slow"
+    pageTitle="Azure virtual machine backups are running slow"
     description="VM 备份性能"
     service="microsoft.recoveryservices"
     resource="vaults"
@@ -13,7 +13,7 @@
 />
 
 
-# 备份运行速度缓慢
+# Azure 虚拟机备份运行速度缓慢
 
 ## **建议的步骤**
 了解影响备份时间的因素，以及如何遵循最佳实践来优化备份时间。 
@@ -26,6 +26,6 @@
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Sep16_HO3-->
 
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Backup of Linux VM fails with 'Could not communicate with the VM agent for snapshot status'"
+    pageTitle="Backup of Linux Azure virtual machine fails with 'Could not communicate with the VM agent for snapshot status'"
     description="Linux VM 快照问题"
     service="microsoft.recoveryservices"
     resource="vaults"
@@ -13,7 +13,7 @@
 />
 
 
-# 备份 Linux VM 失败并出现“无法与 VM 代理通信，因此无法获取快照状态”
+# 备份 Linux Azure 虚拟机失败并出现“无法与 VM 代理通信，因此无法获取快照状态”
 
 ## **建议的步骤**
 若要解决常见问题，请尝试以下一个或多个步骤。
@@ -29,6 +29,6 @@
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Sep16_HO3-->
 
 
