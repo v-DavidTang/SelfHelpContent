@@ -15,16 +15,15 @@
 
 # 配置和管理/配置自定义域名
 
-## **建议的步骤**
-1. 可以从“设置”->“排除故障”->“验证自定义域名配置”运行“自定义域验证”工具
-
 ## **建议的文档**
-[如何配置自定义域名](https://azure.microsoft.com/documentation/articles/web-sites-custom-domain-name/)<br>
-[在 Azure App Service 中配置自定义域名（直接从 GoDaddy 购买的域名）](https://azure.microsoft.com/documentation/articles/web-sites-godaddy-custom-domain-name/)<br>
-[有关 App Service 证书和自定义域的常见问题](https://social.msdn.microsoft.com/Forums/azure/f3e6faeb-5ed4-435a-adaa-987d5db43b80/faq-on-app-service-certificates-and-custom-domains?forum=windowsazurewebsitespreview)
+[在 Azure 应用服务中购买和配置自定义域名](https://azure.microsoft.com/documentation/articles/custom-dns-web-site-buydomains-web-app/)<br>
+[将自定义域名映射到 Azure 应用](https://azure.microsoft.com/documentation/articles/web-sites-custom-domain-name/)<br>
+[使用流量管理器为 Azure 应用服务中的 Web 应用配置自定义域名](https://azure.microsoft.com/documentation/articles/web-sites-traffic-manager-custom-domain-name/)<br>
+[在 Azure 应用服务中配置自定义域名（直接从 GoDaddy 购买的域名）](https://azure.microsoft.com/documentation/articles/web-sites-godaddy-custom-domain-name/)<br>
+[有关 App Service 证书和自定义域的常见问题](https://social.msdn.microsoft.com/Forums/azure/f3e6faeb-5ed4-435a-adaa-987d5db43b80/faq-on-app-service-certificates-and-custom-domains?forum=windowsazurewebsitespreview)<br>
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Sep16_HO3-->
 
 
