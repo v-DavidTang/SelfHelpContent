@@ -3,7 +3,7 @@
     description="我需要删除我不拥有的工作区"
     service="microsoft.machinelearning"
     resource="workspaces"
-    authors="jajan"
+    authors="jajan17"
     displayOrder="2"
     selfHelpType="resource"
     supportTopicIds=""
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Oct16_HO2-->
 
 

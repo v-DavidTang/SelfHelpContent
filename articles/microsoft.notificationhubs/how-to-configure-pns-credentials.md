@@ -16,7 +16,7 @@
 # 如何配置 PNS 凭据并开始使用产品？
 
 ## **建议的步骤**
-* 遵循我们的 [入门] 系列教程。</br>
+* 遵循我们的[入门](http://go.microsoft.com/fwlink/?LinkID=824685)系列教程。</br>
 * [配置推送通知服务凭据](data-blade:Microsoft_Azure_NotificationHubs.NotificationHubServices)。<br>
 
 ## **建议的文档**
@@ -26,6 +26,6 @@
 
 
 
-<!--HONumber=Aug16_HO4-->
+<!--HONumber=Oct16_HO1-->
 
 

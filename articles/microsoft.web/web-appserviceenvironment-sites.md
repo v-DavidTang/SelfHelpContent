@@ -14,6 +14,28 @@
 
 
 # App Service 环境
+## **建议的步骤**
+<b>在应用服务环境 (ASE) 中，为何即使有 2 个可用的辅助角色，也只能创建一个应用服务计划 (ASP)？</b><br>
+为了提供容错能力，应用服务环境 (ASE) 要求针对每个辅助角色池至少分配一个额外的计算资源。<br>
+请查看以下文章了解详细信息：[配置 ASE - 容错注意事项](https://azure.microsoft.com/documentation/articles/app-service-web-configure-an-app-service-environment/)
+
+<b>创建 ASE 超时</b><br>
+创建应用服务环境 (ASE) 有时失败，同时活动日志中出现以下错误：<br>
+ 
+    ResourceID: /subscriptions/{SubscriptionID}/resourceGroups/Default-Networking/providers/Microsoft.Web/hostingEnvironments/{ASEname}
+    Error:{"error":{"code":"ResourceDeploymentFailure","message":"The resource provision operation did not complete within the allowed timeout period."}}
+
+
+确保不存在以下任何情况：<br>
+    1.子网太小 <br>
+    2.子网非空 <br>
+    3.ExpressRoute 不允许 ASE 的网络连接要求 <br>
+    4.错误的网络安全组 (NSG) 不允许 ASE 的网络连接要求 <br>
+    5.已启用强制隧道 <br>
+
+有关详细信息，请查看： <br>
+[如何创建应用服务环境](https://azure.microsoft.com/documentation/articles/app-service-web-how-to-create-an-app-service-environment/#Overview) <br>
+[部署（创建）新 Azure 应用服务环境 (ASE) 时的最常见问题](https://blogs.msdn.microsoft.com/waws/2016/05/13/most-frequent-issues-when-deploying-creating-a-new-azure-app-service-environment-ase/)
 
 ## **建议的文档**
 [什么是 App Service 环境？](https://azure.microsoft.com/documentation/articles/app-service-app-service-environment-intro/)<br>
@@ -33,6 +55,6 @@
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Oct16_HO1-->
 
 

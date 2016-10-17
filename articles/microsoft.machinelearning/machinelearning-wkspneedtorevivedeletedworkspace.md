@@ -3,7 +3,7 @@
     description="我需要恢复一个意外删除的工作区"
     service="microsoft.machinelearning"
     resource="workspaces"
-    authors="jajan"
+    authors="jajan17"
     displayOrder="3"
     selfHelpType="resource"
     supportTopicIds=""
@@ -24,6 +24,6 @@
 
 
 
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Oct16_HO2-->
 
 
