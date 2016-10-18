@@ -3,7 +3,7 @@
     description="我对机器学习 Web 服务计划的计费有疑问"
     service="microsoft.machinelearning"
     resource="commitmentPlans"
-    authors="jajan"
+    authors="jajan17"
     displayOrder="1"
     selfHelpType="resource"
     supportTopicIds=""
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Oct16_HO2-->
 
 
