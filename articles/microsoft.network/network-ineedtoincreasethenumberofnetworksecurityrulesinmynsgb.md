@@ -29,6 +29,6 @@ NSG 规则数目的默认限制为 200。 通过提出支持票证可将此数�
 [排查在 Azure 中新建虚拟机时遇到的部署问题](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/#error-string-lookup)
 
 
-<!--HONumber=Aug16_HO5-->
+<!--HONumber=Oct16_HO2-->
 
 
