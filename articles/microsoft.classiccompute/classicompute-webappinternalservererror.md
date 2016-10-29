@@ -4,7 +4,7 @@
     service="microsoft.classiccompute"
     resource="domainnames"
     authors="jluk"
-    displayOrder="5"
+    displayOrder="4"
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags=""  
@@ -14,11 +14,11 @@
 
 
 # Web 应用程序显示“内部服务器错误”或“服务不可用”(50x)
-
-## **建议的步骤**
 这些错误被视为应用程序错误，因此像在任何本地托管的应用程序上一样排查这些错误。  
 
-1.  远程连接到实例，检查是否可以在本地访问 Web 应用程序。 <br> 这样就可以确定该问题是只会在某些实例上出现，还是会在所有实例上出现。
+## **建议的步骤**
+
+1.  远程连接到实例，检查是否可以在本地访问 Web 应用程序。 <br> 通过本地检查，可以调查并确定该问题是只会在部分实例还是在所有实例上出现。
 
 2.  在 IIS 日志中检查失败的具体请求 (50x)。 <br>
 这些日志通常位于 *C:\Resources\Directory\guid.role.DiagnosticStore\LogFiles\W3SVC1*。
@@ -38,6 +38,6 @@
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO2-->
 
 

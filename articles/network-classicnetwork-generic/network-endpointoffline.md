@@ -16,10 +16,13 @@
 # 终结点脱机
 
 ## **建议的文档**
-[如何禁用或启用流量管理器终结点](https://azure.microsoft.com/documentation/articles/disable-or-enable-an-endpoint/)
+[如何禁用或启用流量管理器终结点](https://azure.microsoft.com/documentation/articles/disable-or-enable-an-endpoint/)<br>
+[流量管理器终结点监视和故障转移](https://azure.microsoft.com/documentation/articles/traffic-manager-monitoring/)<br>
+[使用 Azure 流量管理器在 Azure 中部署高可用性跨地理区域 AD FS](https://azure.microsoft.com/documentation/articles/active-directory-adfs-in-azure-with-azure-traffic-manager/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+
+<!--HONumber=Oct16_HO3-->
 
 

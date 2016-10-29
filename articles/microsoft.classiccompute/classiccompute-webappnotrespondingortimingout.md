@@ -4,7 +4,7 @@
     service="microsoft.classiccompute"
     resource="domainnames"
     authors="jluk"
-    displayOrder="4"
+    displayOrder="5"
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags=""  
@@ -23,10 +23,9 @@
 3.  在浏览器中检查获取的 http 响应代码。 <br>
 **50x** 错误是应用程序相关的问题，请参考故障排除边栏选项卡。
 4.  检查是否可访问默认端口 **80**（用于 http）和 **443**（用于 https）。 使用 **TELNET** 或 **TCPING** 确保 **w3wp.exe** 进程正在侦听这些端口。 <br>
-如果可以在本地访问 Web 应用程序，但无法从外部访问，则问题可能与网络相关。 
+如果可以在本地访问 Web 应用程序，但无法从外部访问，则问题可能与网络相关。 <br>
 
 
-
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO2-->
 
 

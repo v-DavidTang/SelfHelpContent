@@ -4,11 +4,11 @@
     service="microsoft.storage"
     resource="storageaccounts"
     authors="kasparks"
-    displayOrder="5"
+    displayOrder="6"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32551645,32551669"
     resourceTags=""
-    productPesIds=""
+    productPesIds="15629"
     cloudEnvironments="public"
 />
 
@@ -22,6 +22,6 @@
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 
