@@ -4,7 +4,7 @@
     service="microsoft.storage"
     resource="storageaccounts"
     authors="kasparks"
-    displayOrder="2"
+    displayOrder="3"
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags=""
@@ -32,6 +32,6 @@
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 
