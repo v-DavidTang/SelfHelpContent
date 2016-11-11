@@ -16,11 +16,12 @@
 # 群集/性能
 
 ## **建议的文档**
-[使用 Azure 诊断和操作见解从 Service Fabric 群集收集日志](https://azure.microsoft.com/documentation/articles/service-fabric-diagnostics-how-to-setup-wad-operational-insights/)<br>
-[Service Fabric 运行状况监视简介](https://azure.microsoft.com/documentation/articles/service-fabric-health-introduction/)
+
++ [此文](https://azure.microsoft.com/documentation/articles/service-fabric-vso-load-test/)介绍了如何使用 Microsoft Visual Studio 负载测试功能对应用程序进行压力测试。 
++ [此文](https://azure.microsoft.com/documentation/articles/service-fabric-concepts-scalability/)介绍了如何缩放 Service Fabric 应用程序。 
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Oct16_HO4-->
 
 
