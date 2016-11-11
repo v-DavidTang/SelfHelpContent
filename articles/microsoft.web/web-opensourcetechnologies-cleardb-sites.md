@@ -8,7 +8,7 @@
     selfHelpType="generic"
     supportTopicIds="32550703"
     resourceTags=""
-    productPesIds="14748"
+    productPesIds="14748, 16170"
     cloudEnvironments="public"
 />
 
@@ -27,6 +27,6 @@ ClearDB 是可让用户使用 MySQL 即服务的第三方服务。 ClearDB 针�
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Oct16_HO3-->
 
 

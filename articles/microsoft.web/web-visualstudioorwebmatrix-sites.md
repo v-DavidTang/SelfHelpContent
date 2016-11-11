@@ -8,7 +8,7 @@
     selfHelpType="generic"
     supportTopicIds="32542216"
     resourceTags=""
-    productPesIds="14748"
+    productPesIds="14748,16170"
     cloudEnvironments="public"
 />
 
@@ -40,6 +40,6 @@
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Oct16_HO3-->
 
 

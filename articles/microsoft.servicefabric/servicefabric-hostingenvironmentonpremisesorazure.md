@@ -14,13 +14,14 @@
 
 
 # 群集/托管环境（本地或 Azure）
+对本地 Service Fabric 的支持不同于对 Azure Service Fabric 的支持。 在[此处](https://social.msdn.microsoft.com/Forums/azure/home?forum=AzureServiceFabric)获取独立本地版本的协助。<br>
+还可以从[此处](http://support.microsoft.com/oas/default.aspx?prid=16146)获取论坛支持。
 
 ## **建议的文档**
-[本地问题只在 MSDN 论坛中提供支持：Azure Service Fabric](https://social.msdn.microsoft.com/Forums/azure/en-US/home?forum=AzureServiceFabric)<br>
 [在 Windows Server 或 Linux 上创建独立的 Service Fabric 群集](https://azure.microsoft.com/documentation/articles/service-fabric-deploy-anywhere/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Oct16_HO3-->
 
 

@@ -16,10 +16,11 @@
 # 应用程序/诊断和指标
 
 ## **建议的文档**
+[使用 Azure 诊断收集日志](https://azure.microsoft.com/documentation/articles/service-fabric-diagnostics-how-to-setup-wad/) <br>
 [事件和性能计数器的列表](https://azure.microsoft.com/documentation/articles/service-fabric-reliable-actors-diagnostics/#actor-method-events-and-performance-counters)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Oct16_HO4-->
 
 
