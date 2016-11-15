@@ -1,5 +1,5 @@
 <properties
-    pageTitle="connectivity issues"
+    pageTitle="Connectivity issues"
     description="连接问题"
     service="microsoft.relay"
     resource="namespaces"
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 
