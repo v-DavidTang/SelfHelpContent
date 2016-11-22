@@ -1,6 +1,6 @@
 <properties
-    pageTitle="How do I provision HDInsight or Data Lake Analytics with Data Lake Store"
-    description="如何使用 Data Lake Store 预配 HDInsight 或 Data Lake Analytics"
+    pageTitle="How do I provision HDInsight or Data Lake Analytics with Data Lake Store?"
+    description="如何使用 Data Lake Store 预配 HDInsight 或 Data Lake Analytics？"
     service="Microsoft.DataLakeStore"
     resource="accounts"
     authors="wmeng-msft"
@@ -13,13 +13,13 @@
 />
 
 
-# 如何使用 Data Lake Store 预配 HDInsight 或 Data Lake Analytics
+# <a name="how-do-i-provision-hdinsight-or-data-lake-analytics-with-data-lake-store"></a>如何使用 Data Lake Store 预配 HDInsight 或 Data Lake Analytics？
 
-## **建议的文档**
-[集成 Data Lake Store 和其他 Azure 服务](https://azure.microsoft.com/documentation/articles/data-lake-store-integrate-with-other-services/)
+## <a name="recommended-documents"></a>**建议的文档**
+[将 Data Lake Store 与其他 Azure 服务集成](https://azure.microsoft.com/documentation/articles/data-lake-store-integrate-with-other-services/)
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO2-->
 
 
