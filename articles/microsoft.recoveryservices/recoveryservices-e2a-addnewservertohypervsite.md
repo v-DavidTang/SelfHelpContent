@@ -13,12 +13,13 @@
 />
 
 
-# 站点恢复（VMM 到 Azure）/站点恢复提供程序的安装和注册
+# <a name="site-recovery-vmm-to-azuresite-recovery-provider-setup-and-registration"></a>站点恢复（VMM 到 Azure）/站点恢复提供程序的安装和注册
 
 将服务器添加到 Hyper-V 站点时出现的常见问题
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 
+*  确保在服务器上使用身份为**本地管理员**的帐户进行安装。
 * 确保安装 **Microsoft Azure Site Recovery 提供程序**的服务器有权访问以下 URL <br>
     1. *.hypervrecoverymanager.windowsazure.com
     2. *.accesscontrol.windows.net
@@ -30,11 +31,11 @@
 
 * 如果你知道要安装 **Microsoft Azure Site Recovery 提供程序**的服务器在代理服务器后面，请始终选择“使用代理服务器连接到 Azure Site Recovery”选项。
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [本地先决条件](https://azure.microsoft.com/documentation/articles/site-recovery-vmm-to-azure/#on-premises-prerequisites)
 
 
 
-<!--HONumber=Aug16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 
