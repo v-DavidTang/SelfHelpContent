@@ -13,19 +13,19 @@
 />
 
 
-# 如何配置 PNS 凭据并开始使用产品？
+# <a name="how-do-i-configure-pns-credentials-and-get-started"></a>如何配置 PNS 凭据并开始使用产品？
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 * 遵循我们的[入门](http://go.microsoft.com/fwlink/?LinkID=824685)系列教程。</br>
 * [配置推送通知服务凭据](data-blade:Microsoft_Azure_NotificationHubs.NotificationHubServices)。<br>
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 * [通知中心文档](http://go.microsoft.com/fwlink/?LinkID=824686)<br>
 * [通知中心入门](http://go.microsoft.com/fwlink/?LinkID=824685)<br>
 * [功能和概念](http://go.microsoft.com/fwlink/?LinkID=824687)<br>
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

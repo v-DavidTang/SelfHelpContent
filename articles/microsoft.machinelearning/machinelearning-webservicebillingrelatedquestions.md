@@ -13,13 +13,13 @@
  />
 
 
-# 在机器学习 Web 服务的计费方面有疑问
+# <a name="i-have-a-question-regarding-billing-for-machine-learning-web-services"></a>在机器学习 Web 服务的计费方面有疑问
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [机器学习定价详细信息](http://go.microsoft.com/fwlink/?LinkId=824637)
 
 
 
-<!--HONumber=Oct16_HO2-->
+<!--HONumber=Nov16_HO4-->
 
 

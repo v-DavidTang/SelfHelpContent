@@ -13,13 +13,13 @@
  />
 
 
-# 我需要删除我不拥有的工作区
+# <a name="i-need-to-delete-a-workspace-that-im-not-an-owner-of"></a>我需要删除我不拥有的工作区
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 请提交[支持请求](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)来解决此问题。
 
 
 
-<!--HONumber=Oct16_HO2-->
+<!--HONumber=Nov16_HO4-->
 
 
