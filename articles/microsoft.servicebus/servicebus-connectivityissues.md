@@ -9,17 +9,17 @@
     supportTopicIds="32421022"
     resourceTags=""
     productPesIds="13186"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 连接问题
+# <a name="connectivity-issues"></a>连接问题
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [应该为服务总线通信打开哪些端口？](https://msdn.microsoft.com/library/mt723402.aspx)
 
 
 
-<!--HONumber=Sep16_HO3-->
+<!--HONumber=Nov16_HO5-->
 
 

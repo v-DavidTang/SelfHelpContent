@@ -9,18 +9,18 @@
     supportTopicIds="32421023"
     resourceTags=""
     productPesIds="16125"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 错误和异常
+# <a name="errors-and-exceptions"></a>错误和异常
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [排查异常时需要帮助？](https://azure.microsoft.com/documentation/articles/service-bus-messaging-exceptions/)<br>
-[看看是否可以在我们的“常见问题”部分中找到答案！](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-availability-and-support-faq/)
+[看看是否可以在“常见问题”部分中找到答案！](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-availability-and-support-faq/)
 
 
 
-<!--HONumber=Aug16_HO4-->
+<!--HONumber=Nov16_HO5-->
 
 

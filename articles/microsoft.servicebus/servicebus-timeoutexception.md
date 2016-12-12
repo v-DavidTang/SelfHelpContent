@@ -9,7 +9,7 @@
     supportTopicIds=""
     resourceTags="" 
     productPesIds="13186"
-    cloudEnvironments="public" 
+    cloudEnvironments="public,BlackForest,Fairfax" 
 />
 
 
@@ -24,6 +24,6 @@
 [有关 TimeOutException 类的详细信息](https://msdn.microsoft.com/library/system.timeoutexception.aspx)<br>
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Nov16_HO5-->
 
 

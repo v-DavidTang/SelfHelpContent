@@ -9,7 +9,7 @@
     supportTopicIds=""
     resourceTags="" 
     productPesIds="16123"
-    cloudEnvironments="public" 
+    cloudEnvironments="public,BlackForest,Fairfax" 
 />
 
 
@@ -23,6 +23,6 @@
 [常见的中继异常](https://azure.microsoft.com/documentation/articles/relay-exceptions)
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Nov16_HO5-->
 
 

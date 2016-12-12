@@ -9,7 +9,7 @@
     supportTopicIds=""
     resourceTags="" 
     productPesIds="13186"
-    cloudEnvironments="public" 
+    cloudEnvironments="public,BlackForest,Fairfax" 
 />
 
 
@@ -23,6 +23,6 @@ QuotaExceededException 指示已超出某个特定实体的配额。
 [有关 QuotaExceededException 类的详细信息](https://msdn.microsoft.com/library/azure/microsoft.servicebus.messaging.quotaexceededexception.aspx)<br>
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Nov16_HO5-->
 
 

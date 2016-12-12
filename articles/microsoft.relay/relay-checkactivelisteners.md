@@ -9,7 +9,7 @@
     supportTopicIds=""
     resourceTags="" 
     productPesIds="16123"
-    cloudEnvironments="public" 
+    cloudEnvironments="public,BlackForest,Fairfax" 
 />
 
 
@@ -23,6 +23,6 @@
 [常见问题](https://azure.microsoft.com/documentation/articles/relay-faq)
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Nov16_HO5-->
 
 

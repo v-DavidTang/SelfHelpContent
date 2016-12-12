@@ -1,7 +1,7 @@
 
 <properties
     pageTitle="installation-directagent"
-    description="与安装相关的问题：直接代理"
+    description="与用于直接安装的代理相关的问题"
     service="microsoft.operationalinsights"
     resource="operationalinsightsaccounts"
     authors="adoylemsft"
@@ -14,7 +14,7 @@
 />
 
 
-# <a name="installationdirectagent"></a>installation-directagent
+# <a name="installation-directagent"></a>installation-directagent
 
 
 ## <a name="recommended-documents"></a>**建议的文档**
@@ -23,6 +23,7 @@
 [将 Azure 虚拟机连接到 Log Analytics](https://azure.microsoft.com/documentation/articles/log-analytics-azure-vm-extension/)
 
 
-<!--HONumber=Nov16_HO2-->
+
+<!--HONumber=Nov16_HO5-->
 
 

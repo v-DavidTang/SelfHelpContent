@@ -9,17 +9,17 @@
     supportTopicIds="32421022"
     resourceTags=""
     productPesIds="16125"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 连接问题
+# <a name="connectivity-issues"></a>连接问题
 
-## **建议的文档**
-[看看是否可以在我们的“常见问题”部分中找到答案！](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-availability-and-support-faq/)
+## <a name="recommended-documents"></a>**建议的文档**
+[看看是否可以在“常见问题”部分中找到答案！](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-availability-and-support-faq/)
 
 
 
-<!--HONumber=Aug16_HO4-->
+<!--HONumber=Nov16_HO5-->
 
 

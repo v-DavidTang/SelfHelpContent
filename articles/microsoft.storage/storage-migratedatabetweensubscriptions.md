@@ -15,13 +15,15 @@
 
 # <a name="move-resources-between-rg-or-subscription"></a>在 RG 或订阅之间移动资源
 
-## <a name="call-support-when-you-need-to"></a>有以下需要时，请致电支持人员**
-- 将资源移到新的 Azure 帐户（和 [Active Directory 租户](https://azure.microsoft.com/documentation/articles/resource-group-move-resources/#services-that-enable-move)）。
+## <a name="recommended-steps"></a>**建议的步骤**
+
+**有以下需要时，请致电支持人员：**
+- 将资源移到新的 Azure 帐户（和 [Active Directory 租户](https://azure.microsoft.com/documentation/articles/resource-group-move-resources/#services-that-enable-move)）。<br>
 - 移动经典资源时遇到[限制](https://azure.microsoft.com/documentation/articles/resource-group-move-resources/#classic-deployment-limitations)方面的问题。
 
-## <a name="move-resources-between-rg-or-subscription"></a>在 RG 或订阅之间移动资源**
-- 移动 Resource Manager 资源。
-- 根据[经典部署限制](https://azure.microsoft.com/documentation/articles/resource-group-move-resources/#classic-deployment-limitations)移动经典资源
+**在 RG 或订阅之间移动资源**
+- 移动 Resource Manager 资源。<br>
+- 根据[经典部署限制](https://azure.microsoft.com/documentation/articles/resource-group-move-resources/#classic-deployment-limitations)移动经典资源<br>
 
 移动资源之前需执行的一些重要步骤。 验证这些条件可以避免错误。
 
@@ -37,7 +39,6 @@
 
 
 
-
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Nov16_HO4-->
 
 

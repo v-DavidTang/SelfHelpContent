@@ -9,7 +9,7 @@
     supportTopicIds=""
     resourceTags="" 
     productPesIds="13186"
-    cloudEnvironments="public" 
+    cloudEnvironments="public,BlackForest,Fairfax" 
 />
 
 
@@ -22,6 +22,6 @@
 [有关 NamespaceManager 类和管理实体的详细信息](https://msdn.microsoft.com/library/azure/microsoft.servicebus.namespacemanager.aspx)
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Nov16_HO5-->
 
 
