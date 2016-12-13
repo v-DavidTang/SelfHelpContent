@@ -13,12 +13,13 @@
 />
 
 
-# 使用 AzCopy 实用工具传输数据
+# <a name="transfer-data-with-azcopy-utility"></a>使用 AzCopy 实用工具传输数据
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [使用 AzCopy 实用工具传输数据](https://azure.microsoft.com/documentation/articles/storage-use-azcopy/)
 
 
-<!--HONumber=Oct16_HO3-->
+
+<!--HONumber=Nov16_HO4-->
 
 

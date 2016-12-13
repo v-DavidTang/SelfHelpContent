@@ -9,7 +9,7 @@
     supportTopicIds="32550706"
     resourceTags=""
     productPesIds="16123"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
@@ -20,6 +20,6 @@
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Nov16_HO5-->
 
 

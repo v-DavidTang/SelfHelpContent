@@ -9,18 +9,18 @@
     supportTopicIds="32421026"
     resourceTags=""
     productPesIds="16125"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 配额更改、命名空间管理和计费
+# <a name="quota-changes-namespace-management-and-billing"></a>配额更改、命名空间管理和计费
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [了解事件中心配额和限制阈值](https://azure.microsoft.com/documentation/articles/service-bus-quotas/)<br>
 [如何将事件中心命名空间迁移到另一个订阅](https://azure.microsoft.com/documentation/articles/service-bus-powershell-how-to-provision/#migrate-a-namespace-to-another-azure-subscription)
 
 
 
-<!--HONumber=Aug16_HO4-->
+<!--HONumber=Nov16_HO5-->
 
 
