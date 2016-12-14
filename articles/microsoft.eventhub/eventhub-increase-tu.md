@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="Can I have more than 20 throughput units?" 
+    pageTitle="用户可以有 20 个以上的吞吐量单位吗？" 
     description="用户可以有 20 个以上的吞吐量单位吗？" 
     service="microsoft.eventhub"
     resource="namespaces"
@@ -35,6 +35,6 @@
 [有关事件中心配额的详细信息](https://azure.microsoft.com/documentation/articles/event-hubs-quotas/)<br>
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Dec16_HO2-->
 
 
