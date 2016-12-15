@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="用户可以有 20 个以上的吞吐量单位吗？" 
+    pageTitle="Can I have more than 20 throughput units?" 
     description="用户可以有 20 个以上的吞吐量单位吗？" 
     service="microsoft.eventhub"
     resource="namespaces"

@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="在机器学习 Web 服务的计费方面有疑问"
+    pageTitle="I have a question regarding billing for machine learning web services"
     description="在机器学习 Web 服务的计费方面有疑问"
     service="microsoft.machinelearning"
     resource="webServices"
