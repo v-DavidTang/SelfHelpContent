@@ -35,6 +35,6 @@
 [有关事件中心配额的详细信息](https://azure.microsoft.com/documentation/articles/event-hubs-quotas/)<br>
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Dec16_HO2-->
 
 
