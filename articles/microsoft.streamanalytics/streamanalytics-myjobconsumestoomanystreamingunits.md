@@ -1,9 +1,9 @@
 <properties 
-    pageTitle="My job consumes too many streaming units"
+    pageTitle="作业消耗了过多的流式处理单位"
     description="作业消耗了过多的流式处理单位"
     service="microsoft.streamanalytics"
     resource="streamingjobs"
-    authors="kschaefer13"
+    authors="samacha"
     displayOrder="3"
     selfHelpType="resource"
     supportTopicIds=""
@@ -15,7 +15,7 @@
 # <a name="my-job-consumes-too-many-streaming-units"></a>作业消耗了过多的流式处理单位
 
 ## <a name="recommended-steps"></a>**建议的步骤**
-流式处理单位 (SU) 代表执行 Azure 流分析作业所消耗的计算资源。 在已经对 CPU、内存以及读取和写入速率进行测量的情况下，可以使用 SU 来描述相对的事件处理能力。 每个流式处理单位大致相当于 1MB/秒的吞吐量。 
+流式处理单位 (SU) 代表执行 Azure 流分析作业所消耗的计算资源。 在已经对 CPU、内存以及读取和写入速率进行测量的情况下，可以使用 SU 来描述相对的事件处理能力。
 
 选择特定作业所需的 SU 数目时，得根据输入的分区配置以及为作业定义的查询来决定。 在“缩放”边栏选项卡中可以设置正确的所需缩放单位数。  
 
@@ -27,7 +27,7 @@
 
 内存利用率偏高、使得作业使用的流式处理单位较多的最常见原因包括 
 
-_1) Group By 的基数较高_
+_1) GROUP BY 的基数较高_
 
 传入事件的基数指示作业的内存使用量。 
 
@@ -64,7 +64,7 @@ impressions on impressions.id = clicks.id AND datediff(hour, impressions, clicks
 
 _3) 存在大量的失序事件_ 
 
-在开始进行任何处理之前，Azure 流分析将事件保留在一个名为“重新排序缓冲区”的窗口中，以便将事件重新排序。 内存消耗量与时间范围大小和事件发生速率成比例。 如果在一个较大的时间范围内出现大量的失序事件，将会导致该窗口的大小变大。 为了解决此问题，可以通过使用 partition by 增加分区来扩展查询。 将查询分区后，它将会分散到多个节点中。 因此，可以通过降低重新排序缓冲区的大小来减少传入每个节点的事件数。  
+如果在一个较大的时间范围内出现大量的失序事件，将会导致“重新排序缓冲区”变大。 为了解决此问题，可以通过使用 partition by 增加分区来扩展查询。 将查询分区后，它将会分散到多个节点中。 因此，可以通过降低重新排序缓冲区的大小来减少传入每个节点的事件数。  
 
 _建立 Microsoft 支持案例_ 
 
@@ -74,6 +74,6 @@ _建立 Microsoft 支持案例_
 
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Dec16_HO3-->
 
 

@@ -1,20 +1,20 @@
 <properties
-    pageTitle="azure iaas vm backup/register or back up a linux virtual machine"
+    pageTitle="Azure IAAS VM 备份/注册或备份 Linux 虚拟机"
     description="Azure IAAS VM 备份/注册或备份 Linux 虚拟机"
     service="microsoft.recoveryservices"
     resource="vaults"
     authors="kasparks"
     displayOrder=""
     selfHelpType="generic"
-    supportTopicIds="32447378"
+    supportTopicIds="32553276"
     resourceTags=""
     productPesIds="15207"
     cloudEnvironments="public"
 />
 
 
-# Azure IAAS VM 备份/注册或备份 Linux 虚拟机
-## **建议的步骤**
+# <a name="azure-iaas-vm-backupregister-or-back-up-a-linux-virtual-machine"></a>Azure IAAS VM 备份/注册或备份 Linux 虚拟机
+## <a name="recommended-steps"></a>**建议的步骤**
 若要解决大多数常见问题，请尝试下面的一个或多个步骤。
 * 检查安装的 VM 代理是否是最新的。 <br>
 [更新 Linux VM 代理](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-troubleshoot-vm-backup-fails-snapshot-timeout/#cause-2-the-microsoft-azure-vm-agent-installed-in-the-vm-is-out-of-date-for-linux-vms)
@@ -31,11 +31,11 @@
 * 检查你是否遵循了有关优化备份性能的最佳实践 <br>
 [获得最佳备份性能的最佳实践](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-vms-introduction/#best-practices)
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [Azure 虚拟机备份故障排除指南](https://azure.microsoft.com/en-us/documentation/articles/backup-azure-vms-troubleshoot/)
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Dec16_HO2-->
 
 
