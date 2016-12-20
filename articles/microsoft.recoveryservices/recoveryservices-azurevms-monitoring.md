@@ -1,12 +1,12 @@
 <properties
-    pageTitle="Azure virtual machine backup monitoring and reporting issues"
+    pageTitle="Azure 虚拟机备份监视和报告问题"
     description="Azure 虚拟机备份监视和报告问题"
     service="microsoft.recoveryservices"
     resource="vaults"
     authors="saurabhsensharma"
     displayOrder="5"
     selfHelpType="resource"
-    supportTopicIds="32447361"
+    supportTopicIds="32553291"
     resourceTags=""
     productPesIds="15207"
     cloudEnvironments="public"
@@ -14,9 +14,9 @@
 
 
 
-# Azure 虚拟机备份监视和报告问题
+# <a name="azure-virtual-machine-backup-monitoring-and-reporting-issues"></a>Azure 虚拟机备份监视和报告问题
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 尝试下面建议的步骤，解决常见的 Azure IaaS VM 备份监视和报告问题
 
 * 请注意，只会针对失败的备份引发警报
@@ -29,12 +29,12 @@
     3. 某个备份作业被触发但随后失败，而另一个备份作业正在进行 <br>
     4. 为启用 Resource Manager 的 VM 启动了计划的备份作业，但该 VM 不再存在 <br>
 
-##**建议的文档**
+##<a name="recommended-documents"></a>**建议的文档**
 
  [Azure 虚拟机备份监视指南](https://azure.microsoft.com/documentation/articles/backup-azure-monitor-vms/)<br>
 
 
 
-<!--HONumber=Sep16_HO3-->
+<!--HONumber=Dec16_HO2-->
 
 

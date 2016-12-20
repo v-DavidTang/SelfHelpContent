@@ -1,33 +1,33 @@
 <properties
-    pageTitle="Azure Recovery Services Agent installation or registration issues"
+    pageTitle="Azure 恢复服务代理安装或注册问题"
     description="Azure 恢复服务代理安装或注册问题"
     service="microsoft.recoveryservices"
     resource="vaults"
     authors="saurabhsensharma"
     displayOrder="4"
     selfHelpType="resource"
-    supportTopicIds="32447374"
+    supportTopicIds="32553287"
     resourceTags=""
     productPesIds="15207"
     cloudEnvironments="public"
 />
 
 
-# Azure 恢复服务代理安装或注册问题
+# <a name="azure-recovery-services-agent-installation-or-registration-issues"></a>Azure 恢复服务代理安装或注册问题
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 尝试下面建议的步骤，解决常见的 **Microsoft Azure 恢复服务代理**安装或注册问题
 
-### **安装**
+### <a name="installation"></a>**安装**
 * 确保用于安装 Azure 恢复服务代理的用户帐户是服务器/客户端上**本地管理员**组的成员，或者已被授予管理权限
 
 * 确保 Azure 恢复服务代理的安装目录不带以下属性：<br>
     1. 系统
     2. 已隐藏
     3. 已压缩
-    4. 已加密
+    4. 加密
 
-### **注册**
+### <a name="registration"></a>**注册**
 * 确保 Azure 恢复服务代理所在的 Windows 服务器/客户端上的防火墙设置已配置为允许以下 URL： <br>
     1. www.msftncsi.com
     2. *.Microsoft.com
@@ -41,13 +41,13 @@
 
 * 如果要**将 Windows 服务器/客户端重新注册**到保管库，请确保提供的加密通行短语与以前将服务器/客户端注册到同一个保管库期间提供的通行短语匹配
  
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [Azure 备份常见问题](https://azure.microsoft.com/documentation/articles/backup-azure-backup-faq/)<br>
 
 
 
 
 
-<!--HONumber=Sep16_HO3-->
+<!--HONumber=Dec16_HO2-->
 
 
