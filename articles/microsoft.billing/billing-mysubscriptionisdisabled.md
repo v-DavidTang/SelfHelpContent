@@ -1,9 +1,9 @@
 <properties
     pageTitle="我的订阅已禁用"
     description="我的订阅已禁用"
-    service="azure-billing"
+    service="microsoft.billing"
     resource="billing"
-    authors="kasparks"
+    authors="jlian"
     displayOrder="5"
     selfHelpType="resource"
     supportTopicIds=""

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="cluster/cluster services"
+    pageTitle="群集/群集服务"
     description="群集/群集服务"
     service="microsoft.servicefabric"
     resource="clusters"
@@ -9,12 +9,12 @@
     supportTopicIds="32449683"
     resourceTags=""
     productPesIds="15842"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 群集/群集服务
-## **建议的步骤**
+# <a name="clustercluster-services"></a>群集/群集服务
+## <a name="recommended-steps"></a>**建议的步骤**
 Service Fabric Explorer 中出现 System.XXX 错误时的有用提示：
 
 + System.FM 分区低于目标副本计数或实例计数：常见的原因是服务在启动时崩溃（因缺少依赖项或者 RunAsync 或 OnActivateAsync 崩溃）。  这种问题也有可能是因为某个组件（例如节点）重新启动或出现暂时性故障而临时造成的。
@@ -27,11 +27,11 @@ Service Fabric Explorer 中出现 System.XXX 错误时的有用提示：
 + System.PLB ServiceCorrelationError：常见的原因是服务相关性无法构成链，若要消除此问题，请删除服务，然后重新创建具有有效相关性的服务 
 + System.RAP ServiceOpenOperationDuration：常见的原因是应用程序的 RunAsync 方法中引发了异常。  请连接调试器、检查应用程序事件日志或 ETW 跟踪日志了解更多信息。
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 1. [使用系统运行状况报告进行故障排除](https://azure.microsoft.com/documentation/articles/service-fabric-understand-and-troubleshoot-with-system-health-reports/)中描述了大部分系统错误
 
 
 
-<!--HONumber=Oct16_HO4-->
+<!--HONumber=Jan17_HO1-->
 
 
