@@ -1,9 +1,9 @@
 <properties
     pageTitle="我需要一份帐单或使用量清单"
     description="我需要一份帐单或使用量清单"
-    service="azure-billing"
+    service="microsoft.billing"
     resource="billing"
-    authors="kasparks"
+    authors="jlian"
     displayOrder="1"
     selfHelpType="resource"
     supportTopicIds=""

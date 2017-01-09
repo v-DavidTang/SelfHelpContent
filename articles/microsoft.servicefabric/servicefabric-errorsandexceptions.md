@@ -1,5 +1,5 @@
 <properties
-    pageTitle="development/errors and exceptions"
+    pageTitle="开发/错误和异常"
     description="开发/错误和异常"
     service="microsoft.servicefabric"
     resource="clusters"
@@ -9,12 +9,12 @@
     supportTopicIds="32449687"
     resourceTags=""
     productPesIds="15842"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 开发/错误和异常
-## **建议的步骤**
+# <a name="developmenterrors-and-exceptions"></a>开发/错误和异常
+## <a name="recommended-steps"></a>**建议的步骤**
 
 应用程序或服务的常见失败和故障排除步骤：
 
@@ -38,7 +38,7 @@ Service Fabric Explorer 中出现 System.XXX 错误时的有用提示：
 + System.RAP ServiceOpenOperationDuration：常见的原因是应用程序的 RunAsync 方法中引发了异常。  请连接调试器、检查应用程序事件日志或 ETW 跟踪日志了解更多信息。
 
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 1. 请参阅[在本地计算机开发设置中监视和诊断服务](https://azure.microsoft.com/documentation/articles/service-fabric-diagnostics-how-to-monitor-and-diagnose-services-locally/)，了解如何在应用程序中配置 ETW 跟踪
 2. 请参阅[使用 Visual Studio 调试 Service Fabric 应用程序](https://azure.microsoft.com/documentation/articles/service-fabric-debugging-your-application/)，了解如何使用 Visual Studio 调试和查看远程 Service Fabric 应用的 ETW 跟踪
 3. [排查常见问题](https://azure.microsoft.com/documentation/articles/service-fabric-diagnostics-troubleshoot-common-scenarios/)<br>
@@ -47,6 +47,6 @@ Service Fabric Explorer 中出现 System.XXX 错误时的有用提示：
 
 
 
-<!--HONumber=Oct16_HO4-->
+<!--HONumber=Jan17_HO1-->
 
 
