@@ -53,7 +53,7 @@ _2) Join 的不匹配事件数较大_
 
 ~~~~
 SELECT id from clicks INNER JOIN,
-impressions on impressions.id = clicks.id AND datediff(hour, impressions, clicks) between 0 AND 10
+impressions on impressions.id = clicks.id AND DATEDIFF(hour, impressions, clicks) between 0 AND 10
 ~~~~
 
 有可能显示了很多广告，但很少有人点击它们，并且需要保留该时间范围内的所有事件。 内存消耗量与时间范围大小和事件发生速率成比例。 

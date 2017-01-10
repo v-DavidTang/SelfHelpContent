@@ -1,19 +1,19 @@
 <properties
-    pageTitle="需要一份帐单和使用量清单"
-    description="需要一份帐单和使用量清单"
-    service="azure-billing"
+    pageTitle="我需要一份帐单或使用量清单"
+    description="我需要一份帐单或使用量清单"
+    service="microsoft.billing"
     resource="billing"
-    authors="kasparks"
-    displayOrder=""
-    selfHelpType="generic"
-    supportTopicIds="32454862"
+    authors="jlian"
+    displayOrder="1"
+    selfHelpType="resource"
+    supportTopicIds=""
     resourceTags=""
-    productPesIds="15659"
+    productPesIds=""
     cloudEnvironments="public"
 />
 
 
-# <a name="need-a-copy-of-my-bill-and-usage"></a>需要一份帐单和使用量清单
+# <a name="i-need-a-copy-of-my-bill-or-usage"></a>我需要一份帐单或使用量清单
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
@@ -26,7 +26,6 @@
 
 [Azure 计费和成本管理入门](https://docs.microsoft.com/azure/billing/billing-getting-started)<br>
 [为何向我收费？了解 Azure 帐单](https://azure.microsoft.com/documentation/articles/billing-understand-your-bill/)<br>
-
 
 
 <!--HONumber=Dec16_HO4-->

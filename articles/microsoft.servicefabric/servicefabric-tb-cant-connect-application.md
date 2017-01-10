@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="Connection failures to applications deployed in a cluster " 
+    pageTitle="连接到群集中部署的应用程序失败 " 
     description="连接到群集中部署的应用程序失败 " 
     service="microsoft.servicefabric"
     resource="clusters"
@@ -9,13 +9,13 @@
     supportTopicIds=""
     resourceTags="servicefabric"
     productPesIds=""
-    cloudEnvironments="public"   
+    cloudEnvironments="public,BlackForest,Fairfax"   
 />
  
 
-# 连接到群集中部署的应用程序失败 
+# <a name="connection-failures-to-applications-deployed-in-a-cluster"></a>连接到群集中部署的应用程序失败 
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 
 1. 验证负载平衡规则是否将公开的公共端口映射到预期的内部端口和后端地址池 [查看“资源组”->“负载平衡器[LB xxx]”->“负载平衡规则”]。
 2. 验证 ServiceManifest.xml 是否包含一个定义了正确协议和端口映射的终结点。 请参阅[在服务清单中指定资源](https://azure.microsoft.com/documentation/articles/service-fabric-service-manifest-resources/)。
@@ -27,6 +27,6 @@
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Jan17_HO1-->
 
 

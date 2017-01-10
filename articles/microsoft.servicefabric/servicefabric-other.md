@@ -1,5 +1,5 @@
 <properties
-    pageTitle="cluster/other"
+    pageTitle="群集/其他"
     description="群集/其他"
     service="microsoft.servicefabric"
     resource="clusters"
@@ -9,17 +9,17 @@
     supportTopicIds="32449691"
     resourceTags=""
     productPesIds="15842"
-    cloudEnvironments="public"
+    cloudEnvironments="public,BlackForest,Fairfax"
 />
 
 
-# 群集/其他
+# <a name="clusterother"></a>群集/其他
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [使用系统运行状况报告进行故障排除](https://azure.microsoft.com/documentation/articles/service-fabric-understand-and-troubleshoot-with-system-health-reports/)
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Jan17_HO1-->
 
 

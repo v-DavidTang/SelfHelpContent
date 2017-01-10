@@ -1,9 +1,9 @@
 <properties
     pageTitle="我需要转移计费所有权"
     description="我需要转移计费所有权"
-    service="azure-billing"
+    service="microsoft.billing"
     resource="billing"
-    authors="kasparks"
+    authors="jlian"
     displayOrder="3"
     selfHelpType="resource"
     supportTopicIds=""

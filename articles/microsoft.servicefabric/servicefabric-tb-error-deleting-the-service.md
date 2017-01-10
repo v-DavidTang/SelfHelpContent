@@ -1,5 +1,5 @@
 <properties 
-    pageTitle="Errors deleting a service" 
+    pageTitle="删除服务时出错" 
     description="删除服务时出错" 
     service="microsoft.servicefabric"
     resource="clusters"
@@ -9,13 +9,13 @@
     supportTopicIds=""
     resourceTags="servicefabric"
     productPesIds=""
-    cloudEnvironments="public"   
+    cloudEnvironments="public,BlackForest,Fairfax"   
 />
  
 
-# 删除服务时出错 
+# <a name="errors-deleting-a-service"></a>删除服务时出错 
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 1.  遵循“应用程序/服务的常见失败和故障排除步骤”部分中所述的步骤，确定无法删除服务的原因，以便可以解决应用程序中的任何潜在问题
 2.  确定失败原因后，可以结合 -ForceRemove 开关运行 Remove-ServiceFabricReplica，强制删除该服务：
           
@@ -35,6 +35,6 @@ $replicas = Get-ServiceFabricDeployedReplica -NodeName $node.NodeName -Applicati
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Jan17_HO1-->
 
 

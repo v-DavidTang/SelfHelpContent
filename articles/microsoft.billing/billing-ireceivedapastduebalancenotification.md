@@ -1,9 +1,9 @@
 <properties
     pageTitle="我收到了未付余款通知"
     description="我收到了未付余款通知"
-    service="azure-billing"
+    service="microsoft.billing"
     resource="billing"
-    authors="kasparks"
+    authors="jlian"
     displayOrder="4"
     selfHelpType="resource"
     supportTopicIds=""

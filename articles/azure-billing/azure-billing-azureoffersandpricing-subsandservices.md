@@ -1,19 +1,19 @@
 <properties
-    pageTitle="Azure 产品和定价"
-    description="Azure 产品和定价"
+    pageTitle="Azure 订阅和服务"
+    description="Azure 订阅和服务"
     service="azure-billing"
     resource="billing"
-    authors="kasparks"
+    authors="jlian"
     displayOrder=""
     selfHelpType="generic"
-    supportTopicIds="32454854"
+    supportTopicIds="32549152"
     resourceTags=""
     productPesIds="15659"
     cloudEnvironments="public"
 />
 
 
-# <a name="azure-offers-and-pricing"></a>Azure 产品和定价
+# <a name="azure-subscriptions-and-services"></a>Azure 订阅和服务
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
