@@ -41,11 +41,9 @@ partition by clusterid
 group by clustered tumblingwindow (minutes, 5)
 ~~~~
 
-`clustered` 的数目 
+这里， `clustered` 的数字是 GROUP BY 的基数。
 
-将查询分区后，它将会分散到多个节点中。 因此，可以通过降低重新排序缓冲区的大小来减少传入每个节点的事件数。  
-
-Eventhub 分区应按 partitionid 进行分区。
+将查询分区后，它将会分散到多个节点中。 因此，可以通过降低重新排序缓冲区的大小来减少传入每个节点的事件数。 Eventhub 分区也应按 partitionid 进行分区。
 
 _2) Join 的不匹配事件数较大_
 
@@ -74,6 +72,6 @@ _建立 Microsoft 支持案例_
 
 
 
-<!--HONumber=Dec16_HO3-->
+<!--HONumber=Jan17_HO3-->
 
 
