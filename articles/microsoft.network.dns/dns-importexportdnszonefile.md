@@ -17,7 +17,7 @@
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-Azure DNS 支持通过 [Azure 命令行界面 (CLI)] 导入和导出标准 DNS 区域文件，这适用于 Windows、Mac 和 Linux。 有关详细信息，请参阅以下文档链接。
+Azure DNS 支持通过 [Azure 命令行界面 (CLI)](https://docs.microsoft.com/azure/xplat-cli-install) 导入和导出标准 DNS 区域文件，这适用于 Windows、Mac 和 Linux。 有关详细信息，请参阅以下文档链接。
 
 尚不可通过 Azure 门户或 Azure PowerShell 导入和导出区域文件。
 
@@ -29,6 +29,6 @@ Azure DNS 支持通过 [Azure 命令行界面 (CLI)] 导入和导出标准 DNS �
 
 
 
-<!--HONumber=Dec16_HO1-->
+<!--HONumber=Jan17_HO4-->
 
 
