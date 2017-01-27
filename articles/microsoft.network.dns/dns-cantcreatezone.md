@@ -21,10 +21,10 @@
 
 1.  查看[审核日志](data-blade:Microsoft_Azure_Insights.AzureDiagnosticsBladeWithParameter)以确定失败原因。
 2.  每个 DNS 区域名称在其资源组中必须唯一。 即，一个资源组中不能具有名称相同的两个 DNS 区域。 请尝试使用不同的区域名称，或采用不同的资源组。
-3.  如果出现错误：“已达到或超过订阅 {subscription id} 中最大区域数”，则请使用不同 Azure 订阅，删除一些区域，或联系 Azure 支持以提高订阅上限，然后重试。
-4.  如果出现错误：“区域 '{zone name} 不可用”，则表示 Azure DNS 无法为此 DNS 区域分配名称服务器。 请尝试使用不同的区域名称。 或者，如果你是该域名的所有者，请联系 Azure 支持为你分配名称服务器。
+3.  可能会显示一个错误“已达到或超过订阅 {订阅 id} 中的区域的最大数量。” 请使用其他 Azure 订阅，删除一些区域，或者联系 Azure 支持部门以提高订阅限制。
+4.  可能会显示一个错误“区域‘{区域名称}’不可用。” 此错误意味着 Azure DNS 无法为此 DNS 区域分配名称服务器。 请尝试使用不同的区域名称。 或者，如果你是该域名的所有者，请联系 Azure 支持部门为你分配名称服务器。
 
-如果上述步骤未解决该问题，请将此问题发布到 [MSDN 上的社区支持论坛](https://social.msdn.microsoft.com/Forums/en-US/home?forum=WAVirtualMachinesVirtualNetwork)或打开 Azure 支持票证。
+如果上述步骤未解决该问题，请将此问题发布到 [MSDN 上的社区支持论坛](https://social.msdn.microsoft.com/Forums/en-US/home?forum=WAVirtualMachinesVirtualNetwork)或创建 Azure 支持请求。
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
@@ -34,6 +34,6 @@
 
 
 
-<!--HONumber=Dec16_HO1-->
+<!--HONumber=Jan17_HO4-->
 
 
