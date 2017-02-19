@@ -1,5 +1,6 @@
+
 <properties
-    pageTitle="更改付款方式"
+    pageTitle="change payment method"
     description="更改付款方式"
     service="azure-billing"
     resource="billing"
@@ -27,11 +28,12 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[更新支付信息](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)<br>
+[更新、更改或删除付款信息](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)<br>
 [设置发票](https://azure.microsoft.com/pricing/invoicing/)<br>
-[已推出 Azure 的国家/地区列表以及可用来购买 Azure 的币种](https://azure.microsoft.com/documentation/articles/billing-countries-and-currencies/)<br>
+[已推出 Azure 的国家/地区列表以及可用来购买 Azure 的币种](https://azure.microsoft.com/documentation/articles/billing-countries-and-currencies/)<br>。
 
 
-<!--HONumber=Dec16_HO4-->
+
+<!--HONumber=Feb17_HO2-->
 
 
