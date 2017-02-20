@@ -1,5 +1,5 @@
 <properties
-    pageTitle="计费和付款问题"
+    pageTitle="billing and payment issues"
     description="计费和付款问题"
     service="azure-billing"
     resource="billing"
@@ -27,14 +27,14 @@
 [如何更新支付信息](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)
 
 ## <a name="recommended-documents"></a>**建议的文档**
-
-[我收到了“未付余款”通知](https://azure.microsoft.com/documentation/articles/billing-azure-subscription-past-due-balance/)<br>
+[更新、更改或删除付款信息](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)<br>
+[我收到了“逾期未付余额”通知](https://azure.microsoft.com/documentation/articles/billing-azure-subscription-past-due-balance/)<br>
 [排查 Azure 注册问题](https://azure.microsoft.com/documentation/articles/billing-troubleshoot-azure-sign-up-issues/)<br>
 [尝试注册 Azure 时，为何我的信用卡不被接受？](https://azure.microsoft.com/documentation/articles/billing-credit-card-fails-during-azure-sign-up/)<br>
 [如果订阅显示为已禁用，该怎么办？](https://azure.microsoft.com/documentation/articles/billing-subscription-become-disable/)<br>
 
 
 
-<!--HONumber=Dec16_HO4-->
+<!--HONumber=Feb17_HO2-->
 
 
