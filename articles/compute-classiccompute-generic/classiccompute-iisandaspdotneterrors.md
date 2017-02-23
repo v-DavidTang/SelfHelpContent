@@ -13,14 +13,14 @@
 />
 
 
-# 辅助角色 (PAAS)/应用程序和服务可用性/IIS 和 ASP.NET 错误
+# <a name="worker-role-paasapplication-and-service-availabilityiis-and-aspnet-errors"></a>辅助角色 (PAAS)/应用程序和服务可用性/IIS 和 ASP.NET 错误
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [ASP.NET 故障排除和调试](https://msdn.microsoft.com/library/ms178643.aspx)<br>
-[使用调试诊断工具来排查导致响应停止的进程](http://blogs.msdn.com/b/debugdiag/)
+[使用调试诊断工具来排查导致响应停止的进程](http://blogs.msdn.com/b/debugdiag/)<br>
+[如何安装连锁的 SSL 证书](https://blogs.msdn.microsoft.com/azuredevsupport/2010/02/24/how-to-install-a-chained-ssl-certificate/)
 
 
-
-<!--HONumber=Aug16_HO2-->
+<!--HONumber=Feb17_HO3-->
 
 

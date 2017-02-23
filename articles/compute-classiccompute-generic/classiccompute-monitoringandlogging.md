@@ -13,15 +13,17 @@
 />
 
 
-# 辅助角色 (paas) /配置和管理/监视和日志记录
+# <a name="worker-role-paasconfiguration-and-managementmonitoring-and-logging"></a>辅助角色 (paas) /配置和管理/监视和日志记录
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [如何为云服务配置监视和接收警报](https://azure.microsoft.com/documentation/articles/cloud-services-how-to-monitor/)<br>
+[新门户中的活动日志](https://docs.microsoft.com/azure/monitoring-and-diagnostics/monitoring-overview-activity-logs)<br>
 [如何启用 Crypto API 日志记录以排查证书\SSL 问题](https://blogs.msdn.microsoft.com/benjaminperkins/2013/09/30/enable-capi2-event-logging-to-troubleshoot-pki-and-ssl-certificate-issues/)<br>
 [IIS 日志停止写入？](https://blogs.msdn.microsoft.com/cie/2013/12/21/iis-logs-stops-writing-in-cloud-service/)
 
 
 
-<!--HONumber=Oct16_HO3-->
+
+<!--HONumber=Feb17_HO3-->
 
 
