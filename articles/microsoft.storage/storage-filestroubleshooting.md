@@ -24,7 +24,7 @@
  
 **Windows 客户端问题**
 - [从 Windows 8.1 或 Windows Server 2012 R2 访问 Azure 文件存储时性能不佳](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#windowsslow)<br>
-- [Error 53 or Error 67 when attempting to mount an Azure File Share](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#error53)（尝试装载 Azure 文件共享时出现错误 53 或错误 67）<br>
+- [尝试装载 Azure 文件共享时出现错误 53“访问被拒绝”或错误 67](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#error53)<br>
 - [Net use 成功，但Windows Explorer 中未显示已装载的 Azure 文件共享](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#netuse)<br>
 - [我的存储帐户包含 "/" 且 net use 命令失败](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#slashfails)<br>
 - [我的应用程序/服务无法访问装载的 Azure 文件驱动器](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#accessfiledrive)<br>
@@ -41,6 +41,6 @@
 
 
 
-<!--HONumber=Dec16_HO1-->
+<!--HONumber=Feb17_HO2-->
 
 
