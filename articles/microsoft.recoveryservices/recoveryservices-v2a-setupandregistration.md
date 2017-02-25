@@ -12,18 +12,20 @@
     cloudEnvironments="public"
 />
 
-# 站点恢复（VMware vCenter 到 Azure）/添加/注册配置服务器
+# <a name="site-recovery-vmware-vcenter-to-azureaddregister-configuration-server"></a>站点恢复（VMware vCenter 到 Azure）/添加/注册配置服务器
 
 安装和注册配置服务器过程中出现的常见问题
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 * 确保安装**配置服务器**的服务器有权访问以下 URL <br>
-    1. *.hypervrecoverymanager.windowsazure.com
-    2. *.accesscontrol.windows.net
-    3. *.backup.windowsazure.com
-    4. *.blob.core.windows.net 5.*.store.core.windows.net
-    6. https://www.msftncsi.com/ncsi.txt
-    7. https://dev.mysql.com/get/archives/mysql-5.5/mysql-5.5.37-win32.msi
+    1. \*.hypervrecoverymanager.windowsazure.com
+    2. \*.accesscontrol.windows.net
+    3. \*.backup.windowsazure.com
+    4. \*.blob.core.windows.net
+     5. \*.store.core.windows.net
+    6. time.nist.gov
+    7. time.windows.com
+    8. https://dev.mysql.com/get/archives/mysql-5.5/mysql-5.5.37-win32.msi
 
 * 确保安装**配置服务器**的服务器上的时钟已根据其目标时区设置了正确的时间。
 
@@ -51,13 +53,17 @@
 
 * 如果成功注册**配置服务器**后无法发现 vCenter，请确保运行**配置服务器**的计算机上未安装其他 Perl 或 PHP 版本
 
-## **建议的文档**
-[配置服务器先决条件](https://azure.microsoft.com/documentation/articles/site-recovery-vmware-to-azure/#configuration-server-prerequisites)
-<br>
-[VMware vCenter/vSphere 主机先决条件](https://azure.microsoft.com/documentation/articles/site-recovery-vmware-to-azure/#vmware-vcentervsphere-host-prerequisites)
+## <a name="recommended-documents"></a>**建议的文档**
+* [配置服务器硬件和软件先决条件](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#prerequisites)
+* [安装和注册配置服务器](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#installing-and-registering-a-configuration-server-from-gui)
+* [如何将配置服务器注册到不同的保管库](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#registering-a-configuration-server-with-a-different-recovery-services-vault)
+* [续订配置服务器 SSL 证书](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#renew-configuration-server-secure-socket-layerssl-certificates)
+* [修改配置服务器的代理设置](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#modifying-proxy-settings-for-configuration-server)
+* [缩放配置服务器的限制](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#sizing-requirements-for-a-configuration-server)
+* [对配置服务器解除授权](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-configuration-server#decommissioning-a-configuration-server)
 
 
 
-<!--HONumber=Aug16_HO3-->
+<!--HONumber=Feb17_HO4-->
 
 
