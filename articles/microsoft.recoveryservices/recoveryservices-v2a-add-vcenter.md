@@ -43,11 +43,15 @@
     - 将**“vCenter 服务器/vSphere 服务器主机帐户”**字段修改为所创建的新帐户，然后单击**“保存”**
 
 
-## <a name="recommended-documents"></a>**建议的文档**
-[VMware 到 Azure](https://aka.ms/asrstv2a)
+## <a name="recommended--documents"></a>**建议的文档**
+* [为自动发现准备帐户](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-vCenter#prepare-an-account-for-automatic-discovery)
+* [在 CSPSConfigtool 中创建帐户以连接到 VMware vCenter 服务器/vSphere ESSi 主机](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-vCenter#create-an-account-to-connect-to-vmware-vcenter-server-vmware-vsphere-exsi-host)
+* [将 vCenter/vSphere ESX 主机添加到配置服务器](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-vCenter#associate-a-vmware-vcenter-vmware-vsphere-esx-host-add-vcenter)
+* [更改/修改凭据以连接到 vCenter/vSphere ESXi 主机](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-vCenter#associate-a-vmware-vcenter-vmware-vsphere-esx-host-add-vcenter)
+* [从配置服务器中删除 vCenter](https://docs.microsoft.com/azure/site-recovery/site-recovery-vmware-to-azure-manage-vCenter#delete-a-vcenter-in-azure-site-recovery)
 
 
 
-<!--HONumber=Nov16_HO1-->
+<!--HONumber=Feb17_HO4-->
 
 
