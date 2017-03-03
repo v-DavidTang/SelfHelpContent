@@ -33,8 +33,3 @@
 [尝试注册 Azure 时，为何我的信用卡不被接受？](https://azure.microsoft.com/documentation/articles/billing-credit-card-fails-during-azure-sign-up/)<br>
 [如果订阅显示为已禁用，该怎么办？](https://azure.microsoft.com/documentation/articles/billing-subscription-become-disable/)<br>
 
-
-
-<!--HONumber=Feb17_HO2-->
-
-
