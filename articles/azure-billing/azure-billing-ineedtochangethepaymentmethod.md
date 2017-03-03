@@ -33,8 +33,3 @@
 [设置发票](https://azure.microsoft.com/pricing/invoicing/)<br>
 [已推出 Azure 的国家/地区列表以及可用来购买 Azure 的币种](https://azure.microsoft.com/documentation/articles/billing-countries-and-currencies/)<br>
 
-
-
-<!--HONumber=Feb17_HO2-->
-
-

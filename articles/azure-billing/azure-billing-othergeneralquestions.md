@@ -26,8 +26,3 @@
 [转移订阅所有权](https://docs.microsoft.com/azure/billing-subscription-transfer)<br>
 [如何取消订阅](https://docs.microsoft.com/azure/billing-how-to-cancel-azure-subscription)
 
-
-
-<!--HONumber=Feb17_HO2-->
-
-
