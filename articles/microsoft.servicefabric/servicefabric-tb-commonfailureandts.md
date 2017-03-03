@@ -27,8 +27,3 @@
 1.  请参阅[在本地计算机开发设置中监视和诊断服务](https://azure.microsoft.com/documentation/articles/service-fabric-diagnostics-how-to-monitor-and-diagnose-services-locally/)，了解如何在应用程序中配置 ETW 跟踪
 2.  请参阅[使用 Visual Studio 调试 Service Fabric 应用程序](https://azure.microsoft.com/documentation/articles/service-fabric-debugging-your-application/)，了解如何使用 Visual Studio 调试和查看远程 Service Fabric 应用的 ETW 跟踪
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

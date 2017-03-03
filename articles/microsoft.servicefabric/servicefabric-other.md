@@ -18,8 +18,3 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 [使用系统运行状况报告进行故障排除](https://azure.microsoft.com/documentation/articles/service-fabric-understand-and-troubleshoot-with-system-health-reports/)
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

@@ -19,8 +19,3 @@
 
 [无法登录，因此无法管理 Azure 订阅](https://docs.microsoft.com/azure/billing-cannot-login-subscription)
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

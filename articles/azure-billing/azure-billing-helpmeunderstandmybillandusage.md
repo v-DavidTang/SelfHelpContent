@@ -31,8 +31,3 @@
 [Azure 免费试用版常见问题（1 美元暂扣费用）](https://azure.microsoft.com/pricing/free-trial-faq/)<br>
 [Azure 计费和成本管理入门](https://docs.microsoft.com/azure/billing/billing-getting-started)<br>
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

@@ -22,8 +22,3 @@
 [将免费版订阅升级到即用即付版本](https://azure.microsoft.com/documentation/articles/billing-upgrade-azure-subscription/)<br>
 [激活 Visual Studio 订户的每月 Azure 信用额度](https://azure.microsoft.com/pricing/member-offers/msdn-benefits/)<br>
 [Microsoft 合作伙伴网络 (MPN) - 优势、要求、注册和管理](https://partner.microsoft.com/membership/core-benefits#Core benefits)<br>
-
-
-<!--HONumber=Dec16_HO4-->
-
-

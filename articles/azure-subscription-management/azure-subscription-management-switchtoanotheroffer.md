@@ -31,8 +31,3 @@
 [视频：切换 Azure 订阅产品](https://channel9.msdn.com/Series/Microsoft-Azure-Tutorials/Switch-to-a-different-Azure-offer/)<br>
 [Azure 价格和购买选项](https://azure.microsoft.com/pricing/)
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

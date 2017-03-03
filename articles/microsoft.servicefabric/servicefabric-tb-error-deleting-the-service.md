@@ -33,8 +33,3 @@ $replicas = Get-ServiceFabricDeployedReplica -NodeName $node.NodeName -Applicati
 ```
 
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

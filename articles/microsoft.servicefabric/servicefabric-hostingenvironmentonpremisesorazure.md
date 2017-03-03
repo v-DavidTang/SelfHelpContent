@@ -20,8 +20,3 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 [在 Windows Server 或 Linux 上创建独立的 Service Fabric 群集](https://azure.microsoft.com/documentation/articles/service-fabric-deploy-anywhere/)
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

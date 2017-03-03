@@ -20,8 +20,3 @@
 + [此文](https://azure.microsoft.com/documentation/articles/service-fabric-vso-load-test/)介绍了如何使用 Microsoft Visual Studio 负载测试功能对应用程序进行压力测试。 
 + [此文](https://azure.microsoft.com/documentation/articles/service-fabric-concepts-scalability/)介绍了如何缩放 Service Fabric 应用程序。 
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

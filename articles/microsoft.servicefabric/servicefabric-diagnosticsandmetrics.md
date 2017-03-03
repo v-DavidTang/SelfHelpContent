@@ -19,8 +19,3 @@
 [使用 Azure 诊断收集日志](https://azure.microsoft.com/documentation/articles/service-fabric-diagnostics-how-to-setup-wad/) <br>
 [事件和性能计数器的列表](https://azure.microsoft.com/documentation/articles/service-fabric-reliable-actors-diagnostics/#actor-method-events-and-performance-counters)
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-
