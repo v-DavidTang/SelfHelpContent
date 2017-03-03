@@ -27,8 +27,3 @@
 [Azure 计费和成本管理入门](https://docs.microsoft.com/azure/billing/billing-getting-started)<br>
 [为何向我收费？了解 Azure 帐单](https://azure.microsoft.com/documentation/articles/billing-understand-your-bill/)<br>
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

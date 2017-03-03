@@ -36,8 +36,3 @@
 ## <a name="recommended-documents"></a>**建议的文档**
    [连接到安全群集](https://azure.microsoft.com/documentation/articles/service-fabric-connect-to-secure-cluster/)
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

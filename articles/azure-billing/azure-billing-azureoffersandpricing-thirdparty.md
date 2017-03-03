@@ -18,8 +18,3 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 
 [了解 Azure 第三方服务费用](https://docs.microsoft.com/azure/billing-understand-your-azure-marketplace-charges)
-
-
-<!--HONumber=Dec16_HO4-->
-
-

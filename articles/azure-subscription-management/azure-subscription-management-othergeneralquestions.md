@@ -23,8 +23,3 @@
 [管理管理员角色](https://docs.microsoft.com/azure/billing-add-change-azure-subscription-administrator)<br>
 [转移订阅所有权](https://docs.microsoft.com/azure/billing-subscription-transfer)<br>
 [如何取消订阅](https://docs.microsoft.com/azure/billing-how-to-cancel-azure-subscription)
-
-
-<!--HONumber=Dec16_HO4-->
-
-
