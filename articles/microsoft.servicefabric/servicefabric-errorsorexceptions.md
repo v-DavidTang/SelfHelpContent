@@ -46,8 +46,3 @@ Service Fabric Explorer 中出现 System.XXX 错误时的有用提示：
 4. [Reliable Actors 的诊断和性能监视](https://azure.microsoft.com/documentation/articles/service-fabric-reliable-actors-diagnostics/)<br>
 5. [有状态 Reliable Services 的诊断功能](https://azure.microsoft.com/documentation/articles/service-fabric-reliable-services-diagnostics/)
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-

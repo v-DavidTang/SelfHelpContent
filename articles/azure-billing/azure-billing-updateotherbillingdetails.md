@@ -20,8 +20,3 @@
 [编辑个人资料 - 更改联系人电子邮件、姓名和地址](https://docs.microsoft.com/azure/billing-how-to-change-azure-account-profile)<br>
 [更新支付信息](https://docs.microsoft.com/azure/billing-how-to-change-credit-card)<br>
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

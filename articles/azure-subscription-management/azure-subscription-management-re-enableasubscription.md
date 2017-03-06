@@ -33,8 +33,3 @@
 [如果 Azure 订阅被禁用，该怎么办？](https://azure.microsoft.com/documentation/articles/billing-subscription-become-disable/)<br>
 [解决未付余款通知](https://azure.microsoft.com/documentation/articles/billing-azure-subscription-past-due-balance/)
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

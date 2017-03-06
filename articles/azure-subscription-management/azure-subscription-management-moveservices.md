@@ -20,8 +20,3 @@
 [将资源移到新资源组或订阅中](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)<br>
 [转移 Azure 订阅的所有权](https://docs.microsoft.com/azure/billing-subscription-transfer)
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

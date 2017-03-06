@@ -32,8 +32,3 @@
 
 [如果 Azure 订阅被禁用，该怎么办？](https://azure.microsoft.com/documentation/articles/billing-subscription-become-disable/)<br>
 [入门 - 支出限制](https://docs.microsoft.com/azure/billing/billing-getting-started#spending-limit)
-
-
-<!--HONumber=Dec16_HO4-->
-
-

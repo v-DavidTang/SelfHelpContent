@@ -30,8 +30,3 @@
 [激活 Visual Studio 订户的每月 Azure 信用额度](https://azure.microsoft.com/pricing/member-offers/msdn-benefits/)<br>
 [Microsoft 合作伙伴网络 (MPN) - 优势、要求、注册和管理](https://partner.microsoft.com/membership/core-benefits#Core benefits)<br>
 [Azure 免费试用版常见问题（1 美元暂扣费用）](https://azure.microsoft.com/pricing/free-trial-faq/)<br>
-
-
-<!--HONumber=Dec16_HO4-->
-
-

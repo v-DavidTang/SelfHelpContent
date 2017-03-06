@@ -26,8 +26,3 @@
 [Azure 计费和订阅常见问题](https://azure.microsoft.com/documentation/articles/billing-subscription-faq/)<br>
 [了解可更新付款方式的帐户管理员的详细信息](https://azure.microsoft.com/documentation/articles/billing-add-change-azure-subscription-administrator/)
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

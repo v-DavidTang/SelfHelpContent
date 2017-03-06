@@ -31,8 +31,3 @@
 
 [转移计费或帐户所有权 - 分步指南和常见问题](https://azure.microsoft.com/documentation/articles/billing-subscription-transfer/)
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

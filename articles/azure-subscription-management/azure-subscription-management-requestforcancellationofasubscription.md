@@ -22,8 +22,3 @@
 2. 帐户管理员可在门户中取消订阅。 <br>
 [取消 Azure 订阅](https://azure.microsoft.com/documentation/articles/billing-how-to-cancel-azure-subscription/)<br>
 
-
-
-<!--HONumber=Dec16_HO4-->
-
-

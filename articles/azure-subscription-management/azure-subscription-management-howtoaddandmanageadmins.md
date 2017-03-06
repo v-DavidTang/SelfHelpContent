@@ -18,8 +18,3 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 
 [管理员角色 - 了解不同角色的限制和权限以及如何更新这些限制和权限](https://azure.microsoft.com/documentation/articles/billing-add-change-azure-subscription-administrator/)<br>
-
-
-<!--HONumber=Dec16_HO4-->
-
-

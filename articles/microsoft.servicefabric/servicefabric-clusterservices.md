@@ -30,8 +30,3 @@ Service Fabric Explorer 中出现 System.XXX 错误时的有用提示：
 ## <a name="recommended-documents"></a>**建议的文档**
 1. [使用系统运行状况报告进行故障排除](https://azure.microsoft.com/documentation/articles/service-fabric-understand-and-troubleshoot-with-system-health-reports/)中描述了大部分系统错误
 
-
-
-<!--HONumber=Jan17_HO1-->
-
-
