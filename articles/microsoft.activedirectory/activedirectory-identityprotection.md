@@ -17,11 +17,6 @@
 
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[如何尝试标识保护](https://www.microsoft.com/cloud-platform/enterprise-mobility-security-trial ) <br>
-[如何启用标识保护](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection-enable ) <br>
-
-
-
-<!--HONumber=Feb17_HO4-->
-
+[如何获取 Identity Protection](https://aka.ms/emstrial) <br>
+[如何启用 Identity Protection](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection-enable) <br>
 

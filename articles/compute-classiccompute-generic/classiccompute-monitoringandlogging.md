@@ -19,11 +19,7 @@
 [如何为云服务配置监视和接收警报](https://azure.microsoft.com/documentation/articles/cloud-services-how-to-monitor/)<br>
 [新门户中的活动日志](https://docs.microsoft.com/azure/monitoring-and-diagnostics/monitoring-overview-activity-logs)<br>
 [如何启用 Crypto API 日志记录以排查证书\SSL 问题](https://blogs.msdn.microsoft.com/benjaminperkins/2013/09/30/enable-capi2-event-logging-to-troubleshoot-pki-and-ssl-certificate-issues/)<br>
-[IIS 日志停止写入？](https://blogs.msdn.microsoft.com/cie/2013/12/21/iis-logs-stops-writing-in-cloud-service/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[IIS 日志停止写入？](https://blogs.msdn.microsoft.com/cie/2013/12/21/iis-logs-stops-writing-in-cloud-service/)<br>
+[如何在 Azure 门户中存档活动日志](https://docs.microsoft.com/azure/monitoring-and-diagnostics/monitoring-archive-activity-log#log-profile)
 
 
