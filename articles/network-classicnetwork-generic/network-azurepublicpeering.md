@@ -3,7 +3,7 @@
     description="连接/Azure 公共对等互连"
     service="microsoft.network"
     resource="expressroutecircuits"
-    authors="aashu"
+    authors="radwiv"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32539950"
@@ -13,17 +13,10 @@
 />
 
 
-# 连接/Azure 公共对等互连
+# <a name="connectivityazure-public-peering"></a>连接/Azure 公共对等互连
 
-
-## **建议的文档**
-[ExpressRoute 线路和路由域](https://azure.microsoft.com/documentation/articles/expressroute-circuit-peerings/)<br>
-[使用 Azure 门户与 Resource Manager 部署模型来创建和修改 ExpressRoute 线路的路由](https://azure.microsoft.com/documentation/articles/expressroute-howto-routing-portal-resource-manager/)<br>
-[使用 PowerShell 与 Resource Manager 部署模型来创建和修改 ExpressRoute 线路的路由](https://azure.microsoft.com/documentation/articles/expressroute-howto-routing-arm/)<br>
-[使用 PowerShell 与经典部署模型来创建和修改 ExpressRoute 线路的路由](https://azure.microsoft.com/documentation/articles/expressroute-howto-routing-classic/)
-
-
-
-<!--HONumber=Jul16_HO4-->
-
+## <a name="recommended-documents"></a>**建议的文档**
+[验证 ExpressRoute 连接](https://docs.microsoft.com/azure/expressroute/expressroute-troubleshooting-expressroute-overview)<br>
+[在 Resource Manager 部署模型中获取 ARP 表](https://docs.microsoft.com/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)<br>
+[在经典部署模型中获取 ARP 表](https://docs.microsoft.com/azure/expressroute/expressroute-troubleshooting-arp-classic)
 
