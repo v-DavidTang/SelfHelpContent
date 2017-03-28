@@ -28,12 +28,8 @@
 在 VM 资源的“设置”边栏选项卡中单击“大小”。
 5. 如果该虚拟机用于 I/O 密集型方案，请考虑使用高级存储帐户。<br>
 [高级存储：适用于 Azure 虚拟机工作负荷的高性能存储](https://azure.microsoft.com/documentation/articles/storage-premium-storage-preview-portal/)
+6. 你是否知道，PerfInsights 可以帮助你分析来宾 VM 问题？ 请从这里开始：[下载 PerfInsights](https://www.microsoft.com/en-us/download/details.aspx?id=54915&fa43d42b-25b5-4a42-fe9b-1634f450f5ee=True)。<br> 为确保快速解决问题，你还可以在创建支持案例时向我们提供 PerfInsights 日志。
 
 ## <a name="recommended-documents"></a>**建议的文档**
 [Detailed troubleshooting of Azure Storage](https://azure.microsoft.com/documentation/articles/storage-monitoring-diagnosing-troubleshooting/)（Azure 存储的详细疑难解答）
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

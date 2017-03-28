@@ -1,7 +1,7 @@
 <properties
     pageTitle="VMA RCA"
     description="RCA - 节点服务修复 - 节点崩溃"
-    infoBubbleText="已找到 RCA"
+    infoBubbleText="发现最近已重新启动。 请参阅右侧的详细信息。"
     service="microsoft.compute"
     resource="virtualmachines"
     authors="ScottAzure"
@@ -15,27 +15,26 @@
     cloudEnvironments="public"
 />
 
-
 #<a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
-
+ 
 <!--issueDescription-->
-## <a name="microsoft-azure-vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 Microsoft Azure VM 可用性事件诊断信息<!--($vmname)-->** ##
+## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##
 
-Microsoft Azure 已结束我们对订阅 **[SubscriptionId]**<!--($SubscriptionId)--> 中你的虚拟机 (VM) **[vmname]**<!--($vmname)--> 的调查。 我们发现，你的 VM **在 [开始时间]<!--($StartTime)--> (UTC) 变得不可用**，在 **[结束时间]<!--($EndTime)--> (UTC) 恢复了可用性**。 这一**意外事件**是由于 **Azure 启动的自动恢复操作所致**。
+我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 此意外事件由 **Azure 启动的自动恢复操作**所致。
 <!--/issueDescription-->
 
-该自动恢复操作由托管虚拟机的物理节点上的硬件问题触发。 按照设计，你的 VM 已自动移到其他正常的物理节点，以避免受到进一步的影响。
+该自动恢复操作由托管虚拟机的物理节点上的硬件问题触发。 按照设计，你的 VM 已自动移到其他正常的物理节点，以避免受到进一步的影响。 在此时间内，与 VM 的 RDP 和 SSH 连接或对该 VM 内运行的任何其他服务的请求可能已失败。<br>
+若要了解有关自动化恢复操作的详细信息，请阅读以下文章：<br>
+* [自动恢复虚拟机](https://azure.microsoft.com/blog/service-healing-auto-recovery-of-virtual-machines)<br>
 
-若要了解有关我们的自动化恢复操作的详细信息，请阅读以下文章：[自动恢复虚拟机](https://azure.microsoft.com/blog/service-healing-auto-recovery-of-virtual-machines)
+为了确保提高 Azure 中应用程序的保护和冗余级别，我们建议将两个或更多虚拟机组合到一个可用性集中。<br>
+若要了解有关高可用性选项的详细信息，请参阅以下文章：<br>
+* [管理虚拟机的可用性](https://azure.microsoft.com/documentation/articles/virtual-machines-manage-availability)<br>
+* [配置虚拟机的可用性](https://azure.microsoft.com/documentation/articles/virtual-machines-how-to-configure-availability)<br>
 
-*若要确保在 Azure 中为应用程序提供高可用性，建议你将两个或更多虚拟机组合到一个可用性集中。此配置将确保提供更高级别的保护，并且在发生计划内或计划外维护事件期间提供冗余。可在以下文章中找到有关管理和配置虚拟机可用性的详细信息：*
-
-* [管理虚拟机的可用性](https://azure.microsoft.com/documentation/articles/virtual-machines-manage-availability)
-* [配置虚拟机的可用性](https://azure.microsoft.com/documentation/articles/virtual-machines-how-to-configure-availability)
-
-Microsoft Azure 还通过 Azure 资源运行状况提供对 Azure 门户中的资源运行状况信息的访问，Azure 资源运行状况是一项服务，用于显示各个 Azure 资源的运行状况，并为排查问题提供可行的指南。 若要了解有关 Azure 资源运行状况的详细信息，请参阅以下文章：[了解和使用资源运行状况中心，以便将来排查这种情况](https://docs.microsoft.com/azure/resource-health/resource-health-overview)
+Microsoft Azure 还可让你在 Azure 门户中访问资源运行状况和故障排除信息。<br>
+若要了解有关 Azure 资源运行状况的详细信息，请参阅以下文章：<br>
+* [了解资源运行状况中心并使用它来排查此方案将来出现的问题](https://docs.microsoft.com/azure/resource-health/resource-health-overview)<br>
 
 对于这可能给你带来的任何不便，我们深表歉意。 我们一直致力于改进该平台，以减少由于平台问题而导致的虚拟机可用性事件。
-
-此致，Microsoft Azure 团队
 
