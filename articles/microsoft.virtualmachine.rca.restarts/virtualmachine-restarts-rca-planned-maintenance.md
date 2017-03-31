@@ -1,12 +1,12 @@
 <properties
     pageTitle="VMA RCA"
-    description="RCA - 节点服务修复 - 节点崩溃"
+    description="RCA - 计划内维护"
     infoBubbleText="发现最近已重新启动。 请参阅右侧的详细信息。"
     service="microsoft.compute"
     resource="virtualmachines"
-    authors="ScottAzure"
+    authors="jozender"
     displayOrder=""
-    articleId="UnexpectedVMReboot_9AB9EF5B-C5C5-4DD0-995B-F95E0D53DAAE"
+    articleId="UnexpectedVMReboot_6F7CB386-C0FA-40F6-9E31-0E1F9608D9B4"
     diagnosticScenario="UnexpectedVMReboot"
     selfHelpType="rca"
     supportTopicIds="32411816"
@@ -19,13 +19,12 @@
 
 <!--issueDescription-->
 ## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##
-
-我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 此意外事件是 **Azure 启动的主机节点重新启动操作**所致。
+ 
+我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 这一预期事件由 **Azure 启动的计划内维护操作**所致。
 <!--/issueDescription-->
 
-该主机节点重新启动操作由 Azure 监视系统触发，这些系统检测到由于托管虚拟机的物理节点存在最近发现的平台 Bug 而出现的故障情况。 这也导致了你的 VM 重新启动。 在此时间内，与 VM 的 RDP 和 SSH 连接或对该 VM 内运行的任何其他服务的请求可能已失败。 
-
-我们的核心平台工程师已识别出该 Bug，并且当前正在致力于提供解决此问题的修补程序。 该解决方案在经过验证并完成测试后将会部署到所有受影响的节点
+此计划内维护更新需要重新启动虚拟机，以便将所需的更新应用到基础结构。 虚拟机在我们修补基础结构时关闭，之后再重新启动。<br> 若要了解有关 Azure 上计划内维护的详细信息，请参阅以下文章：<br>
+* [Azure 中虚拟机的计划内维护](https://azure.microsoft.com/documentation/articles/virtual-machines-planned-maintenance/)<br>
 
 为了确保提高 Azure 中应用程序的保护和冗余级别，我们建议将两个或更多虚拟机组合到一个可用性集中。<br>
 若要了解有关高可用性选项的详细信息，请参阅以下文章：<br>
@@ -37,4 +36,3 @@ Microsoft Azure 还可让你在 Azure 门户中访问资源运行状况和故障
 * [了解资源运行状况中心并使用它来排查此方案将来出现的问题](https://docs.microsoft.com/azure/resource-health/resource-health-overview)<br>
 
 对于这可能给你带来的任何不便，我们深表歉意。 我们一直致力于改进该平台，以减少由于平台问题而导致的虚拟机可用性事件。
-
