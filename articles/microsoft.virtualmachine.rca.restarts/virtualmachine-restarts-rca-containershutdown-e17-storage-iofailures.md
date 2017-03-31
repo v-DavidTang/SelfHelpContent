@@ -6,7 +6,7 @@
     resource="virtualmachines"
     authors="ScottAzure"
     displayOrder=""
-    articleId="UnexpectedVMReboot_33668E95-C74E-42EE-82F6-AFD3ACCC30BD"
+    articleId="UnexpectedVMReboot_00F100A7-D2D8-4E74-91CA-C818126BF122"
     diagnosticScenario="UnexpectedVMReboot"
     selfHelpType="rca"
     supportTopicIds="32411816"
@@ -15,7 +15,7 @@
     cloudEnvironments="public"
 />
 
-#<a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
+# <a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
 
 <!--issueDescription-->
 ## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##

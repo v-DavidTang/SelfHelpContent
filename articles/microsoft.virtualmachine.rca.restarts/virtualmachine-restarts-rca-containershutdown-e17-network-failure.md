@@ -1,12 +1,12 @@
 <properties
     pageTitle="VMA RCA"
-    description="RCA - 节点服务修复 - 节点崩溃"
+    description="RCA - 容器关闭 - E17 网络故障"
     infoBubbleText="发现最近已重新启动。 请参阅右侧的详细信息。"
     service="microsoft.compute"
     resource="virtualmachines"
-    authors="ScottAzure"
+    authors="jozender"
     displayOrder=""
-    articleId="UnexpectedVMReboot_9AB9EF5B-C5C5-4DD0-995B-F95E0D53DAAE"
+    articleId="UnexpectedVMReboot_0C6D008F-AFC1-41A1-9A54-0C64C109064F"
     diagnosticScenario="UnexpectedVMReboot"
     selfHelpType="rca"
     supportTopicIds="32411816"
@@ -19,13 +19,11 @@
 
 <!--issueDescription-->
 ## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##
-
-我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 此意外事件是 **Azure 启动的主机节点重新启动操作**所致。
+ 
+我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 此意外事件由 **Azure 启动的临时 VM 关闭**所致。
 <!--/issueDescription-->
 
-该主机节点重新启动操作由 Azure 监视系统触发，这些系统检测到由于托管虚拟机的物理节点存在最近发现的平台 Bug 而出现的故障情况。 这也导致了你的 VM 重新启动。 在此时间内，与 VM 的 RDP 和 SSH 连接或对该 VM 内运行的任何其他服务的请求可能已失败。 
-
-我们的核心平台工程师已识别出该 Bug，并且当前正在致力于提供解决此问题的修补程序。 该解决方案在经过验证并完成测试后将会部署到所有受影响的节点
+该临时 VM 关闭由 Azure 监视系统触发，这些系统检测到运行 VM 的物理主机节点与 VHD 所在的 Azure 存储服务之间存在网络问题。 按照设计，此操作已执行以保持 VM 的数据完整性。 节点检测到情况已好转之后，VM 便重新启动了。 在此时间内，与 VM 的 RDP 连接或对该 VM 内运行的任何其他服务的请求可能已失败。    
 
 为了确保提高 Azure 中应用程序的保护和冗余级别，我们建议将两个或更多虚拟机组合到一个可用性集中。<br>
 若要了解有关高可用性选项的详细信息，请参阅以下文章：<br>
