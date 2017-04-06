@@ -3,7 +3,7 @@
     description="Azure Active Directory 自助案例提交"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
-    authors="curtand"
+    authors="Jeffsta-MSFT"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32045771"

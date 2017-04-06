@@ -3,7 +3,7 @@
     description="Azure Active Directory 故障排除"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
-    authors="curtand"
+    authors="Jeffsta-MSFT"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32565605"
