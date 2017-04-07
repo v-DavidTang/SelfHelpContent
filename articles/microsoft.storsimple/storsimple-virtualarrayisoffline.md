@@ -7,16 +7,16 @@
     displayOrder="4"
     selfHelpType="resource"
     supportTopicIds=""
-    resourceTags=""
+    resourceTags="9000Or1200Series"
     productPesIds=""
     cloudEnvironments="public"
 />
 
 
-# 虚拟阵列已脱机。
+# <a name="my-virtual-array-is-offline"></a>虚拟阵列已脱机。
 如果你的虚拟阵列已脱机，其原因可能是下列其中一项：
 
-## **建议的步骤**
+## <a name="recommended-steps"></a>**建议的步骤**
 1. 虚拟阵列无法与 StorSimple 设备管理器服务通信。 <br>
     a. 在虚拟阵列的本地 Web UI 中，转到**“疑难解答”** > **“诊断测试”**，然后单击**“运行诊断测试”**。 解决报告的问题。
 2. 虚拟阵列可能已在虚拟机监控程序上关闭或暂停。 <br>
@@ -25,12 +25,7 @@
   c. 如果还是无法连接，请检查 Hyper-V 主机或 ESX 服务器，以确保 VM 运行状况正常。
 
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [通过本地 Web UI 进行故障排除](https://aka.ms/storsimple-troubleshoot-diagnostics)<br>
 [排查 Hyper-V 问题](https://technet.microsoft.com/library/cc742454.aspx)
-
-
-
-<!--HONumber=Aug16_HO3-->
-
 
