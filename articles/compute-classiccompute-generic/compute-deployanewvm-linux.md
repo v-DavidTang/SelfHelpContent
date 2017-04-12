@@ -3,7 +3,7 @@
     description="配置和设置/部署新 VM"
     service="microsoft.compute"
     resource="virtualmachines"
-    authors="scottAzure"
+    authors="scottazure"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32411844"
