@@ -18,9 +18,9 @@
 # <a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
 
 <!--issueDescription-->
-## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##
+## <a name="vm-availability-incident-diagnostic-information-for---vmname--virtual-machine--vmname--"></a>**<!--$vmname-->虚拟机<!--/$vmname-->的 VM 可用性事件诊断信息：** ##
  
-我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 此意外事件由 **Azure 启动的内存保留更新操作**所致。
+我们发现，你的 VM 在 **<!--$StartTime--> StartTime <!--/$StartTime--> (UTC)** 变得不可用，在 **<!--$EndTime--> EndTime <!--/$EndTime--> (UTC)** 恢复了可用性。 此意外事件由 **Azure 启动的内存保留更新操作**所致。
 <!--/issueDescription-->
 
 该内存保留更新操作在托管虚拟机的物理节点上执行。 由于更新问题，部署的进展速度不及预期。 更新过程已成功，但 VM 不可用的时间长于预期的最长持续时间（30 秒）。 在此时间内，与 VM 的 RDP 和 SSH 连接或对该 VM 内运行的任何其他服务的请求可能已失败。

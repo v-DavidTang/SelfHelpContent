@@ -18,10 +18,10 @@
 
 # <a name="diagnostics-on-your-linux-virtual-machine-found-a-boot-error"></a>在 Linux 虚拟机上执行的诊断发现了启动错误 
 <!--issueDescription-->
-## <a name="boot-error-found-for-your-virtual-machine-vmname--vmname--"></a>**发现了虚拟机 [vmname] 的启动错误<!--($vmname)-->：**
-Microsoft Azure 已调查完你的虚拟机 (VM) **[vmname]**<!--($vmname)-->。 我们发现，由于文件系统表 (fstab) 文件包含的某个条目使用了 VM 上不存在的文件系统的全局唯一标识符 (UUID)，因此你的 VM 当前处于不可访问状态。  有多种原因可能会造成这种情况，包括删除了数据磁盘，或者在未更新 /etc/fstab 文件的情况下重新启动。  
+## <a name="boot-error-found-for-your-virtual-machine---vmname--vmname--vmname--"></a>**发现了虚拟机 <!--$vmname-->[vmname]<!--/$vmname--> 的启动错误：**
+Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/$vmname-->。 我们发现，由于文件系统表 (fstab) 文件包含的某个条目使用了 VM 上不存在的文件系统的全局唯一标识符 (UUID)，因此你的 VM 当前处于不可访问状态。  有多种原因可能会造成这种情况，包括删除了数据磁盘，或者在未更新 /etc/fstab 文件的情况下重新启动。  
 
-若要查看更多详细信息，请在门户中的“启动诊断”边栏选项卡上查看串行日志输出，路径如下：“虚拟机” > “[vmname] <!--($vmname)-->” > “所有设置” > “启动诊断”
+若要查看更多详细信息，请在门户中的“启动诊断”边栏选项卡上查看串行日志输出，路径如下：**虚拟机** > <!--$vmname-->**[vmname]**<!--/$vmname--> > **所有设置** > **启动诊断**
 <!--/issueDescription-->
    
 ## <a name="recommended-steps"></a>**建议的步骤**

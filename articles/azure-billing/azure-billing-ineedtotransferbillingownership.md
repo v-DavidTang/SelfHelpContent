@@ -1,14 +1,14 @@
 <properties
-    pageTitle="我需要转移计费所有权"
+    pageTitle="I need to transfer billing ownership"
     description="我需要转移计费所有权"
     service="azure-billing"
     resource="billing"
     authors="kasparks"
-    displayOrder="3"
+    displayOrder="4"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32454918"
     resourceTags=""
-    productPesIds=""
+    productPesIds="15660"
     cloudEnvironments="public"
 />
 
@@ -17,7 +17,7 @@
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-1. [找出谁是帐户管理员](https://docs.microsoft.com/azure/billing-subscription-transfer#whoisaa)。
+1. [找出谁是帐户管理员](data-blade:Microsoft_Azure_Billing.SubscriptionPropertiesBlade)。
 
 2. 以帐户管理员身份登录到[帐户中心](https://account.windowsazure.com/Subscriptions)。
 
@@ -25,9 +25,9 @@
 
 4. 在页面右侧，选择“转移订阅”。
 
-如果当前帐户管理员离职，你需要接管其所有权，请创建[支持请求](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)，以便我们可以验证这种转移。
+如果当前帐户管理员离职，你需要接管其所有权，请创建支持请求，以便我们可以验证这种转移。
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[转移计费或帐户所有权 - 分步指南和常见问题](https://azure.microsoft.com/documentation/articles/billing-subscription-transfer/)
+[转移计费或帐户所有权 - 分步指南和常见问题](https://docs.microsoft.com/azure/billing/billing-subscription-transfer/)
 
