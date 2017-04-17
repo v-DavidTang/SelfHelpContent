@@ -17,11 +17,11 @@
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-1. 确保在域名注册机构中正确配置 TXT/MX 记录。 [了解详细信息。](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain#add-the-dns-entry-at-the-domain-name-registrar-for-the-domain)
+1. 确保在域名注册机构中正确配置 TXT/MX 记录。  最长可能需要在 72 小时后，该域名才显示为“已验证”。 [了解详细信息](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain#add-the-dns-entry-at-the-domain-name-registrar-for-the-domain)
 
-2. 如果以前在另一个 Azure AD 租户或 Office 365 租户中配置了域名，必须通过门户排查已从中创建现有租户的域的问题。 [了解详细信息](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain#troubleshooting)
+2. 如果以前在另一个 Azure AD 租户或 Office 365 租户中配置了域名，必须通过现有租户排查域的问题。 不能在两个不同的租户中验证同一个自定义域名。 根据设计，这种验证将会失败。 [了解详细信息](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain#troubleshooting)
 
-3. 如果你的某些用户已通过自助注册激活 PowerBI 并且你为组织创建了非托管租户，则 IT 管理员可以通过权限接管来管理此租户。 [了解详细信息](https://powerbi.microsoft.com/documentation/powerbi-admin-administering-power-bi-in-your-organization/#what-is-the-process-to-manage-a-tenant-created-by-Microsoft-for-my-users)。
+3. 如果你的某些用户已通过自助注册激活 PowerBI 并且你为组织创建了非托管租户，则 IT 管理员可以通过权限接管来管理此租户，或者可以在 PowerShell 中使用强制接管选项继续添加域。 详细了解[管理员域接管](https://powerbi.microsoft.com/documentation/powerbi-admin-administering-power-bi-in-your-organization/#what-is-the-process-to-manage-a-tenant-created-by-Microsoft-for-my-users)。
 
 ## <a name="recommended-documents"></a>**建议的文档**
 

@@ -1,5 +1,5 @@
 <properties
-    pageTitle="支持的付款方式和币种"
+    pageTitle="supported payment methods and currencies"
     description="支持的付款方式和币种"
     service="azure-billing"
     resource="billing"
@@ -17,12 +17,15 @@
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-可以使用信用卡、借记卡或发票付费。 我们不接受预付和虚拟信用卡。
+* 可以使用信用卡、借记卡或发票付费。 我们不接受预付和虚拟信用卡。 <br>
+[确保付款方式已被接受](https://docs.microsoft.com/azure/billing-credit-card-fails-during-azure-sign-up)
+
+* 在“购买常见问题”中查看支持的国家/地区和货币列表。 <br>
+[支持的国家/地区和货币](https://azure.microsoft.com/pricing/faq/)<br>
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[可用币种以及已推出 Azure 的国家/地区列表](https://azure.microsoft.com/documentation/articles/billing-countries-and-currencies/)<br>
-[更新订阅以使用不同的信用卡](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)<br>
-[Azure 计费和订阅常见问题](https://azure.microsoft.com/documentation/articles/billing-subscription-faq/)<br>
-[了解可更新付款方式的帐户管理员的详细信息](https://azure.microsoft.com/documentation/articles/billing-add-change-azure-subscription-administrator/)
+[更新、更改或删除付款方式](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card)<br>
+[设置发票](https://azure.microsoft.com/pricing/invoicing/)<br>
+[了解可更新付款方式的帐户管理员的详细信息](https://docs.microsoft.com/azure/billing/billing-add-change-azure-subscription-administrator/)
 

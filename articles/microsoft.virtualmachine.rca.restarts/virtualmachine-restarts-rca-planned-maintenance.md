@@ -18,9 +18,9 @@
 # <a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
 
 <!--issueDescription-->
-## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##
+## <a name="vm-availability-incident-diagnostic-information-for---vmname--virtual-machine--vmname--"></a>**<!--$vmname-->虚拟机<!--/$vmname-->的 VM 可用性事件诊断信息：** ##
  
-我们发现，你的 VM **在 [StartTime]<!--($StartTime)--> (UTC) 变得不可用**，在 **[EndTime]<!--($EndTime)--> (UTC) 恢复了可用性**。 这一预期事件由 **Azure 启动的计划内维护操作**所致。
+我们发现，你的 VM 在 **<!--$StartTime--> StartTime <!--/$StartTime--> (UTC)** 变得不可用，在 **<!--$EndTime--> EndTime <!--/$EndTime--> (UTC)** 恢复了可用性。 这一预期事件由 **Azure 启动的计划内维护操作**所致。
 <!--/issueDescription-->
 
 此计划内维护更新需要重新启动虚拟机，以便将所需的更新应用到基础结构。 虚拟机在我们修补基础结构时关闭，之后再重新启动。<br> 若要了解有关 Azure 上计划内维护的详细信息，请参阅以下文章：<br>

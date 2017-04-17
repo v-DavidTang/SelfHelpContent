@@ -1,5 +1,5 @@
 <properties
-    pageTitle="我需要更改付款方式"
+    pageTitle="I need to change the payment method"
     description="我需要更改付款方式"
     service="microsoft.billing"
     resource="billing"
@@ -17,7 +17,7 @@
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-1. [找出谁是帐户管理员](https://docs.microsoft.com/azure/billing-subscription-transfer#whoisaa)。
+1. [找出谁是帐户管理员](data-blade:Microsoft_Azure_Billing.SubscriptionPropertiesBlade)。
 
 2. 以帐户管理员身份登录到[帐户中心](https://account.windowsazure.com/Subscriptions)。
 
@@ -29,7 +29,7 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[更新支付信息](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)<br>
+[更新、更改或删除付款方式](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card)<br>
 [设置发票](https://azure.microsoft.com/pricing/invoicing/)<br>
-[已推出 Azure 的国家/地区列表以及可用来购买 Azure 的币种](https://azure.microsoft.com/documentation/articles/billing-countries-and-currencies/)<br>
+[支持的国家/地区和货币](https://azure.microsoft.com/pricing/faq/)<br>
 

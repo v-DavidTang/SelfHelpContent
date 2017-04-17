@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Azure 订阅和服务"
+    pageTitle="Azure subscriptions and services"
     description="Azure 订阅和服务"
     service="azure-billing"
     resource="billing"
@@ -28,7 +28,7 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 
 [Azure 免费试用版常见问题（1 美元暂扣费用）](https://azure.microsoft.com/pricing/free-trial-faq/)<br>
-[将免费版订阅升级到即用即付版本](https://azure.microsoft.com/documentation/articles/billing-upgrade-azure-subscription/)<br>
+[将免费版订阅升级到即用即付版本](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription/)<br>
 [激活 Visual Studio 订户的每月 Azure 信用额度](https://azure.microsoft.com/pricing/member-offers/msdn-benefits/)<br>
 [Microsoft 合作伙伴网络 (MPN) - 优势、要求、注册和管理](https://partner.microsoft.com/membership/core-benefits#Core benefits)<br>
 [Azure 计费和成本管理入门](https://docs.microsoft.com/azure/billing/billing-getting-started)

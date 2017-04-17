@@ -4,11 +4,11 @@
     service="azure-billing"
     resource="billing"
     authors="kasparks"
-    displayOrder="2"
+    displayOrder="3"
     selfHelpType="resource"
-    supportTopicIds=""
+    supportTopicIds="32454858"
     resourceTags=""
-    productPesIds=""
+    productPesIds="15659"
     cloudEnvironments="public"
 />
 
@@ -17,7 +17,7 @@
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-1. [找出谁是帐户管理员](https://docs.microsoft.com/azure/billing-subscription-transfer#whoisaa)。
+1. [找出谁是帐户管理员](data-blade:Microsoft_Azure_Billing.SubscriptionPropertiesBlade)。
 
 2. 以帐户管理员身份登录到[帐户中心](https://account.windowsazure.com/Subscriptions)。
 
@@ -25,11 +25,11 @@
 
 4. 在页面右侧，选择“管理付款方式”。
 
-如果要将付款方式更新为发票（直接借记），请创建[支持请求](data-blade:Microsoft_Azure_Support.NewSupportRequestBlade)，以便我们在批准你的请求之前执行信用检查。
+如果要将付款方式更新为发票（直接借记），请创建支持请求，以便我们在批准你的请求之前运行信用检查。
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[更新、更改或删除付款信息](https://azure.microsoft.com/documentation/articles/billing-how-to-change-credit-card/)<br>
+[更新、更改或删除付款方式](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card)<br>
 [设置发票](https://azure.microsoft.com/pricing/invoicing/)<br>
-[已推出 Azure 的国家/地区列表以及可用来购买 Azure 的币种](https://azure.microsoft.com/documentation/articles/billing-countries-and-currencies/)<br>
+[支持的国家/地区和货币](https://azure.microsoft.com/pricing/faq/)<br>
 

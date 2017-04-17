@@ -1,5 +1,5 @@
 <properties
-    pageTitle="将服务移到另一个订阅"
+    pageTitle="move services to another subscription"
     description="将服务移到另一个订阅"
     service="azure-subscription-management"
     resource="subscription-management"
@@ -17,6 +17,6 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
+[转让 Azure 订阅的所有权](https://docs.microsoft.com/azure/billing-subscription-transfer)<br>
 [将资源移到新资源组或订阅中](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)<br>
-[转移 Azure 订阅的所有权](https://docs.microsoft.com/azure/billing-subscription-transfer)
 

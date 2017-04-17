@@ -18,9 +18,9 @@
 # <a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
 
 <!--issueDescription-->
-## <a name="vm-availability-incident-diagnostic-information-for-vmname--vmname--"></a>**[vmname] 的 VM 可用性事件诊断信息<!--($vmname)-->：** ##
+## <a name="vm-availability-incident-diagnostic-information-for---vmname--virtual-machine--vmname--"></a>**<!--$vmname-->虚拟机<!--/$vmname-->的 VM 可用性事件诊断信息：** ##
  
-我们发现，你的 VM 在 **[StartTime]<!--($StartTime)--> (UTC)** 变得不可用。 这一预期事件由**用户启动的关闭操作**所致。
+我们发现，你的 VM 在 **<!--$StartTime--> StartTime <!--/$StartTime--> (UTC)** 变得不可用。 这一预期事件由**用户启动的关闭操作**所致。
 <!--/issueDescription-->
 
 该关闭由授权用户或进程通过 Azure 门户或 Azure Resource Manager 界面触发。 因此，你的 VM 已关闭并且保持此状态，直到执行了用户操作来重新启动它。   

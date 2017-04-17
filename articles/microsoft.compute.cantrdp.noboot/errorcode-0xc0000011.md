@@ -18,15 +18,15 @@ cloudEnvironments="public"
 
 # <a name="vm-boot-error"></a>VM 启动错误
 <!--issueDescription-->
-## <a name="boot-error-found-for-your-virtual-machine-vmname--vmname--"></a>**发现了虚拟机 [vmname] 的启动错误<!--($vmname)-->：**
-Microsoft Azure 已调查完你的虚拟机 (VM) **[vmname]**<!--($vmname)-->。 我们发现，由于 Windows 无法启动并出现错误代码 **0xc0000011**，你的 VM 当前处于不可访问状态。 由于关键的系统驱动程序缺失或损坏，无法加载操作系统。<br>
+## <a name="boot-error-found-for-your-virtual-machine---vmname--vmname--vmname--"></a>**发现了虚拟机 <!--$vmname-->[vmname]<!--/$vmname--> 的启动错误：**
+Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/$vmname-->。 我们发现，由于 Windows 无法启动并出现错误代码 **0xc0000011**，你的 VM 当前处于不可访问状态。 由于关键的系统驱动程序缺失或损坏，无法加载操作系统。<br>
 <!--/issueDescription-->
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 若要解决该问题，请遵循以下故障排除步骤将 OS 磁盘附加到另一个 VM，然后使用同一台计算机上 C:\windows\WinSxS 文件夹中的文件或者具有相同 OS 和修补程序级别的其他正常 VM 上的文件，来替换已损坏的文件。
 
 1. 请记下屏幕截图中所示的文件名和路径。
-2. 删除虚拟机 [vmname]<!--($vmname)-->。 执行此操作时，请确保选择“保留磁盘”选项。
+2. 删除虚拟机 <!--$vmname-->[vmname]<!--/($vmname)-->。 执行此操作时，请确保选择“保留磁盘”选项。
 3. 在继续保存 OS 磁盘的副本之前，选择此选项可帮助在恢复期间回滚。具体请参阅[为 Azure 中运行的专用 Windows VM 创建副本](https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-vhd-copy)
 4. 将已删除的 VM 的 OS 磁盘作为数据磁盘附加到另一个 VM（故障排除 VM）。 有关详细信息，请参阅[如何在 Azure 门户中将数据磁盘附加到 Windows VM](https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-attach-disk-portal)。
 5. 连接到故障排除 VM，确保新附加的 OS 磁盘已联机并分配有驱动器号。
