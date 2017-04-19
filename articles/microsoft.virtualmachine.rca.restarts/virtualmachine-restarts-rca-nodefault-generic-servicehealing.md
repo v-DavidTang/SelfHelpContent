@@ -25,7 +25,7 @@
 
 该主机节点重新启动操作由 Azure 监视系统触发，这些系统检测到托管虚拟机的物理节点有潜在的故障情况。 因此，你的 VM 已自动移到其他正常的物理节点，以避免受到进一步的影响。 这导致了你的 VM 重新启动。 在此时间内，与 VM 的 RDP 和 SSH 连接或对该 VM 内运行的任何其他服务的请求可能已失败。<br>
 若要了解有关自动化恢复操作的详细信息，请阅读以下文章：<br>
-* 自动恢复虚拟机](https://azure.microsoft.com/blog/service-healing-auto-recovery-of-virtual-machines)<br>
+* [自动恢复虚拟机](https://azure.microsoft.com/blog/service-healing-auto-recovery-of-virtual-machines)<br>
 
 为了确保提高 Azure 中应用程序的保护和冗余级别，我们建议将两个或更多虚拟机组合到一个可用性集中。<br>
 若要了解有关高可用性选项的详细信息，请参阅以下文章：<br>
