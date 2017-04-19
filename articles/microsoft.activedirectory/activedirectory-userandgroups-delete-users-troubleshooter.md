@@ -1,4 +1,4 @@
-<properties 
+<properties
     pageTitle="I can’t delete a user from my directory"
     description=" 无法从目录中删除用户"
     service="microsoft.aad"
@@ -10,7 +10,7 @@
     cloudEnvironments="public"
  />
 
-# <a name="i-cant-delete-a-user-from-my-directory"></a>无法从目录中删除用户 
+# <a name="i-cant-delete-a-user-from-my-directory"></a>无法从目录中删除用户
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
@@ -19,6 +19,7 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-* [在 Azure 门户中删除用户](https://docs.microsoft.com/azure/active-directory/active-directory-users-delete-user-azure-portal) 
+* [在 Azure 门户中删除用户](https://docs.microsoft.com/azure/active-directory/active-directory-users-delete-user-azure-portal)
 * [Azure AD 管理角色](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)
 * [使用 Azure AD PowerShell 删除用户](https://docs.microsoft.com/powershell/azuread/v2/remove-azureaduser)
+
