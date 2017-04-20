@@ -17,10 +17,7 @@
 
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[Azure AD Connect：帐户和权限](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-accounts-permissions)
-<br>
-[Azure AD Connect：所需的端口和协议](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-ports)
-<br>
-[使用 Azure AD Connect 排查连接问题](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-connectivity)
-<br>
+* [Azure AD Connect：帐户和权限](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-accounts-permissions)  
+* [Azure AD Connect：所需的端口和协议](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-ports)  
+* [使用 Azure AD Connect 排查连接问题](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-connectivity)
 
