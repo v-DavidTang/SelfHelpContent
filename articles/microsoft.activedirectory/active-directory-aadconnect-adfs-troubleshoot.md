@@ -1,14 +1,14 @@
 <properties
-    pageTitle="Synchronizing AD to Azure AD/Azure AD Connect AD FS Configuration"
-    description="将 AD 同步到 Azure AD/Azure AD Connect AD FS 配置"
-    service="microsoft.activedirectory"
-    resource="activedirectory"
-    authors="cychua"
-    displayOrder=""
-    selfHelpType="generic"
-    supportTopicIds="32404463"
-    resourceTags=""
-    productPesIds="14785"
+    pageTitle="Synchronization Service cannot import/export changes from Azure AD"
+    description="同步服务无法从 Azure AD 导入/导出更改"
+    service="microsoft.aad"
+    resource="Microsoft_AAD_IAM"
+    authors="anandy"
+    displayOrder="231"
+    selfHelpType="resource"
+    supportTopicIds=""
+    resourceTags="directory_overview"
+    productPesIds=""
     cloudEnvironments="public"
 />
 
@@ -27,8 +27,6 @@ Azure AD Connect 提供简单的步骤来配置和维护联合。 有关可以�
 3. 用户收到错误“请求的联合领域对象不存在”。
 如果 AD FS 颁发的 issuerID 声明不正确，Azure AD 通常会引发此错误。 在某些旧版 Azure AD Connect 中，多个域联合方案中的颁发声明未正确设置。 升级到最新的 Azure AD Connect 可能会解决该问题。
 
-
 ## <a name="recommended-documents"></a>**建议的文档**
-[Azure AD Connect 和联合身份验证](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectfed-whatis)
-<br>
+[Azure AD Connect 和联合身份验证](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectfed-whatis)  
 
