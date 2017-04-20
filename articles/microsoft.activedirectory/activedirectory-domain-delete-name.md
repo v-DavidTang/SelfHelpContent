@@ -7,10 +7,10 @@
     displayOrder="4295"
     selfHelpType="resource"
     supportTopicIds=""
-    resourceTags="directory_domain"
+    resourceTags="directory_domain,directory_delete"
     productPesIds=""
     cloudEnvironments="public"
-/>
+    />
 
 
 # <a name="i-cant-delete-my-domain-name"></a>无法删除域名

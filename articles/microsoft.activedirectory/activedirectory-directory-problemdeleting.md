@@ -1,4 +1,4 @@
- <properties
+<properties
     pageTitle="Problem deleting an Azure AD tenant"
     description="Azure Active Directory 自助案例提交"
     service="microsoft.aad"
@@ -10,7 +10,7 @@
     resourceTags=""
     productPesIds="14785"
     cloudEnvironments="public"
-/>
+    />
 
 
 # <a name="problem-deleting-an-azure-ad-tenant"></a>删除 Azure AD 租户时出现问题 
