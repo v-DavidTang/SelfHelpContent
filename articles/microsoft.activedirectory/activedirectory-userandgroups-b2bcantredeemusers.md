@@ -4,13 +4,13 @@
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
     authors="sasubram"
-    displayOrder=""
+    displayOrder="2072"
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags="userandgroups_overview,userandgroups_user,userandgroups_group"
     productPesIds=""
     cloudEnvironments="public"
-/>
+    />
 
 
 # <a name="i-have-invited-guest-users-who-cant-redeem-their-invitations"></a>我邀请的来宾用户无法兑换其邀请
