@@ -18,12 +18,14 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 安装
+<br>
 * [Azure AD Connect 的先决条件](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-prerequisites)  
 * [选择要使用的 Azure AD Connect 安装类型](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-select-installation)  
 * [通过快速设置开始使用 Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-express)  
 * [Azure AD Connect 的自定义安装](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)  
 
 升级
+<br>
 * [Azure AD Connect：从 DirSync 升级](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-dirsync-upgrade-get-started)  
 * [Azure AD Connect：从旧版升级到最新版本](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-upgrade-previous-version)  
 * [Azure AD Connect：自动升级](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)  
