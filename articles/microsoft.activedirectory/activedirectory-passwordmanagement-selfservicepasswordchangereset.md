@@ -1,8 +1,8 @@
 <properties
-    pageTitle="Password Management/Self-service password change/reset"
+    pageTitle="I'm having a problem with self-service password reset"
     description="密码管理/自助式密码更改/重置"
     service="microsoft.aad"
-    resource="activedirectory"
+    resource="Microsoft_AAD_IAM"
     authors="zhchia"
     displayOrder=""
     selfHelpType="generic"
@@ -10,11 +10,11 @@
     resourceTags=""
     productPesIds="14785"
     cloudEnvironments="public"
-/>
+    />
 
 
-# <a name="password-managementself-service-password-changereset"></a>密码管理/自助式密码更改/重置
-## <a name="pre-requisites"></a>先决条件
+# <a name="im-having-a-problem-with-self-service-password-reset"></a>我在使用自助密码重置时遇到问题
+## <a name="recommended-steps"></a>**建议的步骤**
 * 确保租户具有有效的许可证，可以使用 Azure AD 自助密码重置：
     * Azure AD Premium 1
     * Azure AD Premium 2
@@ -22,6 +22,8 @@
     * 企业移动性 + 安全性 E5
     * Secure Productive Enterprise E3
     * Secure Productive Enterprise E5
+
+有关 Azure AD 许可的最终规范（同时，始终是最新的信息源）在 [Azure Active Directory 定价页](https://azure.microsoft.com/pricing/details/active-directory/)上提供。
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 1. 将用户定向到 [aka.ms/ssprsetup](https://login.microsoftonline.com/common/oauth2/authorize?client_id=0000000c-0000-0000-c000-000000000000&redirect_uri=https%3A%2F%2Faccount.activedirectory.windowsazure.com%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3D02LGeV2aaOpBfeyrPlPTVE9v9W3rf0E_VtBiNcjuL12zhaz8BdJ613HFOdYPXhNva7OX8tUieWVS1ldrysmNHg-XCO7bW8Pe82sA4RnjWozG43QBmckgtxvqZvUaty0ZNhBtzMtrjG5qW1v06t4jCAd03c-h0opfkRABw4Y2cvKoYnQy0tfpyRsC1KI3DngNKzhbtPXIYKjxHw02Ld-9RgJVjNxRrMppzhE6EJsjbfD0PpnwbwLp-tMnT5M3hS60SJwZQjvjfocM-x2EcXJhPhG1lfbSGIoZi3yHh12qyVI&nonce=1491428196.4kvRPWtSmTOR_qzakP8WpQ&nux=1)，让他们为自助密码重置注册其他安全信息。

@@ -1,8 +1,8 @@
- <properties
-    pageTitle="Password Management/Password Writeback"
+<properties
+    pageTitle="I'm having a problem with password writeback"
     description="密码管理/密码写回"
     service="microsoft.aad"
-    resource="activedirectory"
+    resource="Microsoft_AAD_IAM"
     authors="zhchia, gahug"
     displayOrder=""
     selfHelpType="generic"
@@ -10,11 +10,11 @@
     resourceTags=""
     productPesIds="14785"
     cloudEnvironments="public"
-/>
+    />
 
 
-# <a name="password-managementpassword-writeback"></a>密码管理/密码写回
-## <a name="pre-requisites"></a>先决条件
+# <a name="im-having-a-problem-with-password-writeback"></a>我在使用密码写回时遇到问题
+## <a name="recommended-steps"></a>**建议的步骤**
 * 确保租户具有有效的许可证，可以使用 Azure AD 自助密码重置：
     * Azure AD Premium 1
     * Azure AD Premium 2
@@ -22,7 +22,8 @@
     * 企业移动性 + 安全性 E5
     * Secure Productive Enterprise E3
     * Secure Productive Enterprise E5
-
+  
+  有关 Azure AD 许可的最终规范（同时，始终是最新的信息源）在 [Azure Active Directory 定价页](https://azure.microsoft.com/pricing/details/active-directory/)上提供。
 
 * 你至少拥有一个管理员帐户和一个测试用户帐户，并且拥有上述许可证之一。
 
@@ -45,7 +46,7 @@
         * servicebus.windows.networks
 4. 允许空闲连接保持至少 2-3 分钟。
 
-\**如果仍然出现问题，请尝试在 Azure AD Connect 工具中禁用再重新启用该服务*
+如果仍然出现问题，请尝试在 Azure AD Connect 工具中禁用再重新启用该服务
 
 
 ## <a name="recommended-documents"></a>**建议的文档**

@@ -1,20 +1,23 @@
 <properties
-   pageTitle="Password Management/Other questions regarding password management"
-   description="密码管理/有关密码管理的其他问题"
-   service="microsoft.aad"
-   resource="activedirectory"
-   authors="gahug"
-   displayOrder=""
-   selfHelpType="generic"
-   supportTopicIds="32565599"
-   resourceTags=""
-   productPesIds="14785"
-   cloudEnvironments="public"
-/>
+    pageTitle="Other questions about password management"
+    description="密码管理/有关密码管理的其他问题"
+    service="microsoft.aad"
+    resource="Microsoft_AAD_IAM"
+    authors="gahug"
+    displayOrder=""
+    selfHelpType="generic"
+    supportTopicIds="32565599"
+    resourceTags=""
+    productPesIds="14785"
+    cloudEnvironments="public"
+    />
 
 
-# <a name="password-managementother-questions-regarding-password-management"></a>密码管理/有关密码管理的其他问题
-## <a name="pre-requisites"></a>先决条件
+# <a name="other-questions-regarding-password-management"></a>有关密码管理的其他问题
+
+## <a name="recommended-steps"></a>**建议的步骤**
+
+### <a name="prerequisites"></a>先决条件
 * 确保租户具有有效的许可证，可以使用 Azure AD 自助密码重置：
     * Azure AD Premium 1
     * Azure AD Premium 2
@@ -23,14 +26,16 @@
     * Secure Productive Enterprise E3
     * Secure Productive Enterprise E5
 
-## <a name="tips"></a>提示
+有关 Azure AD 许可的最终规范（同时，始终是最新的信息源）在 [Azure Active Directory 定价页](https://azure.microsoft.com/pricing/details/active-directory/)上提供。
+
+
+### <a name="tips"></a>提示
 * [测试](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#tip-2-testing---test-with-an-end-user-not-an-administrator-and-pilot-with-a-small-set-of-users) - 使用最终用户而不是管理员的身份测试，试运行时使用少量的用户。 **在管理 UX 中配置的策略仅适用于最终用户，而不适用于管理员。** 为了确保组织的安全，Microsoft 针对管理员实施增强的默认密码重置策略。 <br>
 
 * [部署](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#tip-3-deployment---pre-populate-data-for-your-users-so-they-dont-have-to-register) - 为用户预先填充数据，这样用户就不需要注册！
 在组织中推出密码重置之前，可以管理员的身份为用户设置电话和电子邮件属性。 可以使用 API、PowerShell 或 Azure AD Connect 实现此目的。 以下主题提供了详细信息：
   * [在无需用户注册的情况下部署密码重置](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-learn-more#deploying-password-reset-without-requiring-end-user-registration)
   * [密码重置使用哪些数据](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-learn-more#what-data-is-used-by-password-reset)
-
 
 * [报告](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#tip-7-reporting---see-who-is-registering-or-resetting-passwords-with-the-azure-ad-sspr-audit-logs) - 使用 Azure 门户中“用户和组”下面的 Azure AD 密码重置审核日志查看谁正在注册或重置密码 <br>
 有关更多详细信息，请访问以下链接：
