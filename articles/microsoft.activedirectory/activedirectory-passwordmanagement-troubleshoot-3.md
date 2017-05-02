@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Tip 4: DEPLOYMENT - Use password reset to obviate the need to communicate temporary passwords"
+    pageTitle="I don't want to have to send out temporary passwords to users"
     description="从客户体验总结的重要提示 - 提示 4"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -10,9 +10,11 @@
     cloudEnvironments="public"
  />
 
-# <a name="tip-4-deployment---bypass-temporary-passwords"></a>提示 4：部署 - 绕过临时密码
-## <a name="use-password-reset-to-obviate-the-need-to-communicate-temporary-passwords"></a>使用密码重置，避免向用户发送临时密码
-这是对提示 3 的补充。 针对密码重置预配置用户以后，设想一下这样一个场景：一位雇员首次加入你的公司。 你现在可以直接让其导航到 [Azure AD 密码重置门户](https://passwordreset.microsoftonline.com)来重置其密码，而不必向其发送临时密码。
+# <a name="i-dont-want-to-have-to-send-out-temporary-passwords-to-users"></a>我不希望非要向用户发送临时密码
+
+## <a name="recommended-steps"></a>**建议的步骤**
+
+针对密码重置预配置用户以后，设想一下这样一个场景：一位雇员首次加入你的公司。 你现在可以直接让其导航到 [Azure AD 密码重置门户](https://passwordreset.microsoftonline.com)来重置其密码，而不必向其发送临时密码。
 
 使用[已加入 Windows 10 Azure AD 域的设备](https://docs.microsoft.com/azure/active-directory/active-directory-azureadjoin-devices-group-policy)的用户甚至可以直接从 Windows 10 的现成登录屏幕执行该操作，在你无需为其提供任何帮助的情况下轻松访问全新的电脑。
 

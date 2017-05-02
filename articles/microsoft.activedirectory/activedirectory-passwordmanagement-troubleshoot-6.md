@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Tip 7: REPORTING - See who is registering or resetting passwords with the Azure AD SSPR Audit Logs"
+    pageTitle="I need to generate a report on who is registering or resetting passwords"
     description="从客户体验总结的重要提示 - 提示 7"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -10,15 +10,12 @@
     cloudEnvironments="public"
  />
 
-# <a name="tip-7-reporting---registration-and-reset-audit-logs"></a>提示 7：报告 - 注册和重置审核日志
-## <a name="see-who-is-registering-or-resetting-passwords-with-the-azure-ad-sspr-audit-logs"></a>使用 Azure AD SSPR 审核日志了解谁正在注册或重置密码
-完成密码重置的部署和运行以后，下一逻辑步骤是查看其是否正常运行并分析谁仍需注册、用户在重置时遇到的常见问题，以及此功能的投资回报率。
+# <a name="i-need-to-generate-a-report-on-who-is-registering-or-resetting-passwords"></a>我需要生成有关谁正在注册或重置密码的报告
 
-使用 Azure AD 密码重置审核日志，你可以通过 Azure 门户、PowerBI、Azure AD 报告事件 API 或 PowerShell 执行该操作以及更多其他操作。  若要详细了解操作方法，请参阅**建议的文档**：
+## <a name="recommneded-steps"></a>**建议的步骤**
+如果密码重置已部署并且正在运行，你应会看到它正在运行，并分析谁仍需注册、用户在重置时遇到的常见问题，以及此功能的投资回报率。
 
-
-
-
+使用 Azure AD 密码重置审核日志，可以通过 Azure 门户、PowerBI、Azure AD 报告事件 API 或 PowerShell 执行该操作以及更多其他操作。  若要详细了解 Azure AD 密码重置审核日志：
 
 [在 DOCS.com 上查看](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#tip-7-reporting---see-who-is-registering-or-resetting-passwords-with-the-azure-ad-sspr-audit-logs)
 

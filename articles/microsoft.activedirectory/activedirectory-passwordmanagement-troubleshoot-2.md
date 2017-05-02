@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Tip 3: DEPLOYMENT - Pre-populate data for your users so they don't have to register"
+    pageTitle="I want to pre-populate data for my users so they don't have to register"
     description="从客户体验总结的重要提示 - 提示 3"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -10,8 +10,10 @@
     cloudEnvironments="public"
  />
 
-# <a name="tip-3-deployment---pre-populate-data-for-users"></a>提示 3：部署 - 为用户预先填充数据
-## <a name="pre-populate-data-for-your-users-so-they-dont-have-to-register"></a>为用户预先填充数据，这样用户就不需要注册
+
+# <a name="i-want-to-pre-populate-data-for-users-so-my-dont-have-to-register"></a>我希望为用户预先填充数据，这样用户就不需要注册
+
+## <a name="recommended-steps"></a>**建议的步骤**
 许多人并未认识到，使用此功能不需要让用户注册密码重置。  预先为用户设置电话或电子邮件属性后，即可立刻将密码重置推广到整个组织，**不需用户执行任何操作！**
 
 若要了解如何通过 API、PowerShell 或 Azure AD Connect 执行该操作，请阅读以下文档：

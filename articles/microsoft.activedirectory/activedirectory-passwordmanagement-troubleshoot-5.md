@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Tip 6: WRITEBACK - Ensure you enable the correct permissions, firewall rules, and connection settings for password writeback"
+    pageTitle="I don't think I have the correct permissions, firewall rules, or connection settings for password writeback"
     description="从客户体验总结的重要提示 - 提示 6"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -10,8 +10,9 @@
     cloudEnvironments="public"
  />
 
-# <a name="tip-6-writeback---configuration"></a>提示 6：写回 - 配置
-## <a name="ensure-you-enable-the-correct-permissions-firewall-rules-and-connection-settings-for-password-writeback"></a>确保为密码写回启用正确的权限、防火墙规则和连接设置
+# <a name="i-dont-think-i-have-the-correct-permissions-firewall-rules-or-connection-settings-for-password-writeback"></a>我觉得密码写回的权限、防火墙规则和连接设置不正确
+
+## <a name="recommended-steps"></a>**建议的步骤**
 为了使写回正常工作，必须确保：
 
 1. 已为使用密码写回功能的用户设置适当的 **Active Directory 权限**，使之有权在 AD 中修改其密码和帐户解锁标志

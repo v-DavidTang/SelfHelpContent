@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Tip 9: TROUBLESHOOT - If you still need help, include enough information for us to assist you"
+    pageTitle="Gather the right information for communicating my problem to Microsoft"
     description="从客户体验总结的重要提示 - 提示 9"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -10,11 +10,11 @@
     cloudEnvironments="public"
  />
 
-# <a name="tip-9-troubleshoot---information-we-need"></a>提示 9：故障排除 - 我们所需的信息
-## <a name="if-you-still-need-help-include-enough-information-for-us-to-assist-you"></a>如果仍需帮助，请提供充足的信息，使我们能够为你提供帮助
+# <a name="gather-the-right-information-for-communicating-my-problem-to-microsoft"></a>收集适当的信息以便将问题传达给 Microsoft
+## <a name="recommended-steps"></a>**建议的步骤**
 如果仍需故障排除帮助，我们很乐意为你提供帮助。 你可以提交支持案例，也可以通过你的客户管理团队直接与我们联系。 欢迎咨询！
 
-但在联系我们之前，请**确保收集下面要求的所有信息**，以便我们为你提供快速帮助！
+但在联系我们之前，请**确保收集下面要求的信息**，以便我们为你提供快速帮助！
 * [你需要帮助时应包含的信息](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot#information-to-include-when-you-need-help)
 
 ### <a name="ways-to-provide-password-reset-feedback"></a>密码重置反馈的提供方式
