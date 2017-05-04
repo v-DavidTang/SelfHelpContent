@@ -10,7 +10,7 @@
     resourceTags="users-assignrole,userandgroups_overview,userandgroups_user"
     productPesIds=""
     cloudEnvironments="public"
-/>
+    />
 
 
 # <a name="i-want-to-assign-an-administrator-role-to-a-user"></a>我希望向用户分配管理员角色

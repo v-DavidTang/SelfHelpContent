@@ -3,14 +3,14 @@
     description="Azure Active Directory 域疑难解答"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
-    authors="Jeffsta-MSFT"
+    authors="ElizavetaKuzmenko"
     displayOrder="4291"
     selfHelpType="resource"
     supportTopicIds=""
-    resourceTags="directory_domain"
+    resourceTags="directory_domain,domain_directory"
     productPesIds=""
     cloudEnvironments="public"
-/>
+    />
 
 
 # <a name="i-cant-verify-my-domain-name-even-though-i-added-it-to-azure-ad"></a>即使已将域名添加到 Azure AD，也无法验证该域名

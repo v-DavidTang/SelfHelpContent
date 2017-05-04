@@ -10,7 +10,7 @@
     resourceTags=""
     productPesIds="14785"
     cloudEnvironments="public"
-/>
+    />
 
 
 # <a name="problem-deleting-a-domain-name"></a>删除域名时出现问题 

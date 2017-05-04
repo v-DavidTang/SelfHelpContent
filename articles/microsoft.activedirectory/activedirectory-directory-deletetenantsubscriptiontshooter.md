@@ -37,8 +37,13 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-* [Azure 订阅与 Azure AD 的关联方式](https://docs.microsoft.com/azure/active-directory/active-directory-how-subscriptions-associated-directory) 
+* [Azure 订阅与 Azure AD 的关联方式](https://docs.microsoft.com/azure/active-directory/active-directory-how-subscriptions-associated-directory)
+
 * [从 Azure Active Directory 中删除用户](https://docs.microsoft.com/azure/active-directory/active-directory-users-delete-user-azure-portal)
-* [删除目录中的应用程序](https://docs.microsoft.com/azure/active-directory/develop/active-directory-integrating-applications#removing-an-application) 
+
+* [删除目录中的应用程序](https://docs.microsoft.com/azure/active-directory/develop/active-directory-integrating-applications#removing-an-application)
+
 * [将 Azure 订阅所有权转让给其他帐户](https://docs.microsoft.com/azure/billing/billing-subscription-transfer)
-* [有关删除 Azure AD 的其他信息](https://docs.microsoft.com/azure/active-directory/active-directory-administer#how-can-i-delete-an-azure-ad-directory) 
+
+* [有关删除 Azure AD 的其他信息](https://docs.microsoft.com/azure/active-directory/active-directory-administer#how-can-i-delete-an-azure-ad-directory)
+
