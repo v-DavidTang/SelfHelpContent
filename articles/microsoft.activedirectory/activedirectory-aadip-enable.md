@@ -1,6 +1,6 @@
 <properties
-    pageTitle="How to enable Identity Protection"
-    description="如何启用 Identity Protection"
+    pageTitle="Identity Protection menu seems disabled"
+    description="Identity Protection 菜单似乎已禁用"
     service="microsoft.aad"
     resource="Microsoft_AAD_ProtectionCenter"
     authors="jcardena"
@@ -13,15 +13,14 @@
 />
 
 
-# <a name="how-to-enable-identity-protection"></a>如何启用 Identity Protection
+# <a name="identity-protection-menu-seems-disabled"></a>Identity Protection 菜单似乎已禁用
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
-1. 注册“企业移动性 + 安全性”的免费试用版。 [了解详细信息](https://aka.ms/emstrial) <br>
-2. 以全局管理员身份登录到 Azure 门户 <br>
-3. [在此处](https://aka.ms/IPSignUp)载入到 Identity Protection
+确保你已被登记到 Identity Protection。 若要登记，请转到[此处](https://aka.ms/IPSignUp) 
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[如何获取 Identity Protection](https://aka.ms/emstrial) <br>
-[如何启用 Identity Protection](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection-enable)
+[Azure AD Premium 版本](https://docs.microsoft.com/azure/active-directory/active-directory-editions) <br>
+[启用 Identity Protection](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection-enable) <br>
+[Identity Protection 入门](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection#getting-started)
 

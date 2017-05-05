@@ -11,7 +11,7 @@
  />
 
 
-# <a name="i-want-to-pre-populate-data-for-users-so-my-dont-have-to-register"></a>我希望为用户预先填充数据，这样用户就不需要注册
+# <a name="i-want-to-pre-populate-data-for-users-so-they-dont-have-to-register"></a>我希望为用户预先填充数据，这样他们就不需要注册
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 许多人并未认识到，使用此功能不需要让用户注册密码重置。  预先为用户设置电话或电子邮件属性后，即可立刻将密码重置推广到整个组织，**不需用户执行任何操作！**
