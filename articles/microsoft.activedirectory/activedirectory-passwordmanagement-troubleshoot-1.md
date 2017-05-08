@@ -1,5 +1,5 @@
 <properties
-    pageTitle="I tested password reset with an administrator, and the results don't look right"
+    pageTitle="I tested password reset with an administrative role and don't see the policy enforced"
     description="从客户体验总结的重要提示 - 提示 2"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -11,12 +11,12 @@
 />
 
 
-# <a name="i-tested-password-reset-with-an-administrator-and-the-results-dont-look-right"></a>我使用管理员帐户测试了密码重置，但结果似乎不正常
+# <a name="i-tested-password-reset-with-an-administrative-role-and-dont-see-the-policy-enforced"></a>我已使用管理角色测试密码重置，但未看到策略被强制实施
 
 ## <a name="recommended-steps"></a>**建议的步骤**
-使用管理员进行测试时，我们会强制实施管理员密码重置策略，该策略定义如下。 这意味着，你看不到为自己的最终用户配置的策略的预期效果。
+使用管理员进行测试时，我们会强制实施管理员密码重置策略，该策略定义如下。 这意味着，对于此用户，你不会看到为自己的最终用户配置的策略的预期效果。
 
-在 Azure 门户中配置的策略仅适用于最终用户，而不适用于管理员。 为了确保提高组织的安全性，Microsoft 强制实施针对管理员的强默认密码重置策略，该策略可能不同于你为最终用户设置的策略。
+在 Azure 门户中配置的策略仅适用于最终用户，而不适用于管理员。 为了确保提高组织的安全性，Microsoft 强制实施针对管理员的较强默认密码重置策略（该策略可能不同于你为最终用户设置的策略）。
 
 ### <a name="administrator-password-reset-policy"></a>管理员密码重置策略
 * **适用对象** - 任何管理员角色（全局管理员、支持管理员、密码管理员等）

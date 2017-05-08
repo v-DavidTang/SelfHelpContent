@@ -1,6 +1,6 @@
 <properties
-    pageTitle="What permissions do I need to access Identity Protection"
-    description="需要哪些权限才能访问 Identity Protection"
+    pageTitle="I don’t have permissions to access Identity Protection"
+    description="我没有所需的权限，无法访问 Identity Protection"
     service="microsoft.aad"
     resource="Microsoft_AAD_ProtectionCenter"
     authors="jcardena"
@@ -13,14 +13,12 @@
 />
 
 
-# <a name="what-permissions-do-i-need-to-access-identity-protection"></a>需要哪些权限才能访问 Identity Protection
+# <a name="i-dont-have-permissions-to-access-identity-protection"></a>我没有所需的权限，无法访问 Identity Protection
 
-Azure AD Identity Protection 支持 3 个目录角色。<br>
+## <a name="recommended-steps"></a>**建议的步骤**
 
-1. **全局管理员：**对 Identity Protection 有完全访问权限<br>
-2. **安全管理员：**对 Identity Protection 有除了重置用户密码之外的完全访问权限。<br>
-3. **安全读取者：**对 Identity Protection 有只读访问权限。<br>
+确保用户使用全局管理员、安全管理员或安全读取者权限登录。
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[如何在 Azure AD 中分配角色](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles-azure-portal)
+[Azure Active Directory 中的角色](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)
 

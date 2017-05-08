@@ -24,7 +24,7 @@
 
     * 通过 Azure AD Connect Health 的[对象级同步错误报告](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-sync)。 目前只会向选定的客户显示这些错误。
     
-2. 在“重复属性复原”功能下检查重复属性错误。[](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-duplicate-attribute-resiliency)
+2. 在 [重复属性复原](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-duplicate-attribute-resiliency) 功能下检查重复属性错误。
 
 3. 如果未发现此对象的任何错误，请遵循[排查对象无法同步到 Azure AD 的问题](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-object-not-syncing)一文中所述的故障排除步骤。
 
