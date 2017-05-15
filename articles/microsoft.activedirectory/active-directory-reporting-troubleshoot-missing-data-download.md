@@ -4,10 +4,10 @@
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
     authors="MarkusVi"
-    displayOrder="1"
+    displayOrder="3"
     selfHelpType="resource"
     supportTopicIds=""
-    resourceTags="azureadreports_missingdata_download,azureadrreports_missingdata_audit"
+    resourceTags="azureadrreports_missingdata_audit,azureadrreports_missingdata_signin"
     productPesIds=""
     cloudEnvironments="public"
 />
@@ -22,8 +22,5 @@
 - 可以在任何给定时间使用 [Azure AD 报告 API](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-api-getting-started) 提取多达一百万条的记录。 我们建议的方法是，按计划运行脚本，通过调用报告 API 以增量方式获取某个时段（例如每日或每周）的记录。
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[在已下载的 Azure Active Directory 活动日志中找不到任何数据](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-troubleshoot-missing-data-download)  
-[在 Azure Active Directory 活动日志中找不到已执行的某些操作](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-troubleshoot-missing-audit-data)  
 [Azure Active Directory 报告常见问题](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq)
-
 
