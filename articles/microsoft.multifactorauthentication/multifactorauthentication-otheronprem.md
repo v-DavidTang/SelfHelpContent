@@ -2,8 +2,8 @@
     pageTitle="MFA Server (On-Premises)/Other questions regarding MFA server (on-premises)"
     description="MFA 服务器（本地）/有关 MFA 服务器（本地）的其他问题"
     service="microsoft.multifactorauthentication"
-    resource="Microsoft_AAD_IAM"
-    authors="yossib"
+    resource=""
+    authors="kgremban"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32565585"
@@ -28,8 +28,8 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[Azure 多重身份验证服务器入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server)  
-[Azure 多重身份验证提供程序入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-auth-provider)  
-[LDAP 身份验证和 Azure 多重身份验证服务器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-LDAP)  
-[升级到最新的 Azure 多重身份验证服务器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-server-upgrade)  
+- [Azure 多重身份验证服务器入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server)  
+- [Azure 多重身份验证提供程序入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-auth-provider)  
+- [LDAP 身份验证和 Azure 多重身份验证服务器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-LDAP)  
+- [升级到最新的 Azure 多重身份验证服务器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-server-upgrade)  
 

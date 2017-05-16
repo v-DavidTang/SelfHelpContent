@@ -2,8 +2,8 @@
     pageTitle="MFA Server (On-Premises)/Installing or configuring RADIUS authentication"
     description="MFA 服务器（本地）/安装或配置 RADIUS 身份验证"
     service="microsoft.multifactorauthentication"
-    resource="Microsoft_AAD_IAM"
-    authors="yossib"
+    resource=""
+    authors="kgremban"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32336331"
@@ -23,8 +23,8 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[将 RADIUS 身份验证与 Azure 多重身份验证服务器集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-radius)  
-[使用 RADIUS 的远程桌面网关和 Azure 多重身份验证服务器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-rdg)  
-[使用 Azure 多重身份验证和第三方 VPN 解决方案的高级方案](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-advanced-vpn-configurations)  
-[将现有 NPS 基础结构与 Azure 多重身份验证集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-nps-extension)  
+- [将 RADIUS 身份验证与 Azure 多重身份验证服务器集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-radius)  
+- [使用 RADIUS 的远程桌面网关和 Azure 多重身份验证服务器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-rdg)  
+- [使用 Azure 多重身份验证和第三方 VPN 解决方案的高级方案](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-advanced-vpn-configurations)  
+- [将现有 NPS 基础结构与 Azure 多重身份验证集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-nps-extension)  
 

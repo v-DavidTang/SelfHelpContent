@@ -2,8 +2,8 @@
     pageTitle="MFA Server (On-premises)/User portal"
     description="MFA 服务器（本地）/用户门户"
     service="microsoft.multifactorauthentication"
-    resource="Microsoft_AAD_IAM"
-    authors="yossib"
+    resource=""
+    authors="kgremban"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32336324"
@@ -28,6 +28,6 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[为 Azure 多重身份验证服务器部署用户门户](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-portal)  
-[使用 Azure 多重身份验证服务器启用移动应用身份验证](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-webservice)  
+- [为 Azure 多重身份验证服务器部署用户门户](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-portal)  
+- [使用 Azure 多重身份验证服务器启用移动应用身份验证](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-webservice)  
 
