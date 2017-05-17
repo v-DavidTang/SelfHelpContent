@@ -2,8 +2,8 @@
     pageTitle="MFA Service (Cloud)/Other questions regarding MFA Service (cloud)"
     description="MFA 服务（云）/有关 MFA 服务（云）的其他问题"
     service="microsoft.multifactorauthentication"
-    resource="Microsoft_AAD_IAM"
-    authors="yossib"
+    resource=""
+    authors="kgremban"
     selfHelpType="generic"
     supportTopicIds="32565587"
     productPesIds="14947"
@@ -25,10 +25,10 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
  
-[有关 Azure 多重身份验证的常见问题](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-faq)  
-[云中的 Azure 多重身份验证入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-cloud)  
-[Azure 多重身份验证提供程序入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-auth-provider)  
-[配置 Azure 多重身份验证设置](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-whats-next)  
-[Azure 多重身份验证中的用户状态](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-user-states)  
-[Azure 多重身份验证最终用户指南](https://docs.microsoft.com/azure/multi-factor-authentication/end-user/multi-factor-authentication-end-user)  
+- [有关 Azure 多重身份验证的常见问题](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-faq)  
+- [云中的 Azure 多重身份验证入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-cloud)  
+- [Azure 多重身份验证提供程序入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-auth-provider)  
+- [配置 Azure 多重身份验证设置](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-whats-next)  
+- [Azure 多重身份验证中的用户状态](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-user-states)  
+- [Azure 多重身份验证最终用户指南](https://docs.microsoft.com/azure/multi-factor-authentication/end-user/multi-factor-authentication-end-user)  
 
