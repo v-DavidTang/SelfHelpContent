@@ -1,10 +1,10 @@
 <properties
-    pageTitle="Applying conditional access policy to 'all cloud apps'"
-    description="将条件性访问策略应用于“所有云应用”"
+    pageTitle="Problems setting policy that applies to 'all cloud apps'"
+    description="设置应用到“所有云应用”的策略时遇到问题"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
     authors="jcardena"
-    displayOrder="4"
+    displayOrder="5"
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags="conditionalaccess_overview"
@@ -13,15 +13,15 @@
 />
 
 
-# <a name="applying-conditional-access-policy-to-all-cloud-apps"></a>将条件性访问策略应用于“所有云应用”
+# <a name="problems-setting-policy-that-applies-to-all-cloud-apps"></a>设置应用到“所有云应用”的策略时遇到问题
 
-条件性访问策略可以应用于所有云应用程序。 如果未正确应用策略，则可能会阻止对策略管理的访问。 最好向一小组用户推出该策略。
+将对任何网站或 Web 服务强制实施应用到“所有云应用”的条件访问策略。 这包括 Azure 门户。 由于该策略会产生广泛的影响，因此我们建议先对少量的用户实施并验证该策略，然后再对所有用户实施。
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 
 *    当策略将应用于所有云时，请确保排除管理员帐户
 *    在应用于管理员帐户之前确保策略按预期发挥作用
 
-
-## <a name="recommended-documents"></a>**建议的文档**
-[设置条件性访问时要避免的操作](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal#what-you-should-avoid-doing) <br>
+有关详细信息，请参阅：
+<br>
+[设置条件访问时如何避免帐户锁定](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal#what-you-should-avoid-doing)
