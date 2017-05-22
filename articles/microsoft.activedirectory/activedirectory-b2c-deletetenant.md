@@ -15,7 +15,7 @@
 
 # <a name="i-cannot-delete-my-tenant"></a>无法删除租户
 
-
 ## <a name="recommended-documents"></a>**建议的文档**
+
 [删除 Azure AD B2C 租户的步骤。](https://support.microsoft.com/help/3112170/-cannot-delete-error-when-you-try-to-delete-a-b2c-directory-in-azure-ad)
 

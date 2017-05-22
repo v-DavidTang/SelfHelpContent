@@ -15,6 +15,6 @@
 
 # <a name="how-to-link-my-subscription"></a>如何链接订阅
 
-
 ## <a name="recommended-documents"></a>**建议的文档**
+
 [将 Azure 订阅链接到 B2C 租户的步骤。](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-how-to-enable-billing) 
