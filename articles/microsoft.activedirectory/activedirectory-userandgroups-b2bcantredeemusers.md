@@ -1,10 +1,10 @@
 <properties
-    pageTitle="User and Group Management/Adding Users (B2B)"
-    description="Azure Active Directory 自助案例提交"
+    pageTitle="B2B collaboration: I have invited guest users who can't redeem their invitations"
+    description="Azure Active Directory 自助服务"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
     authors="sasubram"
-    displayOrder="2072"
+    displayOrder="786"
     selfHelpType="resource"
     supportTopicIds=""
     resourceTags="userandgroups_overview,userandgroups_user,userandgroups_group"
@@ -13,7 +13,7 @@
     />
 
 
-# <a name="i-have-invited-guest-users-who-cant-redeem-their-invitations"></a>我邀请的来宾用户无法兑换其邀请
+# <a name="b2b-collaboration-i-have-invited-guest-users-who-cant-redeem-their-invitations"></a>B2B 协作：邀请的来宾用户无法兑换其邀请
  
 ## <a name="recommended-steps"></a>**建议的步骤**
 1. 首先，确定他们是否收到了邀请电子邮件。 尽管这种情况不太常见，但有时邀请电子邮件会被阻止在收件人的垃圾邮件文件夹中。
