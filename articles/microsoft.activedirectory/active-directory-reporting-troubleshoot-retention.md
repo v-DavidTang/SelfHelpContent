@@ -1,5 +1,5 @@
 <properties
-    pageTitle="How can I see more than 30 days of report data?"
+    pageTitle="I can't see more than 30 days of report data "
     description="如何查看 30 天以上的报告数据？"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -13,7 +13,7 @@
 />
 
 
-# <a name="how-can-i-see-more-than-30-days-of-report-data"></a>如何查看 30 天以上的报告数据？
+# <a name="i-cant-see-more-than-30-days-of-report-data"></a>无法查看 30 天以上的报表数据
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 

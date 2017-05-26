@@ -1,5 +1,5 @@
 <properties
-    pageTitle="I can’t find actions that haven been recently performed in Azure Active Directory in the activity logs"
+    pageTitle="I can’t find actions performed in Azure Active Directory in the activity logs"
     description="在活动日志中找不到最近在 Azure Active Directory 中执行的操作"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -13,7 +13,7 @@
 />
 
 
-# <a name="i-cant-find-actions-that-haven-been-recently-performed-in-azure-active-directory-in-the-activity-logs"></a>在活动日志中找不到最近在 Azure Active Directory 中执行的操作
+# <a name="i-cant-find-actions-performed-in-azure-active-directory-in-the-activity-logs"></a>在活动日志中找不到在 Azure Active Directory 中执行的操作
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 

@@ -3,7 +3,7 @@
     description="配置本地 VPN 设备"
     service="microsoft.network"
     resource="virtualnetworkgateways"
-    authors="aashu"
+    authors="radwiv"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32542246"
@@ -13,15 +13,8 @@
 />
 
 
-# 配置本地 VPN 设备
+# <a name="configure-on-premises-vpn-devices"></a>配置本地 VPN 设备
 
-## **建议的文档**
-[验证的 VPN 设备和配置模板](https://azure.microsoft.com/documentation/articles/vpn-gateway-about-vpn-devices/#validated-vpn-devices)<br>
-[非验证的 VPN 设备](https://azure.microsoft.com/documentation/articles/vpn-gateway-about-vpn-devices/#non-validated-vpn-devices)<br>
-[站点到站点 VPN 网关连接支持的 VPN 设备和配置](https://azure.microsoft.com/documentation/articles/vpn-gateway-about-vpn-devices)
-
-
-
-<!--HONumber=Sep16_HO3-->
-
+## <a name="recommended-documents"></a>**建议的文档**
+[已验证的 VPN 设备和 IPsec/IKE 参数](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpn-devices#validated-vpn-devices)
 
