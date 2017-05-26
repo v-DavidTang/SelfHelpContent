@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Can I integrate Azure AD activity logs with my SIEM system?"
+    pageTitle="I can't integrate Azure AD activity logs with my SIEM system"
     description="是否可将 Azure AD 活动日志与 SIEM 系统集成？"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -13,7 +13,7 @@
 />
 
 
-# <a name="can-i-integrate-azure-ad-activity-logs-with-my-siem-system"></a>是否可将 Azure AD 活动日志与 SIEM 系统集成？
+# <a name="i-cant-integrate-azure-ad-activity-logs-with-my-siem-system"></a>无法将 Azure AD 活动日志与 SIEM 系统集成
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 

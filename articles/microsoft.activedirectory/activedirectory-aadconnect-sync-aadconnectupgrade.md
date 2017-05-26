@@ -16,7 +16,7 @@
 # <a name="how-to-upgrade-azure-ad-connect-to-the-latest-version"></a>如何将 Azure AD Connect 升级到最新版本
 
 ## <a name="recommended-steps"></a>**建议的步骤**
-* 可以使用以下三个选项将 DirSync (Windows Azure Active Directory Sync) 升级到 Azure AD Connect：
+* 可以使用三个选项将 Azure AD Connect 升级到最新版本，包括：
   * 自动升级
   * 就地升级
   * 并行部署

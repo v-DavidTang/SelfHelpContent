@@ -1,5 +1,5 @@
 <properties
-    pageTitle="I don't want to have to send out temporary passwords to users"
+    pageTitle="Problems with temporary passwords"
     description="从客户体验总结的重要提示 - 提示 4"
     service="microsoft.aad"
     resource="Microsoft_AAD_IAM"
@@ -10,9 +10,11 @@
     cloudEnvironments="public"
  />
 
-# <a name="i-dont-want-to-have-to-send-out-temporary-passwords-to-users"></a>我不希望非要向用户发送临时密码
+
+# <a name="problems-with-temporary-passwords"></a>临时密码问题
 
 ## <a name="recommended-steps"></a>**建议的步骤**
+**我不希望向用户发送临时密码**
 
 针对密码重置预配置用户以后，设想一下这样一个场景：一位雇员首次加入你的公司。 你现在可以直接让其导航到 [Azure AD 密码重置门户](https://passwordreset.microsoftonline.com)来重置其密码，而不必向其发送临时密码。
 
@@ -26,9 +28,9 @@
 
 
 
-[在 DOCS.com 上查看](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#tip-4-deployment---use-password-reset-to-obviate-the-need-to-communicate-temporary-passwords)
 
 ## <a name="recommended-documents"></a>**建议的文档**
+* [避免使用临时密码](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#tip-4-deployment---use-password-reset-to-obviate-the-need-to-communicate-temporary-passwords)
 * [在无需用户注册的情况下部署密码重置](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-learn-more#deploying-password-reset-without-requiring-end-user-registration)
 * [密码重置使用哪些数据](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-learn-more#what-data-is-used-by-password-reset)
 * [从客户体验总结的重要提示](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#top-tips-from-our-customers-to-read-before-you-begin)

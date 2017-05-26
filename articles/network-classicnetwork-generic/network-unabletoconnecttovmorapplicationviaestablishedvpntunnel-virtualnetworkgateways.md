@@ -3,7 +3,7 @@
     description="无法通过建立的 VPN 隧道连接到 VM 或应用程序"
     service="microsoft.network"
     resource="virtualnetworkgateways"
-    authors="aashu"
+    authors="radwiv"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32542249"
@@ -13,15 +13,10 @@
 />
 
 
-# 无法通过建立的 VPN 隧道连接到 VM 或应用程序
+# <a name="unable-to-connect-to-vm-or-application-via-established-vpn-tunnel"></a>无法通过建立的 VPN 隧道连接到 VM 或应用程序
 
-## **建议的文档**
-[跨界连接和 VM](https://azure.microsoft.com/documentation/articles/vpn-gateway-vpn-faq/#cross-premises-connectivity-and-vms)<br>
-[使用 Azure Resource Manager 部署模型配置强制隧道](https://azure.microsoft.com/documentation/articles/vpn-gateway-forced-tunneling-rm/)<br>
-[连接到虚拟网络](https://azure.microsoft.com/documentation/articles/vpn-gateway-vpn-faq/#connecting-to-virtual-networks)
-
-
-
-<!--HONumber=Jul16_HO4-->
-
+## <a name="recommended-documents"></a>**建议的文档**
+[已验证的 VPN 设备和 IPsec/IKE 参数](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpn-devices#validated-vpn-devices)<br>
+[使用网络观察程序通过 VPN 网关诊断本地连接](https://docs.microsoft.com/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)<br>
+[通过 VPN 连接执行 IP 流验证](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview)
 

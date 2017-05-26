@@ -13,36 +13,57 @@
     />
 
 
-# <a name="administrator-initiated-password-reset"></a>管理员发起的密码重置
+# <a name="im-having-problems-resetting-a-users-password"></a>重置用户的密码时遇到问题
 
 ## <a name="recommended-steps"></a>**建议的步骤**
-*  确保你有权执行此操作。 *只有全局、密码和用户管理员可以重置用户密码。* 全局管理员还可以重置其他特权管理员的密码。 如果你无权执行此任务，请向上述管理员之一求助，或者使用[自助密码重置服务](https://passwordreset.microsoftonline.com/)
-* 确保租户具有有效的许可证，可以使用 Azure AD 自助密码重置：
-    * Azure AD Premium 1
-    * Azure AD Premium 2
-    * 企业移动性 + 安全性 E3
-    * 企业移动性 + 安全性 E5
-    * Secure Productive Enterprise E3
-    * Secure Productive Enterprise E5
 
-有关 Azure AD 许可的最终规范（同时，始终是最新的信息源）在 [Azure Active Directory 定价页](https://azure.microsoft.com/pricing/details/active-directory/)上提供。
+**重置用户的密码时遇到问题**
 
-## <a name="recommended-steps"></a>**建议的步骤**
-1. 使用用户所在目录的全局管理员帐户登录到 Azure 门户。
-2. 选择“更多服务”，在文本框中输入“用户和组”，然后按 **Enter**。
-3. 在“用户和组”边栏选项卡中，选择“用户”。
-4. 在“用户和组 - 用户”边栏选项卡中，从列表中选择一个用户。
-5. 在所选用户的边栏选项卡中，选择“概述”，然后在命令栏中选择“重置密码”。
-6. 在“重置密码”边栏选项卡中选择“重置密码”，然后遵照屏幕说明操作。
+* 请确保你有权重置密码。 *只有全局、密码和用户管理员可以重置用户密码。* 全局管理员还可以重置其他特权管理员的密码。
 
-*注意：Office 管理门户/O365 管理移动应用不支持密码写回*
+* 请务必了解许可要求：
+  * 你在组织中必须至少分配有一个许可证
+    * **仅限云用户** - 任何 Office 365 (O365) 付费 SKU 或 Azure AD Basic
+    * **云和/或本地用户** - Azure AD Premium P1 或 P2、企业移动性 + 安全性 (EMS) 或 Secure Productive Enterprise (SPE)
+    * 若要详细了解许可要求，请参阅 [Azure AD 自助密码重置的许可要求](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)一文
 
+* 若要重置用户的密码，请在 Azure AD 中找到该用户。 然后，在该用户的概述边栏选项卡中单击“重置密码”按钮
 
+**密码重置按钮灰显**
+
+* 你无权重置**此**用户的密码。 *只有全局、密码和用户管理员可以重置用户密码。* 全局管理员还可以重置其他特权管理员的密码。
+
+**未看到密码重置边栏选项卡**
+
+* 你无权重置密码。 *只有全局、密码和用户管理员可以重置用户密码。* 全局管理员还可以重置其他特权管理员的密码。
+
+**在密码重置中未看到本地集成边栏选项卡**
+
+* 本地集成边栏选项卡只出现在混合环境中 - 这意味着，要使用密码写回处理本地用户的密码。
+
+* 在以下情况下，不会显示此边栏选项卡：
+  * 未使用密码写回
+  * 密码写回的安装/连接有问题
+  * Azure AD Connect 的安装/连接有问题
+  * 有关排查密码写回问题的详细步骤，请参阅[排查密码写回问题](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot#troubleshoot-password-writeback)部分
+
+**不知道如何重置用户的密码**
+
+1. 以相应管理员的身份登录到 Azure 门户。
+2. 转到“用户和组”边栏选项卡，然后选择“所有用户”
+3. 从列表中选择用户。
+4. 对于选定的用户，请选择“概述”，然后在命令栏中选择“重置密码”。
+5. 选择“重置密码”按钮，然后遵照屏幕说明操作。
+   * 只有通过 **Azure 门户**执行的重置才支持密码写回。
+
+**我已从 Office 365 管理门户或 Office 365 移动应用程序重置了某个本地用户的密码，但该用户仍然无法登录**
+
+* 此门户不支持密码写回。 请 Azure 门户 ([portal.azure.com](https://portal.azure.com/)) 中再次重置该用户的密码
 
 ## <a name="recommended-documents"></a>**建议的文档**
-* [从客户体验总结的重要提示](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#top-tips-from-our-customers-to-read-before-you-begin)
-* [密码管理入门](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#enable-users-to-reset-their-azure-ad-passwords)
+
+* [密码重置入门](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#enable-users-to-reset-their-azure-ad-passwords)
 * [排查管理员发起的密码重置问题](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot#troubleshoot-the-password-reset-portal)
-* [常见问题解答 - 密码管理](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-faq)
-* [你需要帮助时应包含的信息](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot#information-to-include-when-you-need-help)
+* [常见问题解答 - 密码重置](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-faq)
+* [你需要帮助时应包含的信息](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot#contact-microsoft-support)
 
