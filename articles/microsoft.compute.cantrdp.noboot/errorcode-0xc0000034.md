@@ -23,7 +23,7 @@ Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/
 <!--/issueDescription-->
 
 ## <a name="recommended-steps"></a>**建议的步骤**
-若要修复 BCD 存储，请将 OS 磁盘附加到另一个 VM，并遵循下面所述的故障排除步骤。
+若要修复 BCD 存储，请按照下面所述的故障排除步骤执行操作：
 
 1. 删除虚拟机 <!--$vmname-->[vmname]<!--/$vmname-->。 执行此操作时，请确保选择“保留磁盘”选项。
 2. 在继续保存 OS 磁盘的副本之前，选择此选项可帮助在恢复期间回滚。具体请参阅[为 Azure 中运行的专用 Windows VM 创建副本](https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-vhd-copy)

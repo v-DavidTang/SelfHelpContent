@@ -1,12 +1,12 @@
 <properties
 pageTitle="VM boot error"
-description="虚拟机无法启动并出现错误代码 0xc000007b"
+description="虚拟机无法启动并出现错误代码 0xc000000F"
 infoBubbleText="发现了启动错误。"
 service="microsoft.compute"
 resource="virtualmachines"
 authors="ram-kakani"
 displayOrder=""
-articleId="VMCannotRDP_D49207E5-874F-4731-B42C-354D8F386A47"
+articleId="VMCannotRDP-BootError-0xC000000F-MissingBinaries"
 diagnosticScenario="booterror"
 selfHelpType="diagnostics"
 supportTopicIds="32411835"
@@ -19,7 +19,7 @@ cloudEnvironments="public"
 # <a name="vm-boot-error"></a>VM 启动错误
 <!--issueDescription-->
 ## <a name="boot-error-found-for-your-virtual-machine---vmname--vmname--vmname--"></a>**发现了虚拟机 <!--$vmname-->[vmname]<!--/$vmname--> 的启动错误：**
-Microsoft Azure 已调查完你的虚拟机 (VM) **<!--$vmname-->[vmname]**<!--/$vmname-->。 我们发现，由于 Windows 无法启动并出现错误代码 **0xc000007b**，你的 VM 当前处于不可访问状态。 由于关键的系统驱动程序已损坏，无法加载操作系统。<br>
+Microsoft Azure 已调查完你的虚拟机 (VM) **<!--$vmname-->[vmname]**<!--/$vmname-->。 我们发现，由于 Windows 无法启动并出现错误代码 **0xc000000F**，你的 VM 当前处于不可访问状态。 由于关键的系统驱动程序缺失或包含错误，无法加载操作系统。<br>
 <!--/issueDescription-->
 
 ## <a name="recommended-steps"></a>**建议的步骤**
