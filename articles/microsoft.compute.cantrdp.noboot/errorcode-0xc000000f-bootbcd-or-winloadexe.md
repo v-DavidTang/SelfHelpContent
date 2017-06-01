@@ -1,12 +1,12 @@
 <properties
 pageTitle="VM boot error"
-description="虚拟机无法启动并出现错误代码 0xc000000e"
+description="虚拟机无法启动并出现错误代码 0xc000000F"
 infoBubbleText="发现了启动错误。"
 service="microsoft.compute"
 resource="virtualmachines"
 authors="Ram-Kakani"
 displayOrder=""
-articleId="VMCannotRDP_2A1E170D-E156-4E58-A8E6-F8FD820AB8A4"
+articleId="VMCannotRDP-BootError-0xC000000F-BootBCDorWinLoadexe"
 diagnosticScenario="booterror"
 selfHelpType="diagnostics"
 supportTopicIds="32411835"
@@ -19,7 +19,7 @@ cloudEnvironments="public"
 # <a name="vm-boot-error"></a>VM 启动错误
 <!--issueDescription-->
 ## <a name="boot-error-found-for-your-virtual-machine---vmname--vmname--vmname--"></a>**发现了虚拟机 <!--$vmname-->[vmname]<!--/$vmname--> 的启动错误：**
-Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/$vmname-->。 我们发现，由于 Windows 无法启动并出现错误代码 **0xc000000e**，你的 VM 当前处于不可访问状态。 如果在启动配置数据中指定一个不存在的设备，则会发生此问题。<br>
+Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/$vmname-->。 我们发现，由于 Windows 无法启动并出现错误代码 **0xc000000f**，你的 VM 当前处于不可访问状态。 如果在启动配置数据中指定一个不存在的设备，则会发生此问题。<br>
 <!--/issueDescription-->
 
 ## <a name="recommended-steps"></a>**建议的步骤**
@@ -42,7 +42,7 @@ Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/
   * “启动分区”是包含名为“Boot”的隐藏系统文件夹的分区。
   * “标识符”是在上一步骤中找到的 Windows 启动加载程序的标识符。
 
-        ```          
+        ```
           bcdedit /store [Boot partition]:\boot\bcd /set {bootmgr} device partition=[boot partition]:
           bcdedit /store [Boot partition]:\boot\bcd /set {bootmgr} integrityservices enable
           bcdedit /store [Boot partition]:\boot\bcd /set {[Identifier]} device partition=[Windows partition]:
