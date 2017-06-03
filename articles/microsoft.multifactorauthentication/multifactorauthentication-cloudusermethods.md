@@ -25,5 +25,5 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[管理云中 Azure 多重身份验证的用户设置](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-manage-users-and-devices)  
-[管理和支持用户帐户](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-faq#manage-and-support-user-accounts) 
+- [管理云中 Azure 多重身份验证的用户设置](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-manage-users-and-devices)  
+- [管理和支持用户帐户](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-faq#manage-and-support-user-accounts) 
