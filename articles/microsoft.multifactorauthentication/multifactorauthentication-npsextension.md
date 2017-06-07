@@ -8,14 +8,15 @@
     supportTopicIds="32565586" 
     productPesIds="14947" 
     cloudEnvironments="public" 
- /> 
+ />
+ 
 
 # <a name="installing-or-configuring-extensions-for-mfa-service-cloud"></a>安装或配置 MFA 服务（云）的扩展  
 ## <a name="recommended-steps"></a>**建议的步骤** 
 请遵循以下步骤，使用 Azure MFA 的 NPS 扩展排查常见方案的问题： 
 
 **ADAL 令牌错误**
-
+<!---Loc Comment: The matada seems to be incorrect--->
 1. 重新启动 NPS 服务器。 
 2. 验证是否已按预期安装了客户端证书。 
 3. 验证该证书是否与 AzureAD 上的租户关联。 

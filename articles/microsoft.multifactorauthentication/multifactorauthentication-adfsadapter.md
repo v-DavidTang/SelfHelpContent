@@ -2,8 +2,8 @@
     pageTitle="MFA Server (On-Premises)/Installing or configuring AD FS adapter"
     description="MFA 服务器（本地）/安装或配置 AD FS 适配器"
     service="microsoft.multifactorauthentication"
-    resource="Microsoft_AAD_IAM"
-    authors="yossib"
+    resource=""
+    authors="kgremban"
     displayOrder=""
     selfHelpType="generic"
     supportTopicIds="32336308"
@@ -28,10 +28,8 @@
 
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[将 Azure 多重身份验证服务器配置为与 Windows Server 2012 R2 中的 AD FS 配合使用](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-adfs-w2k12)  
-
-[将 Azure 多重身份验证服务器配置为与 AD FS 2.0 配合使用](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-adfs-adfs2)  
-
-[升级 MFA 服务器的 AD FS 适配器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-server-upgrade#upgrade-the-ad-fs-adapters) 
+- [将 Azure 多重身份验证服务器配置为与 Windows Server 2012 R2 中的 AD FS 配合使用](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-adfs-w2k12)  
+- [将 Azure 多重身份验证服务器配置为与 AD FS 2.0 配合使用](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-adfs-adfs2)  
+- [升级 MFA 服务器的 AD FS 适配器](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-server-upgrade#upgrade-the-ad-fs-adapters) 
 
 
