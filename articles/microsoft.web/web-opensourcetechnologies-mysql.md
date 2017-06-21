@@ -22,6 +22,3 @@
 [MySQL 应用内产品 Wiki](https://github.com/projectkudu/kudu/wiki/MySQL-in-app-(preview))<br>
 
 
-<!--HONumber=Nov16_HO1-->
-
-
