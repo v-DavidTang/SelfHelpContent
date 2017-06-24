@@ -15,6 +15,6 @@
 
 ## <a name="recommended-documents"></a>**建议的文档** 
 
-[云中的 Azure 多重身份验证入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-cloud)
-[多重身份验证注册策略](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection#multi-factor-authentication-registration-policy)
-[如何获取 Azure 多重身份验证](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-versions-plans#how-to-get-azure-multi-factor-authentication-1) 
+- [云中的 Azure 多重身份验证入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-cloud)
+- [多重身份验证注册策略](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection#multi-factor-authentication-registration-policy)
+- [如何获取 Azure 多重身份验证](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-versions-plans#how-to-get-azure-multi-factor-authentication-1) 

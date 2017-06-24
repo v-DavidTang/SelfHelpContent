@@ -1,19 +1,19 @@
-<properties  
-    pageTitle="Cloud-based MFA/Installing or configuring Azure MFA NPS extension" 
-    description="安装或配置 MFA 服务（云）的扩展" 
-    service="microsoft.aad" 
-    resource="Microsoft_AAD_IAM" 
-    authors="kgremban" 
+<properties
+    pageTitle="Cloud-based MFA/Installing or configuring Azure MFA NPS extension"
+    description="安装或配置 MFA 服务（云）的扩展"
+    service="microsoft.aad"
+    resource="Microsoft_AAD_IAM"
+    authors="kgremban"
     displayOrder="140"
-    selfHelpType="resource" 
-    supportTopicIds=""
+    selfHelpType="resource"
+    supportTopicIds=""
     resourceTags="mfa_overview"
-    productPesIds="" 
-    cloudEnvironments="public" 
- /> 
+    productPesIds=""
+    cloudEnvironments="public"
+/>
 
 
-# <a name="install-the-azure-mfa-nps-extension"></a>安装 Azure MFA NPS 扩展
+# <a name="installation-errors-for-the-azure-mfa-nps-extension"></a>Azure MFA NPS 扩展安装错误
 
 ## <a name="recommended-steps"></a>**建议的步骤** 
 请遵循以下步骤，使用 Azure MFA 的 NPS 扩展排查常见方案的问题： 
@@ -39,7 +39,7 @@
 1. 验证是否可以从运行 NPS 扩展的服务器访问 https://adnotifications.windowsazure.com。 
 
 ## <a name="recommended-documents"></a>**建议的文档** 
-  
-- [将现有 NPS 基础结构与 Azure 多重身份验证集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-nps-extension) 
+
+- [将现有 NPS 基础结构与 Azure 多重身份验证集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-nps-extension)
 - [解决 Azure 多重身份验证的 NPS 扩展出现的错误消息](https://review.docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-nps-errors?branch=pr-en-us-10717)
 

@@ -13,7 +13,7 @@
 />
 
 
-# <a name="radius-authentication"></a>RADIUS 身份验证
+# <a name="troubleshoot-radius-authentication-configurations"></a>排查 RADIUS 身份验证配置问题
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 

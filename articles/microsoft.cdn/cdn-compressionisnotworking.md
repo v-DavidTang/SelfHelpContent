@@ -6,21 +6,16 @@
     authors="kasparks"
     displayOrder="1"
     selfHelpType="resource"
+    resourceTags="cdnakamai, cdnverizon"
     supportTopicIds=""
-    resourceTags=""
-    productPesIds=""
+    productPesIds="15528"
     cloudEnvironments="public"
 />
 
 
-# 压缩不起作用
+# <a name="compression-is-not-working"></a>压缩不起作用
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [排查 CDN 文件压缩问题](https://azure.microsoft.com/documentation/articles/cdn-troubleshoot-compression)<br>
 [通过压缩文件来提高性能](https://azure.microsoft.com/documentation/articles/cdn-improve-performance/)
-
-
-
-<!--HONumber=Jun16_HO5-->
-
 

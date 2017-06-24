@@ -16,16 +16,16 @@
 # <a name="connectivitynetwork-connectivity-problems"></a>连接/网络连接问题
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[Azure 虚拟网络常见问题 (FAQ)](https://docs.microsoft.com/azure/virtual-network/virtual-networks-faq)<br>
+### <a name="connectivity-within-a-vnet-internetbr"></a>**VNet 中的连接与 Internet**<br>
+[使用有效的安全规则排查 VM 网络流量流问题](https://docs.microsoft.com/azure/virtual-network/virtual-network-nsg-troubleshoot-portal#using-effective-security-rules-to-troubleshoot-vm-traffic-flow)<br>
+[使用有效的路由排查 VM 流量流问题](https://docs.microsoft.com/azure/virtual-network/virtual-network-routes-troubleshoot-portal#using-effective-routes-to-troubleshoot-vm-traffic-flow)<br>
+
+### <a name="connectivity-tofrom-on-premisesbr"></a>**连接到本地/从本地连接**<br>
 [验证虚拟网络网关连接](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal#a-nameverifyconnectiona8-verify-the-vpn-connection)<br>
-[验证本地 VPN 设备和 IPsec/IKE 参数](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpn-devices#validated-vpn-devices)<br>
+[已验证的本地 VPN 设备和 IPsec/IKE 参数](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpn-devices#validated-vpn-devices)<br>
 [通过 VPN 网关诊断本地连接](https://docs.microsoft.com/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)<br>
-[如何通过 VPN 连接验证 IP 流](https://docs.microsoft.com/azure/network-watcher/network-watcher-check-ip-flow-verify-portal)<br>
-[使用 Azure 门户排查网络安全组问题](https://docs.microsoft.com/azure/virtual-network/virtual-network-nsg-troubleshoot-portal)<br>
-[使用 Azure PowerShell 排查网络安全组问题](https://docs.microsoft.com/azure/virtual-network/virtual-network-nsg-troubleshoot-powershell)<br>
-[如何使用有效的路由排查 VM 网络流量流问题](https://docs.microsoft.com/azure/virtual-network/virtual-network-routes-troubleshoot-portal)<br>
-[使用 Azure 门户配置与 VNet 的点到站点连接（常见问题解答）](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-howto-point-to-site-classic-azure-portal#faq)<br>
-[如何创建或修改 VPN 连接](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)<br>
-[对 Azure 虚拟机的远程桌面连接进行故障排除](https://docs.microsoft.com/azure/virtual-machines/windows/troubleshoot-rdp-connection#common-rdp-errors)<br>
-[Azure 虚拟机的远程桌面连接问题的高级故障排除步骤](https://docs.microsoft.com/azure/virtual-machines/windows/detailed-troubleshoot-rdp)<br>
+[通过 VPN 连接执行 IP 流验证](https://docs.microsoft.com/azure/network-watcher/network-watcher-check-ip-flow-verify-portal)<br>
+
+## <a name="recommmended-service"></a>**建议的服务**
+[使用 Azure 网络观察程序洞察 Azure 网络](https://azure.microsoft.com/services/network-watcher/)
 

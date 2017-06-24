@@ -25,6 +25,6 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[配置 AD FS 2016 和 Azure MFA](https://technet.microsoft.com/windows-server-docs/identity/ad-fs/operations/configure-ad-fs-2016-and-azure-mfa) 
-[Active Directory 应用程序代理入门](https://docs.microsoft.com/azure/active-directory/active-directory-application-proxy-get-started) 
-[使用 Azure 多重身份验证和 AD FS 保护云资源](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-adfs-cloud)
+- [配置 AD FS 2016 和 Azure MFA](https://technet.microsoft.com/windows-server-docs/identity/ad-fs/operations/configure-ad-fs-2016-and-azure-mfa) 
+- [Active Directory 应用程序代理入门](https://docs.microsoft.com/azure/active-directory/active-directory-application-proxy-get-started) 
+- [使用 Azure 多重身份验证和 AD FS 保护云资源](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-adfs-cloud)

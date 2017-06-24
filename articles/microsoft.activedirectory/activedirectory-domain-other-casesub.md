@@ -17,19 +17,17 @@
  
 ## <a name="recommended-steps"></a>**建议的步骤** 
 
-若要删除 Azure AD 租户，必须先删除目录中自定义域名的所有关联项，以及目录中的所有用户、组、应用程序与 Azure 和/或 Office 365 订阅。 删除 Azure AD 租户的操作不可逆。 驻留在该目录中的所有数据将永久被删除。 详细了解如何[删除目录](https://docs.microsoft.com/azure/active-directory/active-directory-administer)。
+1.    确保未在其他 Azure AD 租户或 Office 365 中配置你的域名。 如果已在 Office 365 中配置你的域名并尝试将该域名添加到其他 Azure AD 租户，则验证将会失败。 如果发生这种情况，请从已验证该域名的 Azure AD 租户中删除它，然后将它添加到你的 Azure AD 租户。 不能由两个不同的租户验证同一个自定义域名。
+2.    如果组织中的某人已使用 PowerBI 或 Rights Management Services (RMS) 的自助注册，他们可能已创建非托管租户。 可以使用[管理员接管](https://docs.microsoft.com/azure/active-directory/active-directory-self-service-signup)功能来管理此租户，或者在 [PowerShell](https://docs.microsoft.com/powershell/msonline/v1/confirm-msoldomain) 中使用强制接管选项添加该域。
+3.    如果尝试为联合单一登录配置自定义域名并且未设置 ADFS，则必须通过 Azure AD Connect 工具将目录中的联合设置配置为使用自定义域名。 
+4.    如果尝试删除 Azure AD 租户，请确保与所要删除的租户关联的任何 Microsoft Online Services（例如 Microsoft Azure、Office 365 或 Azure AD Premium）不存在活动的订阅。 使用 [Azure 支持和计费](https://support.office.com/article/Contact-Office-365-for-business-support-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)功能传输订阅或加急取消活动的订阅。
 
-1. 确保你是该目录的全局管理员，并且你是该目录中的唯一用户。 只有在删除所有其他用户后，才能删除该目录。 如果用户是从本地同步的，则需要关闭同步，并且必须使用 Azure 门户或 PowerShell 从云目录中删除这些用户。 
-2. 该目录中不能有任何应用程序。 只有在删除所有应用程序后，才能删除该目录。
-3. 与该目录相关联的任何 Microsoft Online Services（例如 Microsoft Azure、Office 365 或 Azure AD Premium）不存在任何订阅。 有关 Azure 订阅的详细信息，请参阅[取消 Azure 订阅](https://docs.microsoft.com/azure/active-directory/billing-how-to-cancel-azure-subscription)。
-4. 如果你是使用工作或学校帐户登录的，请务必不要尝试删除你的主目录。 例如，如果你已使用 joe@contoso.onmicrosoft.com 登录，则不能删除默认域为 contoso.onmicrosoft.com 的目录。  
-5. 不能有任何多重身份验证提供程序链接到该目录。  
+## <a name="recommended-documents"></a>**建议的文档**
 
-## <a name="recommended-documents"></a>**建议的文档** 
- 
-* [将 Azure 订阅所有权转让给其他帐户](https://docs.microsoft.com/azure/billing/billing-subscription-transfer) 
-* [添加自定义域名的子域](https://docs.microsoft.com/azure/active-directory/active-directory-domains-manage-azure-portal#add-subdomains-of-a-custom-domain)  
-* [Office 365 和 Azure AD 租户中的资源依赖关系](https://docs.microsoft.com/azure/active-directory/active-directory-licensing-directory-independence)  
-* [使用 PowerShell 或图形 API 管理域名](https://docs.microsoft.com/azure/active-directory/active-directory-domains-manage-azure-portal#use-powershell-or-graph-api-to-manage-domain-names)  
- 
- 
+* [添加自定义域名的子域](https://docs.microsoft.com/azure/active-directory/active-directory-domains-manage-azure-portal#add-subdomains-of-a-custom-domain) 
+
+* [Office 365 和 Azure AD 租户中的资源依赖关系](https://docs.microsoft.com/azure/active-directory/active-directory-licensing-directory-independence) 
+
+* [使用 PowerShell 或图形 API 管理域名](https://docs.microsoft.com/azure/active-directory/active-directory-domains-manage-azure-portal#use-powershell-or-graph-api-to-manage-domain-names) 
+
+

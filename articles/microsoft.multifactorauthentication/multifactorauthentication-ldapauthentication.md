@@ -11,7 +11,7 @@
  /> 
 
 # <a name="ldap-authentication"></a>LDAP 身份验证 
-  
+
 ## <a name="recommended-steps"></a>**建议的步骤** 
 
 请确保添加 LDAP 客户端时在 MFA 服务器中输入的 IP 地址是请求的来源 IP，尤其是要保护的设备上有多个 NIC/地址时。  使用数据包捕获应该可以查看此信息。 使用捕获还可以帮助确认通信是否通过防火墙进行。 
@@ -25,7 +25,8 @@
 - 使用测试按钮来确保正常通信。  这可以确保能够绑定。  也可以转到“用户”部分，并选择要对其测试 LDAP 身份验证的特定用户。 
 
 ## <a name="recommended-documents"></a>**建议的文档** 
-  
-[LDAP 身份验证和 Azure 多重身份验证](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-ldap) 
-[Azure MFA 服务器与 AD/LDAP 之间的目录集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-dirint)  
-[Azure MFA 服务器概述视频](https://azure.microsoft.com/resources/videos/multi-factor-authentication-server) 
+
+- [LDAP 身份验证和 Azure 多重身份验证](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-ldap) 
+- [Azure MFA 服务器与 AD/LDAP 之间的目录集成](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-server-dirint) 
+- [Azure MFA 服务器概述视频](https://azure.microsoft.com/resources/videos/multi-factor-authentication-server) 
+
