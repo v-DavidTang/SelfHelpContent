@@ -20,5 +20,8 @@
 [创建或修改 VPN 连接](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)<br>
 [已验证的本地 VPN 设备和 IPsec/IKE 参数](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpn-devices#validated-vpn-devices)<br>
 [使用 Azure 门户配置 VNet 到 VNet VPN 网关连接](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)<br>
-[虚拟网络对等互连](https://docs.microsoft.com/azure/virtual-network/virtual-network-manage-peering)
+[虚拟网络对等互连](https://docs.microsoft.com/azure/virtual-network/virtual-network-manage-peering)<br>
+
+## <a name="recommended-service"></a>**建议的服务**
+[使用 Azure 网络观察程序洞察 Azure 网络](https://azure.microsoft.com/services/network-watcher/)
 

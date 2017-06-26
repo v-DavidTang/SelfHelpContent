@@ -13,22 +13,9 @@
 />
 
 
-# 部署/FTP
+# <a name="deploymentftp"></a>部署/FTP
 
-## **建议的步骤**
-问题：使用 FTP 连接网站失败
-
-1. 请检查是否输入了正确的主机名和凭据
-2. 请检查防火墙是否阻止了端口
-    1. FTP 控制连接端口：21  
-    2. FTP 数据连接端口：989、10001-10300。
-
-## **建议的文档**
-[通过 FTP 访问文件](https://github.com/projectkudu/kudu/wiki/Accessing-files-via-ftp)<br>
-[Azure 上的文件结构](https://github.com/projectkudu/kudu/wiki/File-structure-on-azure)
-
-
-
-<!--HONumber=Oct16_HO3-->
-
+## <a name="recommended-documents"></a>**建议的文档**
+1. [通过 FTP 访问文件](https://github.com/projectkudu/kudu/wiki/Accessing-files-via-ftp)<br>
+2. [Azure 上的文件结构](https://github.com/projectkudu/kudu/wiki/File-structure-on-azure)
 

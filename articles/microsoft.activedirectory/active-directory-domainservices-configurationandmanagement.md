@@ -13,14 +13,24 @@
 
 # <a name="configuration-management-and-integration-issues"></a>配置、管理和集成问题
 
-## <a name="users-are-unable-to-sign-in-to-the-azure-ad-domain-services-managed-domain"></a>用户无法登录 Azure AD 域服务托管域
+## <a name="unable-to-complete-certain-administrative-tasks"></a>无法完成某些管理任务
 
-1.    尝试使用 UPN 格式（例如“joeuser@contoso.com”）而不是 SAMAccountName 格式（例如“CONTOSO\joeuser”）登录。 
-2.    确保根据《入门指南》中所述的步骤[启用密码同步](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-getting-started-password-sync)。
-3.    注意：确保受影响的用户帐户不是 Azure AD 租户中的外部帐户。 由于 Azure AD 域服务没有此类用户帐户的凭据，因此外部用户无法登录到托管域。
-4.    如果受影响的用户帐户是仅限云的用户帐户：确保在你启用 Azure AD 域服务之后，用户已更改其密码。 执行此步骤可以生成 Azure AD 域服务所需的凭据哈希。
-5.    如果受影响的用户帐户已从本地目录同步：确认[建议的 Azure AD Connect 版本](https://www.microsoft.com/download/details.aspx?id=47594)已配置为[执行完全同步](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-getting-started-password-sync)。
-6.    如果确认步骤 4 之后仍然出现问题，请在同步计算机上执行以下命令：1. "net stop 'Microsoft Azure AD Sync'" 2. "net start 'Microsoft Azure AD Sync'"
+“AAD DC 管理员”组的成员只被授予在托管域上执行以下任务所需的特权：
+
+1.  将计算机加入托管域。
+2.  配置托管域中”AADDC 计算机”和”AADDC 用户”容器的内置 GPO。
+3.  管理托管域上的 DNS。
+4.  在托管域上创建和管理客户组织单位 (OU)。
+5.  获取对已加入托管域的计算机的管理访问权限。 
+
+有关详细信息，请参阅[你在托管域上不拥有的管理特权](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-admin-guide-administer-domain#administrative-privileges-you-do-not-have-on-a-managed-domain)。
+
+## <a name="administrator-unable-to-sign-in-to-the-azure-ad-domain-services-managed-domain"></a>管理员无法登录 Azure AD 域服务托管域
+
+1.  尝试使用 UPN 格式（例如“joeuser@contoso.com”）而不是 SAMAccountName 格式（例如“CONTOSO\joeuser”）登录。
+2.  确保根据《入门指南》中所述的步骤[启用密码同步](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-getting-started-password-sync)。
+3.  确保所用的虚拟机已加入托管域。 
+4.  确保所用的用户帐户属于“AAD DC 管理员”组。
 
 ## <a name="recommended-documents"></a>**建议的文档**
 * [从 Azure AD 租户中删除的用户不会从托管域中删除](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-troubleshooting#users-removed-from-your-azure-ad-tenant-are-not-removed-from-your-managed-domain)

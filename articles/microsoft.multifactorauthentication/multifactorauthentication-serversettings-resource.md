@@ -13,7 +13,7 @@
 />
 
 
-# <a name="configure-settings-for-azure-mfa-server"></a>配置 Azure MFA 服务器的设置
+# <a name="problems-with-azure-mfa-server-settings"></a>Azure MFA 服务器设置问题
 
 ## <a name="recommended-steps"></a>**建议的步骤**
 

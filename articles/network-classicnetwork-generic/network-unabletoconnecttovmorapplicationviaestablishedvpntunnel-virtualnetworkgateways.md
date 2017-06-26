@@ -18,5 +18,8 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 [已验证的 VPN 设备和 IPsec/IKE 参数](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpn-devices#validated-vpn-devices)<br>
 [使用网络观察程序通过 VPN 网关诊断本地连接](https://docs.microsoft.com/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)<br>
-[通过 VPN 连接执行 IP 流验证](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview)
+[通过 VPN 连接执行 IP 流验证](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview)<br>
+
+## <a name="recommended-service"></a>**建议的服务**
+[使用 Azure 网络观察程序洞察 Azure 网络](https://azure.microsoft.com/services/network-watcher/)
 

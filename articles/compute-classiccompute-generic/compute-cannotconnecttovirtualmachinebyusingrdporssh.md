@@ -13,14 +13,12 @@
 />
 
 
-# 连接/无法使用 rdp 或 ssh 连接到虚拟机
+# <a name="connectivitycannot-connect-to-virtual-machine-by-using-rdp-or-ssh"></a>连接/无法使用 rdp 或 ssh 连接到虚拟机
 
-## **建议的文档**
+## <a name="recommended-documents"></a>**建议的文档**
 [解决常见 RDP 连接问题的快速步骤](http://go.microsoft.com/fwlink/?LinkID=690601)<br>
-[排查 RDP 连接问题的详细步骤](http://go.microsoft.com/fwlink/?LinkId=698281)
+[排查 RDP 连接问题的详细步骤](http://go.microsoft.com/fwlink/?LinkId=698281)<br>
 
-
-
-<!--HONumber=Jul16_HO4-->
-
+## <a name="recommended-service"></a>**建议的服务**
+[使用 Azure 网络观察程序洞察 Azure 网络](https://azure.microsoft.com/services/network-watcher/)
 

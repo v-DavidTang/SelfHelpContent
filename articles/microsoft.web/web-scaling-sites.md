@@ -13,14 +13,11 @@
 />
 
 
-# 配置和管理/缩放
+# <a name="configuration-and-managementscaling"></a>配置和管理/缩放
 
-## **建议的文档**
-[缩放 Web 应用](https://azure.microsoft.com/documentation/articles/web-sites-scale/)<br>
-[如何配置自动缩放](https://azure.microsoft.com/documentation/articles/cloud-services-how-to-scale/)
-
-
-
-<!--HONumber=Jul16_HO4-->
+## <a name="recommended-documents"></a>**建议的文档**
+1. [缩放 Web 应用](https://azure.microsoft.com/documentation/articles/web-sites-scale/)<br>
+2. [如何配置自动缩放](https://azure.microsoft.com/documentation/articles/cloud-services-how-to-scale/)
+3. [如何为 Azure Web 应用禁用会话关联 Cookie](https://blogs.msdn.microsoft.com/appserviceteam/2016/05/16/disable-session-affinity-cookie-arr-cookie-for-azure-web-apps/)
 
 
