@@ -29,7 +29,7 @@ Azure 平台会持续监视 VM 对 Azure 存储的读取和写入（IO 事务）
 有关存储体系结构的一般信息以及连接断开具体原因的详细信息，请参阅以下文档中的“分区服务器故障”部分：<br>
 * [Microsoft Azure 存储体系结构概述](https://blogs.msdn.microsoft.com/windowsazurestorage/2010/12/30/windows-azure-storage-architecture-overview/)<br>
  
-为了确保在 Azure 中为应用程序提供高可用性，我们建议将两个或更多虚拟机组合在一个可用性集中，并使用托管磁盘。 若要了解有关高可用性选项的详细信息，请参阅以下文章：<br>
+为了确保在 Azure 中为应用程序提供高可用性，我们建议将两个或更多虚拟机组合在一个可用性集中，并使用托管磁盘。 <br>
 若要了解有关高可用性选项的详细信息，请参阅以下文章：<br>
 * [管理虚拟机的可用性](https://azure.microsoft.com/documentation/articles/virtual-machines-manage-availability)<br>
 * [配置虚拟机的可用性](https://azure.microsoft.com/documentation/articles/virtual-machines-how-to-configure-availability)
