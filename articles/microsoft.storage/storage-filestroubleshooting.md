@@ -18,6 +18,9 @@
 ## <a name="recommended-steps"></a>**建议的步骤**
 本文列出了与 Microsoft Azure 文件存储相关的常见问题和解决方案。 
 
+**Windows 上的装载错误疑难解答**
+- [下载并运行 Windows 上的装载错误疑难解答工具](https://gallery.technet.microsoft.com/Troubleshooting-tool-for-a9fa1fe5)<br>
+
 **Windows 和 Linux 客户端中的常见问题**
 - [尝试打开文件时配额出错](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#quotaerror)<br>
 - [从 Windows 或 Linux 访问 Azure 文件存储时性能不佳](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#slowboth)<br>
@@ -38,9 +41,4 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 [排查 Azure 文件存储问题](https://docs.microsoft.com/azure/storage/storage-troubleshoot-file-connection-problems#error53)
-
-
-
-<!--HONumber=Feb17_HO2-->
-
 
