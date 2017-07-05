@@ -1,14 +1,14 @@
 <properties  
-    pageTitle="MFA Server (On-Premises)/LDAP authentication" 
-    description=" LDAP 身份验证" 
-    service="microsoft.multifactorauthentication" 
-    resource="" 
-    authors="kgremban" 
-    selfHelpType="generic" 
-    supportTopicIds="32336320" 
-    productPesIds="14947" 
-    cloudEnvironments="public" 
- /> 
+    pageTitle="MFA Server (On-Premises)/LDAP authentication" 
+    description=" LDAP 身份验证" 
+    service="microsoft.multifactorauthentication" 
+    resource="" 
+    authors="kgremban" 
+    selfHelpType="generic" 
+    supportTopicIds="32336320" 
+    productPesIds="14947" 
+    cloudEnvironments="public" 
+    /> 
 
 # <a name="ldap-authentication"></a>LDAP 身份验证 
 
