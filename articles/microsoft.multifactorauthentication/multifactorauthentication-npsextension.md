@@ -1,14 +1,14 @@
 <properties  
-    pageTitle="Cloud-based MFA/Installing or configuring Azure MFA NPS extension" 
-    description="安装或配置 MFA 服务（云）的扩展" 
-    service="microsoft.multifactorauthentication" 
-    resource="" 
-    authors="kgremban" 
-    selfHelpType="generic" 
-    supportTopicIds="32565586" 
-    productPesIds="14947" 
-    cloudEnvironments="public" 
- />
+    pageTitle="Cloud-based MFA/Installing or configuring Azure MFA NPS extension" 
+    description="安装或配置 MFA 服务（云）的扩展" 
+    service="microsoft.multifactorauthentication" 
+    resource="" 
+    authors="kgremban" 
+    selfHelpType="generic" 
+    supportTopicIds="32565586" 
+    productPesIds="14947" 
+    cloudEnvironments="public"
+    />
  
 
 # <a name="installing-or-configuring-extensions-for-mfa-service-cloud"></a>安装或配置 MFA 服务（云）的扩展  
