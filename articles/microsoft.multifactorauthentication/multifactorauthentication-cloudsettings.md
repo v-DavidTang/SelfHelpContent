@@ -1,11 +1,21 @@
-<properties pageTitle="基于云的 MFA/配置 Azure MFA 设置" description="排查 Azure MFA 设置问题" service="microsoft.multifactorauthentication" resource="" authors="kgremban" selfHelpType="generic" supportTopicIds="32570990" productPesIds="14947" cloudEnvironments="public"
+<properties  
+    pageTitle="Cloud-based MFA/Configuring Azure MFA Settings"
+    description="排查 Azure MFA 设置问题"
+    service="microsoft.multifactorauthentication"
+    resource=""
+    authors="kgremban"
+    selfHelpType="generic"
+    supportTopicIds="32570990"
+    productPesIds="14947"
+    cloudEnvironments="public"
+    />
 
-/>
 
+# 配置 Azure MFA 设置
+<a id="configuring-azure-mfa-settings" class="xliff"></a>
 
-# <a name="configuring-azure-mfa-settings"></a>配置 Azure MFA 设置
-
-## <a name="recommended-steps"></a>**建议的步骤**
+## **建议的步骤**
+<a id="recommended-steps" class="xliff"></a>
 
 1. **强制许可** – 你需要负责确保为 Azure MFA 提供适当的许可证。 Azure MFA 门户不会验证是否为选择使用 Azure MFA 保护的所有用户和管理员提供了足够的许可证。
 
@@ -13,7 +23,8 @@
 
 3. **自动 MFA 注册** – 尽管可以使用 PowerShell 来设置用户的 MFA 状态，但目前无法以编程方式为 MFA 预先注册用户的电话号码。
 
-## <a name="recommended-documents"></a>**建议的文档** 
+## **建议的文档**
+<a id="recommended-documents" class="xliff"></a> 
 
 - [云中的 Azure 多重身份验证入门](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-get-started-cloud)
 - [多重身份验证注册策略](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection#multi-factor-authentication-registration-policy)

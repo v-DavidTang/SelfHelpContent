@@ -16,7 +16,8 @@ cloudEnvironments="public"
 />
 
 
-# <a name="running-vm-has-been-detected"></a>**检测到正在运行的 VM**
+# **检测到正在运行的 VM**
+<a id="running-vm-has-been-detected" class="xliff"></a>
 <!--issueDescription-->
 Microsoft Azure 已针对存储帐户 <!--$StorageAccountName-->[StorageAccountName]<!--/$StorageAccountName--> 结束了有关删除操作的调查。 我们发现，VM <!--$vmname-->[vmname]<!--/$vmname--> 正在运行，因此无法将其删除。 只有在停止并删除该 VM 之后，才能删除存储帐户。<br>
 <!--/issueDescription-->

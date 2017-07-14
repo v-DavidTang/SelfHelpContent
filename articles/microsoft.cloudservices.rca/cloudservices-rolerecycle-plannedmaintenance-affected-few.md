@@ -15,10 +15,12 @@
     cloudEnvironments="public"
 />
 
-# <a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对你的资源运行了诊断并发现了问题
+# 我们对你的资源运行了诊断并发现了问题
+<a id="we-ran-diagnostics-on-your-resource-and-found-an-issue" class="xliff"></a>
 
 <!--issueDescription-->
-## <a name="role-recycle-incident-diagnostic-information-for---rolename--rolename--rolename--"></a>**<!--$RoleName-->RoleName<!--/$RoleName--> 的角色回收事件诊断信息：** ##
+## **角色回收事件诊断信息**
+<a id="role-recycle-incident-diagnostic-information" class="xliff"></a> ##
 
 从 **<!--$StartTime-->StartTime<!--/$StartTime--> (UTC)** 到 **<!--$EndTime-->EndTime<!--/$EndTime--> (UTC)**，角色 **<!--$RoleName-->RoleName<!--/$rolename-->** 的可用性已受到一定的影响。  在此时间范围内，实例 **<!--$ListRoleInstanceName-->ListRoleInstanceName<!--/$ListRoleInstanceName-->** 已关闭。 这一预期事件由 **Azure 启动的计划内维护操作**所致。  
 
