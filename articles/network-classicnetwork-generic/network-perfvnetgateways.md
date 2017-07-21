@@ -16,5 +16,5 @@
 # <a name="vpn-performance"></a>VPN 性能
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[验证虚拟网络的 VPN 吞吐量](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet)
+验证[虚拟网络的 VPN 吞吐量](https://docs.microsoft.com/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet)
 
