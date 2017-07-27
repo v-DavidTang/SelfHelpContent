@@ -23,7 +23,8 @@
 2. 选择“StorSimple 设备管理器”后，将显示一个边栏选项卡。 单击此边栏选项卡底部的“迁移”。
 3. 当系统提示确认时，请查看这种转移所产生的影响，然后单击“迁移”。
 
+用于迁移到 Azure 门户的选项按阶段提供。 如果看不到用于迁移到 Azure 门户的选项，但希望进行移动，并已查看[有关转移的注意事项](https://docs.microsoft.com/azure/storsimple/storsimple-8000-manage-service#considerations-for-transition)中所述的迁移的影响，则可以[提交请求](https://aka.ms/ss8000-cx-signup)。
+
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[将 StorSimple 8000 系列从经典门户转移到新的 Azure 门户](https://docs.microsoft.com/azure/storsimple/)<br>
-[如何将存储帐户从经典模型迁移到 Resource Manager 模型](https://docs.microsoft.com/azure/virtual-machines/windows/migration-classic-resource-manager-ps#step-63-migrate-a-storage-account)
+[将 StorSimple 8000 系列从经典门户转移到新的 Azure 门户](https://docs.microsoft.com/azure/storsimple/storsimple-8000-manage-service#move-a-service-to-azure-portal)
