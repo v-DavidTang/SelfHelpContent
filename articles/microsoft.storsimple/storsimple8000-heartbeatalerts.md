@@ -24,4 +24,4 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[用于排查 StorSimple 部署问题的工具](https://docs.microsoft.com/azure/storsimple/storsimple-8000-troubleshoot-deployment#tools-for-troubleshooting-storsimple-deployments)
+[用于排查 StorSimple 部署问题的工具](https://docs.microsoft.com/azure/storsimple/storsimple-8000-troubleshoot-deployment)

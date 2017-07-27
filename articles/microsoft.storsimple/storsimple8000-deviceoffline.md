@@ -21,7 +21,7 @@
 
 * Internet 连接已断开。 在设备的 Windows PowerShell 界面中，运行 *Test-HcsmConnection*。 解决报告的问题。 有关详细信息，请转到[使用 Test-HcsmConnection cmdlet 进行故障排除](https://docs.microsoft.com/azure/storsimple/storsimple-8000-troubleshoot-deployment#troubleshoot-with-the-test-hcsmconnection-cmdlet)。
 * 一个或多个网络接口有问题。 运行 *Get-NetAdapter* cmdlet，检查网络接口的运行状况。 有关详细信息，请转到[使用 Get-NetAdapter cmdlet 进行故障排除](https://docs.microsoft.com/azure/storsimple/storsimple-8000-troubleshoot-deployment#troubleshoot-with-the-get-netadapter-cmdlet)。
-* 设备已关闭。 有关详细信息，请转到[打开 StorSimple 8000 系列设备](https://docs.microsoft.com/azure/storsimple/storsimple-8000-turn-device-on-or-off)。
+* 设备已关闭。 有关详细信息，请转到[打开 StorSimple 8000 系列设备](https://docs.microsoft.com/azure/storsimple/storsimple-turn-device-on-or-off)。
 * Web 代理设置不正确。 有关详细信息，请转到[配置和查看设备的 Web 代理设置](https://docs.microsoft.com/azure/storsimple/storsimple-8000-configure-web-proxy)。
 * 设备时间可能与 Internet 时间不同步。 检查时区和 NTP 服务器设置。 运行 *Sync-HcsTime*，在 NTP 服务器上强制设备时间同步。 有关详细说明，请转到[使用 Sync-HcsTime cmdlet 进行故障排除](https://docs.microsoft.com/azure/storsimple/storsimple-8000-troubleshoot-deployment#troubleshoot-with-the-sync-hcstime-cmdlet)。
 
