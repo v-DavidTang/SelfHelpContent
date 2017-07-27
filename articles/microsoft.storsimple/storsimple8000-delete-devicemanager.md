@@ -30,4 +30,4 @@
 ## <a name="recommended-documents"></a>**建议的文档**
 
 [删除 StorSimple 设备管理器服务](https://docs.microsoft.com/azure/storsimple/storsimple-8000-manage-service#delete-a-service)<br>
-[停用和删除 StorSimple 设备](https://docs.microsoft.com/azure/storsimple/storsimple-8000-deactivate-and-delete-device#deactivate-and-delete-data)
+[停用和删除 StorSimple 设备](https://docs.microsoft.com/azure/storsimple/storsimple-8000-deactivate-and-delete-device)

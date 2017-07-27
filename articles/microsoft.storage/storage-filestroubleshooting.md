@@ -18,7 +18,8 @@
 ## <a name="recommended-steps"></a>**建议的步骤**
 本文列出了与 Microsoft Azure 文件存储相关的常见问题和解决方案。 
 
-**Windows 上的装载错误疑难解答**
+**装载错误疑难解答**
+- [用于排查 Windows 和 Linux 上的装载错误的分步引导式演练](https://support.microsoft.com/help/4022301/troubleshooter-for-azure-files-shares)<br>
 - [下载并运行 Windows 上的装载错误疑难解答工具](https://gallery.technet.microsoft.com/Troubleshooting-tool-for-a9fa1fe5)<br>
 
 **Windows 和 Linux 客户端中的常见问题**
