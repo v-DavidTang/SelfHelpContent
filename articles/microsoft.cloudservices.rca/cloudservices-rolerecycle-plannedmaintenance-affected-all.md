@@ -15,12 +15,10 @@
     cloudEnvironments="public"
 />
 
-# 我们对你的资源运行了诊断并发现了问题
-<a id="we-ran-diagnostics-on-your-resource-and-found-an-issue" class="xliff"></a>
+# <a name="we-ran-diagnostics-on-your-resource-and-found-an-issue"></a>我们对资源运行了诊断并发现了问题
 
 <!--issueDescription-->
-## **角色回收事件诊断信息**
-<a id="role-recycle-incident-diagnostic-information" class="xliff"></a> ##
+## <a name="role-recycle-incident-diagnostic-information"></a>**角色回收事件诊断信息** ##
 
 从 **<!--$StartTime-->StartTime<!--/$StartTime--> (UTC)** 到 **<!--$EndTime-->EndTime<!--/$EndTime--> (UTC)**，角色 **<!--$RoleName-->RoleName<!--/$RoleName-->** 的可用性已受到影响。  在此时间范围内，实例 **<!--$ListRoleInstanceName-->ListRoleInstanceName<!--/$ListRoleInstanceName-->** 已关闭。 这一预期事件由 **Azure 启动的计划内维护操作**所致。  
 
@@ -30,13 +28,11 @@
 * [Azure 中云服务的计划内维护](https://blogs.msdn.microsoft.com/kwill/2012/09/19/role-instance-restarts-due-to-os-upgrades/)<br>
 
 为了确保提高 Azure 中应用程序的保护和冗余级别，我们建议为每个 Web 角色\辅助角色配置两个或更多个实例。<br>
-若要详细了解可能会影响云服务可用性的计划内维护及其通知和缓解策略，请参阅以下文章：<br>
+若要详细了解可能会影响云服务可用性的计划内维护事件的类型及通知和缓解策略，请参阅以下文章：<br>
 * [角色实例因计划内维护而重启](https://blogs.msdn.microsoft.com/kwill/2012/09/19/role-instance-restarts-due-to-os-upgrades/)<br>
 
 若要详细了解以往的所有来宾 OS 版本及其相应的安全更新，请参阅以下文章：<br>
 * [来宾 OS 版本](https://docs.microsoft.com/azure/cloud-services/cloud-services-guestos-update-matrix#releases)<br>
 * [来宾 OS 上的安全更新](https://docs.microsoft.com/azure/cloud-services/cloud-services-guestos-msrc-releases)<br>
 
-订阅[来宾 OS 更新 RSS 源](https://docs.microsoft.com/azure/cloud-services/cloud-services-guestos-update-matrix)，以接收有关所有来宾 OS 更改的最新通知<br>
-
-对于这可能给你带来的任何不便，我们深表歉意。 我们将不断努力改进 Azure 平台，以提高云服务的可用性。
+对于这可能带来的任何不便，我们深表歉意。 我们将不断努力改进 Azure 平台，以提高云服务的可用性。
