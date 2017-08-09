@@ -1,4 +1,4 @@
-<properties
+﻿c<properties
     pageTitle="worker role (paas)/Deployment/Role recycles or stuck during deployment"
     description="辅助角色 (paas)/部署/部署期间的角色回收或停滞"
     service="microsoft.classiccompute"
