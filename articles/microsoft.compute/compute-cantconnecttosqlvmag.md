@@ -22,7 +22,7 @@
 [排查 Azure 中的可用性组侦听器问题](https://blogs.msdn.microsoft.com/alwaysonpro/2016/02/01/troubleshooting-availability-group-listener-in-azure/)
 
 ## **建议的文档**
-[配置 Azure 中的可用性组侦听器](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-portal-sql-server-provision/)
+[配置 Azure 中的可用性组侦听器](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-portal-sql-server-provision)
 
 
 <!--HONumber=Jul16_HO3-->
