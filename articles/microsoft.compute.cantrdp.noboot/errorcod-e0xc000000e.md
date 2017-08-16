@@ -27,7 +27,7 @@ Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/
 
 1. 删除虚拟机 <!--$vmname-->[vmname]<!--/$vmname-->。 执行此操作时，请确保选择“保留磁盘”选项。
 2. 在继续保存 OS 磁盘的副本之前，选择此选项可帮助在恢复期间回滚。具体请参阅[为 Azure 中运行的专用 Windows VM 创建副本](https://docs.azure.cn/zh-cn/virtual-machines/windows/create-vm-specialized)
-3. 将已删除的 VM 的 OS 磁盘作为数据磁盘附加到另一个 VM（故障排除 VM）。 有关详细信息，请参阅[如何在 Azure 门户中将数据磁盘附加到 Windows VM](https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-attach-disk-portal)。
+3. 将已删除的 VM 的 OS 磁盘作为数据磁盘附加到另一个 VM（故障排除 VM）。 有关详细信息，请参阅[如何在 Azure 门户中将数据磁盘附加到 Windows VM](https://docs.azure.cn/zh-cn/virtual-machines/windows/attach-disk-portal)。
 4. 连接到故障排除 VM，确保新附加的 OS 磁盘已联机并分配有驱动器号。
 5. 标识启动分区和 Windows 分区。 如果 OS 磁盘只包含一个分区，此分区即为启动分区和 Windows 分区。
   * Windows 分区包含名为“Windows”的文件夹，比其他分区大。
