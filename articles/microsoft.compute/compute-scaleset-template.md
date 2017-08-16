@@ -17,4 +17,4 @@
 
 ## <a name="recommended-documents"></a>建议的文档
 
-请参阅[此系列教程](https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-mvss-start)，其中演练了一个“最小的可行规模集”模板，并演示如何根据各种常见方案扩展该模板。
+请参阅[此系列教程](https://docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-mvss-start)，其中演练了一个“最小的可行规模集”模板，并演示如何根据各种常见方案扩展该模板。

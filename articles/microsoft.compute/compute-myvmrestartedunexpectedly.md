@@ -21,10 +21,10 @@
 
 1. 查看重新启动时间段内的[审核日志](data-blade:Microsoft_Azure_Insights.AzureDiagnosticsBladeWithParameter)以确定原因
 2. 使用“可用性集”来降低停机事件造成的影响 <br>
-[管理虚拟机的可用性 ](https://azure.microsoft.com/documentation/articles/virtual-machines-manage-availability/)
+[管理虚拟机的可用性 ](https://docs.azure.cn/zh-cn/virtual-machines/windows/manage-availability/)
 
 ## **建议的文档**
-[Planned maintenance for Azure virtual machines（Azure 虚拟机的计划内维护）](https://azure.microsoft.com/documentation/articles/virtual-machines-planned-maintenance/) <br>
+[Planned maintenance for Azure virtual machines（Azure 虚拟机的计划内维护）](https://docs.azure.cn/zh-cn/virtual-machines/linux/planned-maintenance/) <br>
 [View and analyze Azure Audit Logs in Power BI and more（在 Power BI 和其他组件中查看和分析 Azure 审核日志）](https://azure.microsoft.com/blog/analyze-azure-audit-logs-in-powerbi-more/)
 
 

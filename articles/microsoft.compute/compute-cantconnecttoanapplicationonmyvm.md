@@ -26,8 +26,8 @@
 尝试从虚拟网络外部的计算机访问该应用程序。 如果无法访问，请检查外部负载平衡器配置、终结点（TCP 或 UDP）、[网络安全组](data-blade:Microsoft_Azure_Network.EffectiveSecurityRulesBlade)和 NAT 配置。
 
 ## **建议的文档**
-[About network security groups（关于网络安全组）](https://azure.microsoft.com/documentation/articles/virtual-networks-nsg/) <br>
-[Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-access-application/)
+[About network security groups（关于网络安全组）](https://docs.azure.cn/zh-cn/virtual-network/virtual-networks-nsg/) <br>
+[Troubleshoot access to an application running on an azure virtual machine（对在 Azure 虚拟机上运行的应用程序的访问进行故障排除）](https://docs.azure.cn/zh-cn/virtual-machines/linux/troubleshoot-app-connection/)
 
 
 

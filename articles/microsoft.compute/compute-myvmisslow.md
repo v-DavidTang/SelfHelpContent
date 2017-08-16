@@ -23,12 +23,12 @@
 3. 查看操作系统级别的度量值，如 CPU、内存使用量、IO 和网络，以确定是否有任何资源的利用率一贯较高 <br>
 在 Windows 上，使用 Perfmon 工具。 在 Linux 上，使用 Top、VmStat、 Lsof 和 Tcpdump 等命令。
 4. 在 Azure 门户中使用 VM 诊断和存储诊断来识别是否有任何资源被过度使用或受到限制 <br>
-[启用诊断，监视、识别并解决 Azure VM 和存储的问题](http://aka.ms/azurevmperf)
+[启用诊断，监视、识别并解决 Azure VM 和存储的问题](https://support.microsoft.com/zh-cn/help/3150851/generic-performance-troubleshooting-for-azure-virtual-machine-running)
 5. 通过[重新部署](data-blade:Microsoft_Azure_Compute.VirtualMachineRedeploy) VM（将其迁移到新的 Azure 主机）来解决任何 Azure 主机问题。
 6. 在 VM 资源的“设置”边栏选项卡中单击“大小”，将虚拟机扩展到其他 VM 类型或系列以提高性能
 7. 如果该虚拟机用于 I/O 密集型方案，请考虑使用高级存储帐户 <br>
-[高级存储：适用于 Azure 虚拟机工作负荷的高性能存储](https://azure.microsoft.com/documentation/articles/storage-premium-storage-preview-portal/)
+[高级存储：适用于 Azure 虚拟机工作负荷的高性能存储](https://docs.azure.cn/zh-cn/storage/storage-premium-storage/)
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[Detailed troubleshooting of Azure Storage](https://azure.microsoft.com/documentation/articles/storage-monitoring-diagnosing-troubleshooting/)（Azure 存储的详细疑难解答）
+[Detailed troubleshooting of Azure Storage](https://docs.azure.cn/zh-cn/storage/storage-monitoring-diagnosing-troubleshooting/)（Azure 存储的详细疑难解答）
 

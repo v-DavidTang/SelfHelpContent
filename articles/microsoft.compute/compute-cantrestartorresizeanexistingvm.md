@@ -20,12 +20,12 @@
 
 1. 查看[审核日志](data-blade:Microsoft_Azure_Insights.AzureDiagnosticsBladeWithParameter)以确定失败原因。
 2. 根据错误代码查找建议的操作。 <br>
-[根据有关调整大小和重新启动的错误代码进行故障排除](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/#error-string-lookup)
+[根据有关调整大小和重新启动的错误代码进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/windows/classic/troubleshoot-deployment-new-vm)
 3. 尝试使用较小的 VM 或不同的云服务来执行请求。 如果使用不同的云服务，请参考以下文章。 <br>
 [Configure regional Virtual Network to connect Cloud services（配置区域虚拟网络以连接云服务）](https://azure.microsoft.com/blog/vnet-to-vnet-connecting-virtual-networks-in-azure-across-different-regions/)
 
 ## **建议的文档**
-[Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://azure.microsoft.com/documentation/articles/virtual-machines-allocation-failure/)
+[Troubleshooting allocation failure when you create, restart or resize a VM in Azure（在 Azure 中创建、重新启动 VM 或调整其大小时排查分配失败问题）](https://docs.azure.cn/zh-cn/virtual-machines/windows/classic/troubleshoot-deployment-new-vm/)
 
 
 <!--HONumber=Sep16_HO3-->

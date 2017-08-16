@@ -26,9 +26,9 @@
 5. 单击 VM 资源边栏选项卡顶部的“重新启动”来重新启动虚拟机，以解决启动问题
 6. 通过[重新部署](data-blade:Microsoft_Azure_Compute.VirtualMachineRedeploy)（将 VM 迁移到新的 Azure 主机）来解决 Azure 主机问题
 7. 如果你收到了 RDP 许可证错误，请使用“mstsc/admin”来解决错误。 如果需要，请卸载或购买 RDS 许可证。 <br>
-[解决远程桌面许可证服务器错误](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense)
+[解决远程桌面许可证服务器错误](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-specific-rdp-errors#rdplicense)
 
 ###<a name="recommended-documents"></a>**建议的文档**
-[排查特定的远程桌面连接错误](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#troubleshoot-specific-remote-desktop-connection-errors) <br>
-[网络组件的详细故障排除步骤](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/)
+[排查特定的远程桌面连接错误](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection) <br>
+[网络组件的详细故障排除步骤](https://docs.azure.cn/zh-cn/virtual-machines/windows/detailed-troubleshoot-rdp/)
 

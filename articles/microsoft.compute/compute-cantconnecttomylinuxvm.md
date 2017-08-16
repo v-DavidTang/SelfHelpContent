@@ -29,7 +29,7 @@
  7. 通过[重新部署](data-blade:Microsoft_Azure_Compute.VirtualMachineRedeploy)（将 VM 迁移到新的 Azure 主机）来解决任何 Azure 主机问题
   
 ## **建议的文档**
-[Detailed troubleshooting of SSH errors（针对 SSH 错误的详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-ssh-connections/#detailed-troubleshooting-of-ssh-errors) <br>
+[Detailed troubleshooting of SSH errors（针对 SSH 错误的详细疑难解答）](https://docs.azure.cn/zh-cn/virtual-machines/linux/detailed-troubleshoot-ssh-connection) <br>
 [Automate Linux VM Customization Tasks Using CustomScript Extension（使用 CustomScript 扩展自动执行 Linux VM 自定义任务）](https://azure.microsoft.com/blog/automate-linux-vm-customization-tasks-using-customscript-extension/)
 
 
