@@ -24,7 +24,7 @@
 
 ## **建议的文档**
 [将数据库迁移到 Azure VM 上的 SQL Server](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-migrate-sql)<br>
-[从 License Mobility 到 Azure](https://azure.microsoft.com/pricing/license-mobility/)
+[从 License Mobility 到 Azure](https://www.azure.cn/zh-cn/pricing/license-mobility/)
 
 
 <!--HONumber=Aug16_HO2-->
