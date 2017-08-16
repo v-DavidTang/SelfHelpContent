@@ -21,14 +21,14 @@
 1. 查看 VM 的[控制台屏幕截图](data-blade:Microsoft_Azure_Compute.VirtualMachineSerialConsoleLogBlade)以更正启动问题
 2. 使用 [IP 流验证](data-blade:microsoft_azure_network.verifyipflowblade)来确认网络安全组中的规则是否阻止了传入或传出虚拟机的流量。 还可以查看[有效的安全组规则](data-blade:Microsoft_Azure_Network.EffectiveSecurityRulesBlade)，确保入站“允许”NSG 规则存在并已针对 RDP 端口（默认值 3389）进行优化
 3. 重置远程访问以解决远程服务器问题 <br>
-[使用 PowerShell 或 CLI 重置远程访问](http://aka.ms/resetsarmwinremoteaccess)
+[使用 PowerShell 或 CLI 重置远程访问](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection)
 4. 在启用强制隧道的情况下，可能无法使用 RDP 通过 Internet 连接到 VM。 请查看[有效的路由](data-blade:Microsoft_Azure_Network.EffectiveRoutesBlade)。 使用强制隧道时，发往 Internet 的所有出站流量将重定向到本地
 5. 单击 VM 资源边栏选项卡顶部的“重新启动”来重新启动虚拟机，以解决启动问题
 6. 通过[重新部署](data-blade:Microsoft_Azure_Compute.VirtualMachineRedeploy)（将 VM 迁移到新的 Azure 主机）来解决 Azure 主机问题
 7. 如果你收到了 RDP 许可证错误，请使用“mstsc/admin”来解决错误。 如果需要，请卸载或购买 RDS 许可证。 <br>
-[解决远程桌面许可证服务器错误](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense)
+[解决远程桌面许可证服务器错误](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-specific-rdp-errors#rdplicense)
 
 ###<a name="recommended-documents"></a>**建议的文档**
-[排查特定的远程桌面连接错误](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#troubleshoot-specific-remote-desktop-connection-errors) <br>
-[网络组件的详细故障排除步骤](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/)
+[排查特定的远程桌面连接错误](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection#排查特定的-rdp-错误) <br>
+[网络组件的详细故障排除步骤](https://docs.azure.cn/zh-cn/virtual-machines/windows/detailed-troubleshoot-rdp)
 
