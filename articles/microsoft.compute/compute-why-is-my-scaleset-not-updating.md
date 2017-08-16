@@ -1,4 +1,4 @@
-<properties
+﻿<properties
     pageTitle="Why is my scale set not updating"
     description="我的规模集为何不更新"
     service="microsoft.compute"
@@ -19,7 +19,7 @@
 
 ## <a name="recommended-documents"></a>建议的文档
 
-有关更新规模集的详细信息，请参阅[此文档](https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-deploy-app)，其中介绍了如何在规模集上部署、管理和升级应用。
+有关更新规模集的详细信息，请参阅[此文档](https://docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-deploy-app)，其中介绍了如何在规模集上部署、管理和升级应用。
 
 
 
