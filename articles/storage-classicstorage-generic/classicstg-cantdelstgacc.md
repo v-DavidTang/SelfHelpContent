@@ -23,12 +23,12 @@
 
 如果存储帐户使用经典部署模型，你可以通过执行以下步骤来删除虚拟机磁盘：
 
-1. 导航到 [Azure 经典门户](https://manage.windowsazure.com/)
+1. 导航到 [Azure 经典门户](https://manage.windowsazure.cn/)
 2. 选择“虚拟机”>“磁盘”。
 3. 找到与你想要删除的存储帐户、容器或 VHD 关联的磁盘。 通过检查磁盘的位置，你将会找到关联的存储帐户、容器或 VHD。
 4. 选择你的数据磁盘，然后单击“删除磁盘”。
 5. 若要删除磁盘映像，请导航到“映像”选项卡，然后删除存储在帐户中的任何映像。
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[删除存储帐户时出现问题](http://go.microsoft.com/fwlink/?LinkId=785085)
+[删除存储帐户时出现问题](https://docs.azure.cn/zh-cn/storage/storage-resource-manager-cannot-delete-storage-account-container-vhd)
 
