@@ -16,7 +16,7 @@
 # 配置和设置/导入/导出服务：技术问题
 
 ## **建议的文档**
-[如何准备导入/导出作业？](http://go.microsoft.com/fwlink/?LinkId=785089)
+[如何准备导入/导出作业？](https://docs.azure.cn/zh-cn/storage/storage-import-export-service#create-an-import-job-in-the-classic-portal)
 
 
 
