@@ -24,10 +24,10 @@
 部署到新的云服务往往可以在容量足够的新群集上继续部署。 如果成功，请更新 DNS，使其指向新的云服务。 
 3. 删除生产和过渡槽，然后重新部署到现有云服务。<br>
 新部署将转到具有足够容量的群集。 但是，在新部署准备就绪之前，会发生重新部署。 
-4. 删除地缘组并 [迁移到区域虚拟网络] (https://azure.microsoft.com/documentation/articles/virtual-networks-migrate-to-regional-vnet/)
+4. 删除地缘组并 [迁移到区域虚拟网络] (https://docs.azure.cn/zh-cn/virtual-network/virtual-networks-migrate-to-regional-vnet/)
  
 ## **建议的文档**
-[关于云服务分配失败](https://azure.microsoft.com/documentation/articles/cloud-services-allocation-failures/) <br>
+[关于云服务分配失败](https://docs.azure.cn/zh-cn/cloud-services/cloud-services-allocation-failures/) <br>
 [关于常规分配失败](https://azure.microsoft.com/blog/allocation-failure-and-remediation/)
 
 
