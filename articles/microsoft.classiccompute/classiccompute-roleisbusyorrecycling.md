@@ -20,12 +20,12 @@
 1. [在此处查看详细错误消息] (data-blade:Microsoft_Azure_CloudServices.cloudServiceStatusMessageBlade) 获取有关错误消息的详细信息。 <br>
 
 2. 检查详细错误消息是否与导致角色 **忙碌** 或 **正在回收** 的常见问题相符： <br>
-  * [角色在初始化或停止时引发未经处理的异常] (https://blogs.msdn.microsoft.com/kwill/2013/08/20/troubleshooting-scenario-1-role-recycling/) <br>
-  * [导致“忙碌”状态的启动任务] (https://blogs.msdn.microsoft.com/kwill/2013/09/06/troubleshooting-scenario-3-role-stuck-in-busy/) <br>
+  * [角色在初始化或停止时引发未经处理的异常](https://blogs.msdn.microsoft.com/kwill/2013/08/20/troubleshooting-scenario-1-role-recycling/) <br>
+  * [导致“忙碌”状态的启动任务](https://blogs.msdn.microsoft.com/kwill/2013/09/06/troubleshooting-scenario-3-role-stuck-in-busy/) <br>
   * [启动任务在正常运行一段时间后导致“正在回收”状态](https://blogs.msdn.microsoft.com/kwill/2013/08/26/troubleshooting-scenario-2-role-recycling-after-running-fine-for-2-weeks/) <br>
-  * [缺少运行时依赖项] (https://blogs.msdn.microsoft.com/kwill/2013/10/03/troubleshooting-scenario-7-role-recycling/) <br>
-  * [清理/删除文件失败导致角色回收] (https://blogs.msdn.microsoft.com/kwill/2013/09/23/troubleshooting-scenario-6-role-recycling-after-running-for-some-time/) <br>
-  * [角色从 Run 方法返回，但应无限期阻塞] (https://msdn.microsoft.com/library/microsoft.windowsazure.serviceruntime.roleentrypoint.run.aspx) <br>
+  * [缺少运行时依赖项](https://blogs.msdn.microsoft.com/kwill/2013/10/03/troubleshooting-scenario-7-role-recycling/) <br>
+  * [清理/删除文件失败导致角色回收](https://blogs.msdn.microsoft.com/kwill/2013/09/23/troubleshooting-scenario-6-role-recycling-after-running-for-some-time/) <br>
+  * [角色从 Run 方法返回，但应无限期阻塞](https://msdn.microsoft.com/library/microsoft.windowsazure.serviceruntime.roleentrypoint.run.aspx) <br>
 
 有关如何排查此类问题的详细信息，请参阅以下链接：<br>
 
