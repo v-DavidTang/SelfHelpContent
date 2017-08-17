@@ -17,8 +17,8 @@
 
 
 ## **建议的文档**
-[解决常见 RDP 连接问题的快速步骤 ](http://go.microsoft.com/fwlink/?LinkID=690601) <br>
-[排查应用程序终结点连接和访问问题](http://go.microsoft.com/fwlink/?LinkId=698283)
+[解决常见 RDP 连接问题的快速步骤 ](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection#common-rdp-errors) <br>
+[排查应用程序终结点连接和访问问题](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-app-connection)
  
 
 
