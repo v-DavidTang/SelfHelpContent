@@ -23,11 +23,11 @@
 3. 单击 VM 资源边栏选项卡顶部的“重新启动”来重新启动虚拟机，以解决启动问题
 4. 在 VM 资源的“设置”边栏选项卡中单击“大小”来调整 VM 大小，以解决主机问题
 5. 重置 SSH 配置以解决任何 SSH 问题 <br>
-[使用 CLI 重置 SSH](https://azure.microsoft.com/documentation/articles/virtual-machines-linux-use-vmaccess-reset-password-or-ssh/#sshconfigresetcli)
+[使用 CLI 重置 SSH](https://docs.azure.cn/zh-cn/virtual-machines/linux/classic/reset-access#sshconfigresetcli)
 
 ## **建议的文档**
-[Detailed troubleshooting of SSH errors（针对 SSH 错误的详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-ssh-connections/#detailed-troubleshooting-of-ssh-errors) <br>
-[Automate Linux VM Customization Tasks Using CustomScript Extension（使用 CustomScript 扩展自动执行 Linux VM 自定义任务）](https://azure.microsoft.com/blog/automate-linux-vm-customization-tasks-using-customscript-extension/)
+[Detailed troubleshooting of SSH errors（针对 SSH 错误的详细疑难解答）](https://docs.azure.cn/zh-cn/virtual-machines/linux/troubleshoot-ssh-connection#detailed-troubleshooting-of-ssh-errors) <br>
+[Automate Linux VM Customization Tasks Using CustomScript Extension（使用 CustomScript 扩展自动执行 Linux VM 自定义任务）](https://www.azure.cn/blog/2014/09/11/automate-linux-vm-customization-tasks-using-customscript-extension/)
 
 
 
