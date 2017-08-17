@@ -20,7 +20,7 @@
 2. 将缩放 **TimeWindow**（持续时间）设置为 30 分钟或以上。
 
 ## **建议的文档**
-[关于缺少监视数据] (https://social.msdn.microsoft.com/Forums/azure/bc2048c4-8d49-4c54-b150-f263808c4b7a/notification-could-not-automatically-scale-xxx-because-monitoring-data-was-not-found?forum=windowsazuremanagement) <br>
+[关于缺少监视数据](https://social.msdn.microsoft.com/Forums/azure/bc2048c4-8d49-4c54-b150-f263808c4b7a/notification-could-not-automatically-scale-xxx-because-monitoring-data-was-not-found?forum=windowsazuremanagement) <br>
 
 
 <!--HONumber=Oct16_HO2-->
