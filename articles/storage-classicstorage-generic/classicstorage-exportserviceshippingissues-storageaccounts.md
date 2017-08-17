@@ -16,7 +16,7 @@
 # 配置和设置/导入/导出服务：传送问题
 
 ## **建议的文档**
-[我的导入/导出传送状态为何不正确？](http://go.microsoft.com/fwlink/?LinkId=785090)
+[我的导入/导出传送状态为何不正确？](https://docs.azure.cn/zh-cn/storage/storage-import-export-service#track-job-status-in-the-classic-portal)
 
 
 
