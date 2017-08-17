@@ -11,4 +11,4 @@
 
 # <a name="storage-development"></a>存储开发
 * 最近出现问题的日期和时间（最佳估计）
-* [请求 ID](https://docs.microsoft.com/azure/storage/storage-monitoring-diagnosing-troubleshooting#server-request-id)
+* [请求 ID](https://docs.azure.cn/zh-cn/storage/storage-monitoring-diagnosing-troubleshooting#server-request-id)
