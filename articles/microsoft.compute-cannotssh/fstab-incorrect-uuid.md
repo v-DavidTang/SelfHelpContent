@@ -27,10 +27,10 @@ Microsoft Azure 已调查完你的虚拟机 (VM) <!--$vmname-->**[vmname]**<!--/
 ## <a name="recommended-steps"></a>**建议的步骤**
 若要恢复该虚拟机，请遵循以下步骤：
 
-1. 将 OS 磁盘附加到恢复 VM。 若要执行此操作，请查看以下 Azure 文章，并遵循从最开头到*修复原始虚拟硬盘上的问题*部分的所有步骤：[通过使用 Azure CLI 将 OS 磁盘附加到恢复 VM 来对 Linux VM 进行故障排除](https://docs.microsoft.com/azure/virtual-machines/virtual-machines-linux-troubleshoot-recovery-disks)。
+1. 将 OS 磁盘附加到恢复 VM。 若要执行此操作，请查看以下 Azure 文章，并遵循从最开头到*修复原始虚拟硬盘上的问题*部分的所有步骤：[通过使用 Azure CLI 将 OS 磁盘附加到恢复 VM 来对 Linux VM 进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/linux/troubleshoot-recovery-disks)。
 
 2. 在新 VM 上将 OS 磁盘装载为数据磁盘后，请在恢复 VM 上使用文本编辑器更正 fstab 文件。 有关更正 Azure Linux 虚拟机中 fstab 问题的详细信息，请参阅：[Azure Linux VM 由于 fstab 错误而无法启动](https://support.microsoft.com/help/3206699)。
 
-3. 解决 fstab 问题后，返回到[通过使用 Azure CLI 将 OS 磁盘附加到恢复 VM 来对 Linux VM 进行故障排除](https://docs.microsoft.com/azure/virtual-machines/virtual-machines-linux-troubleshoot-recovery-disks)，然后重新参阅*卸载并分离原始虚拟硬盘*部分中的步骤来重新创建原始 VM。
+3. 解决 fstab 问题后，返回到[通过使用 Azure CLI 将 OS 磁盘附加到恢复 VM 来对 Linux VM 进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/linux/troubleshoot-recovery-disks)，然后重新参阅*卸载并分离原始虚拟硬盘*部分中的步骤来重新创建原始 VM。
 
 
