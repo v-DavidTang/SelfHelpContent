@@ -31,5 +31,5 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 [Azure PaaS 计算诊断数据](http://blogs.msdn.com/b/kwill/archive/2013/08/09/windows-azure-paas-compute-diagnostics-data.aspx) <br>
-[导致角色回收的常见问题](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle/) <br>
+[导致角色回收的常见问题](https://docs.azure.cn/zh-cn/cloud-services/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle/) <br>
 
