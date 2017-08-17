@@ -12,4 +12,4 @@
 # <a name="storage-performance"></a>存储性能
 * 指示此问题是间歇性的还是反复出现的 
 * 最近出现问题的日期和时间（最佳估计）
-* [请求 ID](https://docs.microsoft.com/azure/storage/storage-monitoring-diagnosing-troubleshooting#server-request-id)
+* [请求 ID](https://docs.azure.cn/zh-cn/storage/storage-monitoring-diagnosing-troubleshooting#server-request-id)
