@@ -27,9 +27,9 @@
 5. 在 VM 资源的“设置”边栏选项卡中单击“大小”来调整 VM 大小，以解决任何主机问题
 
 ## **建议的文档**
-[Troubleshoot specific Remote Desktop connection errors（排查特定的远程桌面连接错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#troubleshoot-specific-remote-desktop-connection-errors) <br>
-[Detailed troubleshooting across network components（网络组件详细疑难解答）](https://azure.microsoft.com/documentation/articles/virtual-machines-rdp-detailed-troubleshoot/) <br>
-[Address Remote Desktop License Server error（解决远程桌面许可证服务器错误）](https://azure.microsoft.com/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/#rdplicense) 
+[Troubleshoot specific Remote Desktop connection errors（排查特定的远程桌面连接错误）](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection#troubleshoot-specific-remote-desktop-connection-errors) <br>
+[Detailed troubleshooting across network components（网络组件详细疑难解答）](https://docs.azure.cn/zh-cn/virtual-machines/windows/detailed-troubleshoot-rdp/) <br>
+[Address Remote Desktop License Server error（解决远程桌面许可证服务器错误）](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-specific-rdp-errors#rdplicense) 
 
 
 
