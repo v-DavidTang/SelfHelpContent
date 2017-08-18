@@ -17,9 +17,9 @@
 
 ## <a name="recommended-documents"></a>**建议的文档**
 [解决与 SQL Server 的连接错误](https://support.microsoft.com/help/4009936/solving-connectivity-errors-to-sql-server)<br>
-[连接到 Azure VM 上的 SQL Server 虚拟机](https://azure.microsoft.com/documentation/articles/virtual-machines-sql-server-connectivity-resource-manager/)<br>
+[连接到 Azure VM 上的 SQL Server 虚拟机](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-sql-connect/)<br>
 [SQL Server 连接驱动程序](https://msdn.microsoft.com/library/mt654049.aspx)<br>
-[对运行 Windows 的 Azure 虚拟机的远程桌面连接进行故障排除](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-troubleshoot-rdp-connection/)<br>
-[对在 Azure 虚拟机上运行的应用程序的访问进行故障排除](https://azure.microsoft.com/documentation/articles/virtual-machines-linux-troubleshoot-app-connection/)
+[对运行 Windows 的 Azure 虚拟机的远程桌面连接进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection/)<br>
+[对在 Azure 虚拟机上运行的应用程序的访问进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/linux/troubleshoot-app-connection/)
 
 
