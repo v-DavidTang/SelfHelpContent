@@ -16,5 +16,5 @@
 # <a name="connectivityother-issues-with-sql-server"></a>连接/其他 SQL Server 问题
 
 ## <a name="recommended-documents"></a>**建议的文档**
-[Azure 虚拟机中的 SQL Server 常见问题](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-sql-server-iaas-faq/?rnd=1)
+[Azure 虚拟机中的 SQL Server 常见问题](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-faq)
 
