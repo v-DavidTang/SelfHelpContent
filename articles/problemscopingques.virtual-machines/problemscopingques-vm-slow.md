@@ -114,7 +114,7 @@
             "id": "learn_more_text",
             "order": 6,
             "controlType": "infoblock",
-            "content": "<a href='https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-sizes?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json'>详细了解</a> IOPS（每秒输入/输出操作）的虚拟机规范和我们建议的基准测试工具"
+            "content": "<a href='https://docs.azure.cn/zh-cn/virtual-machines/windows/sizes'>详细了解</a> IOPS（每秒输入/输出操作）的虚拟机规范和我们建议的基准测试工具"
         }
     ]
 }
