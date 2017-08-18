@@ -23,7 +23,7 @@
 
 ## **建议的文档**
 [排查 Azure VM 中的可用性组侦听器问题](https://blogs.msdn.microsoft.com/alwaysonpro/2016/02/01/troubleshooting-availability-group-listener-in-azure/)<br>
-[在 Azure 中配置 AlwaysOn 可用性组的 ILB 侦听器](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-portal-sql-server-provision/)<br>
+[在 Azure 中配置 AlwaysOn 可用性组的 ILB 侦听器](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-portal-sql-server-provision/)<br>
 [排查 AlwaysOn 问题](https://support.microsoft.com/help/10179/troubleshooting-alwayson-issues)<br>
 [在 Azure Resource Manager 虚拟机 (GUI) 中配置 AlwaysOn 可用性组](http://azure.microsoft.com/documentation/articles/virtual-machines-windows-portal-sql-alwayson-availability-groups/)
 
