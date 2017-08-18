@@ -21,11 +21,11 @@
 1. 通过安装向导安装 SQL Server<br>
 [通过安装向导安装 SQL Server](https://aka.ms/installsql2014)
 2. 转换为 VM、上载到 URL 并部署为新的 VM<br>
-[将 SQL Server 数据库迁移到 Azure VM 中的 SQL Server](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-migrate-sql/#convert-to-vm-and-upload-to-url-and-deploy-as-new-vm)
+[将 SQL Server 数据库迁移到 Azure VM 中的 SQL Server](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-migrate-sql#convert-to-vm-and-upload-to-url-and-deploy-as-new-vm)
 
 ## **建议的文档**
 [Microsoft SQL Server 2014 许可指南](http://download.microsoft.com/download/B/4/E/B4E604D9-9D38-4BBA-A927-56E4C872E41C/SQL_Server_2014_Licensing_Guide.pdf)<br>
-[Azure 虚拟机中的 SQL Server 常见问题](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-sql-server-iaas-faq/?rnd=1)
+[Azure 虚拟机中的 SQL Server 常见问题](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-faq)
 
 
 
