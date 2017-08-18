@@ -18,4 +18,4 @@
  
 ## <a name="recommended-documents"></a>**建议的文档**
 
-[Azure 虚拟机 (Resource Manager) 中 SQL Server 的自动备份](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-sql-automated-backup)
+[Azure 虚拟机 (Resource Manager) 中 SQL Server 的自动备份](https://docs.azure.cn/zh-cn/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-backup)
