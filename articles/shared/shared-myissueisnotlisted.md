@@ -21,7 +21,7 @@
 * 通过 [Azure 论坛](https://azure.microsoft.com/support/forums/)获取 Azure 专家的解答
 * 连接到 [@AzureSupport](https://twitter.com/azuresupport) – Microsoft Azure 官方帐户，它可以将 Azure 社区引导至适当的资源来改进客户体验：提供解答、支持和专业化服务。
 * 检查 Azure 的[服务运行状况](data-blade:hubsextension.serviceshealthblade)
-* 浏览 [Azure 文档](https://azure.microsoft.com/documentation/)
+* 浏览 [Azure 文档](https://docs.azure.cn/zh-cn/)
 
 
 
