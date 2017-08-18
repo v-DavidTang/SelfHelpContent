@@ -16,7 +16,7 @@
 # 连接/管理
 
 ## **建议的文档**
-[连接到 Azure VM 上的 SQL Server 虚拟机](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-classic-sql-connect/)<br>
+[连接到 Azure VM 上的 SQL Server 虚拟机](https://docs.azure.cn/zh-cn/virtual-machines/windows/sqlclassic/virtual-machines-windows-classic-sql-connect/)<br>
 [SQL Server 连接驱动程序](https://msdn.microsoft.com/library/mt654049.aspx)
 
 
