@@ -16,7 +16,7 @@
 # 性能/网络速度缓慢
 
 ## **建议的文档**
-[对运行 Windows 的 Azure 虚拟机的远程桌面连接进行故障排除](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-troubleshoot-rdp-connection/)
+[对运行 Windows 的 Azure 虚拟机的远程桌面连接进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection/)
 
 
 
