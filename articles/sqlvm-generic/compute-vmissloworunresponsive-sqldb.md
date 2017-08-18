@@ -16,10 +16,10 @@
 # 性能/VM 运行缓慢或无响应
 
 ## **建议的文档**
-[运行 Linux 或 Windows 的 Azure 虚拟机常规性能故障排除](https://support.microsoft.com/kb/3150851)<br>
-[监视、诊断和排查 Microsoft Azure 存储空间问题](https://azure.microsoft.com/documentation/articles/storage-monitoring-diagnosing-troubleshooting/)<br>
+[运行 Linux 或 Windows 的 Azure 虚拟机常规性能故障排除](https://support.microsoft.com/zh-cn/help/3150851/generic-performance-troubleshooting-for-azure-virtual-machine-running)<br>
+[监视、诊断和排查 Microsoft Azure 存储空间问题](https://docs.azure.cn/zh-cn/storage/storage-monitoring-diagnosing-troubleshooting/)<br>
 [配置 Azure 虚拟机以获得最佳存储性能](https://blogs.msdn.microsoft.com/mast/2014/10/14/configuring-azure-virtual-machines-for-optimal-storage-performance/)<br>
-[对运行 Windows 的 Azure 虚拟机的远程桌面连接进行故障排除](https://azure.microsoft.com/documentation/articles/virtual-machines-windows-troubleshoot-rdp-connection/)
+[对运行 Windows 的 Azure 虚拟机的远程桌面连接进行故障排除](https://docs.azure.cn/zh-cn/virtual-machines/windows/troubleshoot-rdp-connection/)
 
 
 
